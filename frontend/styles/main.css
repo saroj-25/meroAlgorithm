@@ -1,0 +1,61 @@
+/* Hide Streamlit */
+#MainMenu, footer, header {
+    visibility: hidden;
+}
+
+.stDeployButton {
+    display: none;
+}
+
+:root{
+    --bg-base:#0B1020;
+    --bg-surface:#111827;
+    --bg-card:#141B2D;
+
+    --accent:#7C3AED;
+    --accent-light:#8B5CF6;
+
+    --text-primary:#F8FAFC;
+    --text-secondary:#CBD5E1;
+    --text-muted:#64748B;
+
+    --border:rgba(255,255,255,0.08);
+}
+
+.stApp{
+    background:var(--bg-base);
+    color:white;
+}
+
+/* Remove Streamlit padding */
+.block-container{
+    padding-top:1rem;
+    padding-left:1rem;
+    padding-right:1rem;
+    max-width:100%;
+}
+
+/* Font Awesome global icon styling */
+.fa-solid, .fa-regular {
+    font-size: 14px;
+    line-height: 1;
+}
+
+/* Pipeline icons — larger */
+.pipeline-icon .fa-solid {
+    font-size: 18px;
+}
+
+/* Button icons — add spacing when next to text */
+button .fa-solid,
+button .fa-regular {
+    margin-right: 6px;
+}
+
+/* Colored icon variants */
+.icon-green  { color: #22C55E; }
+.icon-blue   { color: #3B82F6; }
+.icon-purple { color: #7C3AED; }
+.icon-orange { color: #F97316; }
+.icon-red    { color: #EF4444; }
+.icon-muted  { color: #6B7FA3; }
