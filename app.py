@@ -23,7 +23,6 @@ def load_css():
         with open(css_file, "r") as f:
             st.html(f"<style>{f.read()}</style>")
 
-st.html('<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">')
 load_css()
 
 from frontend.components.sidebar import render_sidebar
