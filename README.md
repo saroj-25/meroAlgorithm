@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AlgoSathi — a runnable reproduction
 
 **Retrieval-Augmented Generation for DSA learning in Romanized Nepali and English.**
@@ -210,3 +211,7 @@ build the system, is the experiment the thesis deserves.
 ```
 
 This implementation is an independent reproduction for learning and research. Licence: MIT.
+=======
+# meroAlgorithm
+MeroAlgorithm is an AI-powered DSA tutor that teaches algorithms and data structures to Nepali students in their own language — Romanized Nepali mixed with English.
+>>>>>>> d366ae80e05834e61f6bfc6fbc1ec482cb10dff2
