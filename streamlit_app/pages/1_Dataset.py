@@ -109,10 +109,7 @@ with tab_study:
 # --------------------------------------------------------------------------- #
 with tab_upload:
     st.markdown("""
-Upload your own lecture notes (`.md`, `.txt`) to replace the synthetic corpus.
-Files are chunked with the paper's heuristic (250–450 tokens, 50-token overlap)
-and appended to the knowledge base; rebuild the index afterwards on the
-**Training** page.
+Upload your own lecture notes (`.md`, `.txt`) in this format.
     """)
     uploads = st.file_uploader("Course material", type=["md", "txt"],
                                accept_multiple_files=True)

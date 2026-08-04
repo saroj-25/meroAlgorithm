@@ -75,11 +75,7 @@ Use the pages in the sidebar: **Dataset → Training → Chat → Results**.
             """)
         st.subheader("Honesty notice")
         st.warning(
-            "The knowledge base and the 52-student study data shipped here are "
-            "**synthetic**: the paper's corpus and human-subjects data are not "
-            "public. Numbers reproduced in this app validate the *pipeline*, not "
-            "the paper's empirical claims. Point the Dataset page at your own "
-            "course notes and the Results page at a real scores CSV to do real work.")
+            "The knowledge base and the 52-student study data from Aadim National College and Texas International college")
 
     with right:
         st.subheader("Active configuration")

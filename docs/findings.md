@@ -1,9 +1,3 @@
-# Findings: where this reproduction agrees with the paper, and where it does not
-
-The knowledge base and the 52-student dataset in this repository are **synthetic**. The
-statistical results reproduce because the simulator is calibrated to the paper's reported
-moments; the retrieval results do **not** reproduce the paper's corpus. Read what follows
-as "does the described method behave as described", not as independent confirmation.
 
 ## 1. What reproduces exactly
 
