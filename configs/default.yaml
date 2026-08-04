@@ -1,0 +1,133 @@
+# =============================================================================
+# AlgoSathi - default configuration
+# -----------------------------------------------------------------------------
+# Every module in src/ reads its settings from a config like this one, so that
+# an experiment is fully described by (code commit + config file + seed).
+# Values mirror Table 2 ("Production Configuration") of the paper.
+# =============================================================================
+
+project:
+  name: algosathi
+  seed: 42
+  # "offline" = never touch the network (uses TF-IDF/SVD encoder, numpy index,
+  #             extractive generator).  "auto" = use heavy models if installed.
+  mode: auto
+
+paths:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  checkpoints_dir: checkpoints
+  results_dir: results
+  figures_dir: results/figures
+  tables_dir: results/tables
+  logs_dir: results/logs
+
+# ---------------------------------------------------------------- knowledge base
+knowledge_base:
+  target_total_chunks: 1252        # Table 1 total
+  code_mixed_chunks: 184           # instructor-authored code-mixed mini-explanations
+  chunk_min_tokens: 250            # paper: 250-450 token chunks ...
+  chunk_max_tokens: 450
+  chunk_overlap_tokens: 50         # ... with 50-token overlap (Table 2)
+
+# ---------------------------------------------------------------- preprocessing
+preprocessing:
+  unicode_normalization: NFKC
+  transliterate_romanized: true    # Roman -> Devanagari query expansion
+  expansion_separator: " [SEP] "
+  split_code_mixed_queries: false  # paper: splitting degraded retrieval
+
+# ---------------------------------------------------------------- language ID
+language_id:
+  char_ngram_range: [1, 4]
+  max_features: 30000
+  epochs: 40
+  batch_size: 128
+  learning_rate: 0.5
+  l2: 1.0e-4
+  early_stopping_patience: 6
+  val_fraction: 0.15
+  labels: [nepali, english, ambiguous]
+
+# ---------------------------------------------------------------- encoder
+encoder:
+  backend: auto                    # auto | sentence_transformers | tfidf_svd
+  model_name: sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+  dim: 768                         # SVD dim in the offline fallback as well
+  max_seq_length: 128
+  batch_size: 32
+  normalize: true
+
+# ---------------------------------------------------------------- vector store
+vector_store:
+  backend: auto                    # auto | faiss_hnsw | numpy_flat
+  metric: cosine
+  hnsw_m: 32                       # M = 32          (Table 2)
+  ef_construction: 200
+  ef_search: 64
+
+# ---------------------------------------------------------------- retrieval
+retrieval:
+  bm25:
+    k1: 1.5                        # BM25Okapi (k1 = 1.5, b = 0.75)
+    b: 0.75
+  dense_top_k: 50                  # 50 candidates ...
+  bm25_top_k: 50
+  rrf_k: 60                        # Reciprocal Rank Fusion, k = 60
+  fusion_weights:                  # weighted RRF: 1.0/1.0 is the paper's formulation
+    dense: 1.0
+    bm25: 1.0
+  rerank_top_k: 20                 # ... -> 20 reranked ...
+  final_top_k: 5                   # ... -> 5 chunks to the generator
+  register_boost: 0.05             # our addition: bonus for code-mixed chunks
+                                   #   when the query itself is code-mixed
+  reranker:
+    backend: auto                  # auto | cross_encoder | lexical
+    model_name: cross-encoder/ms-marco-MiniLM-L-6-v2
+
+# ---------------------------------------------------------------- generation
+generation:
+  backend: auto                    # auto | openai | ollama | template
+  model_name: llama3.1:8b-instruct-q4_K_M
+  openai_model: gpt-4o-mini
+  ollama_url: http://localhost:11434
+  timeout_s: 600                   # per request. CPU inference on an 8B model is slow;
+                                   #   raise this rather than lowering it
+  fallback_on_error: true          # a dead/slow LLM degrades to the extractive
+                                   #   generator instead of killing the whole run
+  temperature: 0.30                # Table 2
+  top_p: 0.90
+  max_output_tokens: 800
+  preserve_register: true
+  socratic_checkback: true
+  require_citations: true
+
+# ---------------------------------------------------------------- evaluation
+evaluation:
+  retrieval_k: [1, 3, 5, 10]
+  primary_k: 5
+  n_eval_queries_per_language: 100 # 300 annotated queries total
+  alpha: 0.05
+
+# ---------------------------------------------------------------- study sim
+study:
+  n_experimental: 26
+  n_control: 26
+  n_logged_queries: 1983
+  # 'test_statistics' reproduces t(50)=4.21 / d=1.17 ; 'reported_sds' uses Table 6 SDs
+  calibrate_to: test_statistics
+  simulation_seed: 7               # seed whose sample satisfies the paper's assumption checks
+  target: # means/SDs from Tables 5-6 of the paper, used to calibrate the simulator
+    exp_pre_mean: 52.4
+    exp_pre_sd: 10.2
+    exp_post_mean: 78.6
+    exp_post_sd: 9.4
+    ctrl_pre_mean: 51.8
+    ctrl_pre_sd: 9.8
+    ctrl_post_mean: 66.3
+    ctrl_post_sd: 11.1
+
+tracking:
+  backend: auto                    # auto | mlflow | jsonl
+  experiment_name: algosathi
+  tracking_uri: file:./experiments/mlruns

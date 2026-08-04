@@ -1,0 +1,30 @@
+# Retrieval ablation grid (reproduces Table 3 of the paper).
+# Each retriever configuration is evaluated on each query-language slice.
+inherit: configs/default.yaml
+
+ablation:
+  retrievers:
+    - name: dense_only
+      use_dense: true
+      use_bm25: false
+      rerank: false
+    - name: bm25_only
+      use_dense: false
+      use_bm25: true
+      rerank: false
+    - name: hybrid_no_rerank
+      use_dense: true
+      use_bm25: true
+      rerank: false
+    - name: hybrid_rerank
+      use_dense: true
+      use_bm25: true
+      rerank: true
+    # Weighted fusion: down-weights the lexical list when the encoder is strong.
+    - name: hybrid_weighted_rerank
+      use_dense: true
+      use_bm25: true
+      rerank: true
+      dense_weight: 1.0
+      bm25_weight: 0.4
+  query_types: [english, romanized_nepali, code_mixed]
