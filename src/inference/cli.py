@@ -3,7 +3,7 @@
     python -m src.inference.cli --config configs/default.yaml
     python -m src.inference.cli --question "yo merge sort ko complexity kasari nikalne"
 
-Commands inside the session: ``:sources``, ``:lang <en|np|mix|auto>``, ``:quit``.
+.
 """
 
 from __future__ import annotations

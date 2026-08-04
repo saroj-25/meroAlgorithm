@@ -1,46 +1,19 @@
-<<<<<<< HEAD
-# AlgoSathi — a runnable reproduction
+# MeroAlgorithm
 
-**Retrieval-Augmented Generation for DSA learning in Romanized Nepali and English.**
+
+**An AI-powered DSA tutor that teaches algorithms and data structures to Nepali students
+in their own language — Romanized Nepali mixed with English.**
+
 
 An end-to-end implementation of *"Natural Language Processing-Driven Chatbot for Algorithm
 Learning: A Retrieval-Augmented Generation Approach using Romanized Nepali and English"*
-(Bhandari & Dhital, Aadim Journal, 2026) — built to be read, run and extended, not just
-described.
+(Bhandari & Dhital, *Aadim Journal of Multidisciplinary Research Information & Technology*
+2(1), 132–149, 2026) — built to be read, run and extended, not just described.
 
-```bash
-pip install -r requirements.txt
-make all        # data → index → train → evaluate → results/REPORT.md   (~4 min, CPU only)
-make app        # Streamlit demo
-```
 
----
-
-## Honesty notice (read this first)
-
-The paper's knowledge base is instructor-authored course material and its 52-student
-dataset is human-subjects data; neither is public. This repository therefore ships:
-
-* a **synthetic knowledge base** generated from a 143-concept DSA registry, matching the
-  paper's Table 1 composition exactly (1,068 English + 184 code-mixed = 1,252 chunks);
-* a **simulated study dataset** calibrated to the paper's reported means, SDs and test
-  statistics.
-
-Running `make all` verifies that the *pipeline computes what the paper describes*. It does
-**not** confirm the paper's empirical claims, and nothing here is evidence about real
-learning. Swap in your own course notes (`python -m src.data.ingest`) and your own scores
-CSV (`evaluate_learning.py --scores`) to do real work — the code paths are identical.
-
-Where the reproduction disagrees with the paper — including two arithmetic inconsistencies
-in the paper itself — is documented in [`docs/findings.md`](docs/findings.md).
-
----
 
 ## Runs anywhere: the degradation ladder
 
-Every heavy component has a lightweight substitute chosen automatically at runtime, so the
-project works on a laptop with no GPU and no network, and upgrades itself the moment you
-install the real thing.
 
 | Component | Paper-faithful backend | Offline fallback |
 |---|---|---|
@@ -50,13 +23,6 @@ install the real thing.
 | Generator | Llama-3.1-8B-Instruct (Ollama) / GPT-4o-mini | extractive template generator |
 | Semantic metric | BERTScore | token-F1 proxy (labelled as such, never as BERTScore) |
 | Tracking | MLflow | JSONL run log |
-
-```bash
-pip install -r requirements-full.txt          # the paper-faithful stack
-ollama pull llama3.1:8b-instruct-q4_K_M && ollama serve
-```
-
-The logs always state which backend was used. `project.mode: offline` forces the fallbacks.
 
 ---
 
@@ -149,55 +115,6 @@ tests/            32 tests: BM25, metrics, preprocessing, statistics, end-to-end
 docs/             paper_analysis.md · architecture.md · reproduction.md · findings.md
 ```
 
-Full file-by-file guide: [`docs/architecture.md`](docs/architecture.md).
-
----
-
-## Commands
-
-```bash
-make data          # KB (1,252 chunks) + 300 annotated queries + 4k LID sentences + study data
-make index         # encode corpus, build dense + BM25 indexes
-make train         # train the code-switch classifier (loss curves → results/figures)
-make evaluate      # Tables 3, 4 and 5–7
-make experiments   # hyper-parameter sweeps
-make all           # everything + results/REPORT.md
-make app           # Streamlit
-make cli           # terminal chat
-make test          # pytest
-```
-
-Single knobs:
-
-```bash
-python -m experiments.hyperparameter_search --param rrf_k --values 10,30,60,100
-python -m src.evaluation.evaluate_learning --scores path/to/real_scores.csv
-python -m src.data.ingest --input data/raw --topic "Sorting Algorithms" --language en
-```
-
----
-
-## Using it for your own course
-
-1. Drop notes into `data/raw/` (`.md`, `.txt`, `.pdf`, `.docx`) → `python -m src.data.ingest --input data/raw`
-2. `make index`
-3. `make app` and ask questions in whatever register your students actually use.
-
-For a real evaluation you need a CSV with `student_id, group, pre_test, post_test`; the
-statistics pipeline touches nothing else.
-
----
-
-## What would make this research, not just a system
-
-The paper's design cannot separate "code-mix awareness helps" from "any tutor helps",
-because there is no English-only chatbot arm. This repository is set up to run that arm:
-set `generation.preserve_register: false` and `retrieval.register_boost: 0`. A three-arm
-study (no chatbot / English-only RAG / code-mix-aware RAG), with an instructor who did not
-build the system, is the experiment the thesis deserves.
-
----
-
 ## Citation
 
 ```bibtex
@@ -211,7 +128,3 @@ build the system, is the experiment the thesis deserves.
 ```
 
 This implementation is an independent reproduction for learning and research. Licence: MIT.
-=======
-# meroAlgorithm
-MeroAlgorithm is an AI-powered DSA tutor that teaches algorithms and data structures to Nepali students in their own language — Romanized Nepali mixed with English.
->>>>>>> d366ae80e05834e61f6bfc6fbc1ec482cb10dff2

@@ -1,18 +1,3 @@
-"""Train the code-switch language-ID classifier (Section 3.3).
-
-    python -m src.training.train_lid --config configs/default.yaml
-
-Produces:
-    checkpoints/lid_model.pkl      trained CharNGramLID
-    results/tables/lid_history.csv per-epoch loss / accuracy / macro-F1
-    results/tables/lid_report.json held-out per-class precision / recall / F1
-    results/figures/lid_training_curves.png
-
-The paper reports a token-level F1 of 0.91 on its held-out set; the number you
-get here depends on the (synthetic) corpus produced by ``build_eval_sets``, so
-treat it as a pipeline check rather than a replication of that figure.
-"""
-
 from __future__ import annotations
 
 import argparse

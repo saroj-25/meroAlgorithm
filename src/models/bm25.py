@@ -1,19 +1,4 @@
-"""BM25Okapi lexical retriever (self-contained, no external dependency).
 
-Why implement it here?  Because the paper's hybrid retriever depends on BM25
-scoring *rare transliterated technical terms* (AVL, Kruskal, Floyd-Warshall)
-that a dense encoder often misses, and it is worth seeing the formula rather
-than importing it:
-
-    score(q, d) = sum over terms t in q of
-                  IDF(t) * f(t,d) * (k1 + 1)
-                  ------------------------------------------
-                  f(t,d) + k1 * (1 - b + b * |d| / avgdl)
-
-    IDF(t) = ln( (N - n(t) + 0.5) / (n(t) + 0.5) + 1 )
-
-with k1 = 1.5 and b = 0.75 (Table 2 of the paper).
-"""
 
 from __future__ import annotations
 

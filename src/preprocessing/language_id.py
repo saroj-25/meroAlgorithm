@@ -1,18 +1,4 @@
-"""Token-level code-switch detection (Section 3.3).
 
-The paper trains "a character-level n-gram classifier ... on a held-out subset of
-4,000 Romanized Nepali, English, and code-mixed sentences" that emits, for each
-token, a probability of being Romanized Nepali, English, or script-ambiguous
-(technical identifiers such as ``O(n log n)``, ``DFS`` or ``i++``), reaching a
-token-level F1 of 0.91.
-
-This module implements exactly that, as a **multinomial logistic regression over
-character n-gram TF-IDF features**, trained with the numpy loop in
-``src/training/train_lid.py``.  Character features are the whole point: Romanized
-Nepali has no standard orthography, so a model keyed on whole words would fail on
-every unseen spelling variant, while ``-ncha``/``-nchha``/``-nxa`` endings are
-learnable at the character level.
-"""
 
 from __future__ import annotations
 

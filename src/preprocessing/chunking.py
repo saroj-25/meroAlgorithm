@@ -1,9 +1,4 @@
-"""Chunking for ingesting *your own* course material (Section 3.2).
 
-Paper heuristic: 250-450 tokens per chunk with a 50-token overlap.  Splitting on
-paragraph boundaries first keeps a worked example or a proof inside one chunk,
-which matters more for retrieval quality than hitting the token target exactly.
-"""
 
 from __future__ import annotations
 

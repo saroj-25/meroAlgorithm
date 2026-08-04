@@ -1,15 +1,4 @@
-"""Lexicons and regexes for Romanized-Nepali / English code-switch detection.
 
-These lists are deliberately small and inspectable.  They are used for
-(a) weak-labelling the token-level training data for the character n-gram
-language-ID classifier (Section 3.3 of the paper) and (b) as a rule-based
-fallback when no trained classifier checkpoint is available.
-
-The three label classes follow the paper:
-    nepali     - Romanized Nepali token
-    english    - English token
-    ambiguous  - script-ambiguous / technical token (``O(n log n)``, ``DFS``, ``i++``)
-"""
 
 from __future__ import annotations
 

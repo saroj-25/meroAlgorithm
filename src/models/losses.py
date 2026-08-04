@@ -1,14 +1,3 @@
-"""Loss functions used by the trainable components.
-
-1. ``softmax_cross_entropy`` - the objective of the character n-gram
-   code-switch classifier (Section 3.3).  Implemented in numpy with its
-   analytic gradient so the training loop in ``src/training`` is fully
-   transparent and has no deep-learning dependency.
-
-2. ``info_nce`` (a.k.a. MultipleNegativesRankingLoss) - the objective you would
-   use to fine-tune the multilingual encoder on (Romanized Nepali query,
-   English chunk) pairs, which is listed as future work in the paper.
-"""
 
 from __future__ import annotations
 

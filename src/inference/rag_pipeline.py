@@ -1,4 +1,4 @@
-"""The online path of Figure 2: query -> answer.
+""".
 
     preprocess (normalize, detect register, optional transliteration expansion)
       -> hybrid retrieval (dense + BM25, RRF)
@@ -6,9 +6,6 @@
       -> pedagogical prompt construction
       -> generation (register-preserving, grounded, cited)
       -> post-processing (citation linking, latency + log record)
-
-Everything is wired through one class so the CLI, the Streamlit app and the
-evaluation scripts all exercise exactly the same code path.
 """
 
 from __future__ import annotations

@@ -1,15 +1,4 @@
-"""Configuration loading.
 
-A run is reproducible when it is fully described by (code, config, seed).
-Every entry-point script therefore takes ``--config configs/xxx.yaml`` and
-nothing else that changes behaviour.
-
-Usage
------
->>> cfg = load_config("configs/default.yaml")
->>> cfg.get("retrieval.rrf_k")
-60
-"""
 
 from __future__ import annotations
 

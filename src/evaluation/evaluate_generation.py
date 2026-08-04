@@ -1,10 +1,4 @@
-"""Evaluate generation quality by query language (Table 4 reproduction).
-
-Reference answers are built from the *gold* chunk of each evaluation query, so
-the metric asks: "did the system say what the course material says about this
-concept, in the learner's register, with a valid citation?"
-
-Run::
+"""
 
     python -m src.evaluation.evaluate_generation --config configs/default.yaml --n 60
 """

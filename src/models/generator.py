@@ -1,21 +1,3 @@
-"""Answer generation (Section 3.6).
-
-The paper serves Llama-3.1-8B-Instruct locally (4-bit AWQ on an RTX 4090) with
-GPT-4o-mini as a fallback, behind "a thin abstraction layer that allows the
-underlying LLM to be swapped without altering the prompt".  This module is that
-abstraction layer, with three backends:
-
-``ollama``    local Llama-3.1-8B-Instruct through the Ollama HTTP API
-``openai``    GPT-4o-mini through the OpenAI API (needs OPENAI_API_KEY)
-``template``  offline **extractive** generator - no LLM at all
-
-The template backend is not a toy: it demonstrates the paper's own claim that
-grounding is what removes hallucination.  It can only re-use sentences that the
-retriever actually returned, so its factual correctness is bounded by retrieval
-quality, and it still preserves register, structure, citations and the Socratic
-check-back.  It is what makes this repository runnable with no GPU and no
-network.
-"""
 
 from __future__ import annotations
 

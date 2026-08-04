@@ -1,4 +1,4 @@
-"""AlgoSathi - Streamlit demo.
+"""AlgoSathi
 
     streamlit run streamlit_app/app.py
 

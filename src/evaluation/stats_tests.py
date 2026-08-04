@@ -1,19 +1,4 @@
-"""Statistics for the classroom study (Sections 5.5, 6.2, 6.3).
-
-Implemented from first principles on numpy/scipy so every number in
-``results/tables/`` can be traced to a formula rather than to a library default:
-
-* independent-samples t-test with Cohen's d and a 95% CI on the mean difference
-* one-way ANCOVA (post-test ~ group + pre-test) with adjusted means, the group
-  effect, its CI, and the homogeneity-of-regression-slopes check
-* Shapiro-Wilk normality and Levene homogeneity-of-variance checks
-* a priori power for a two-sample t-test via the non-central t distribution
-
-A note on power: the paper reports "statistical power (alpha = 0.05, d = 1.17,
-n = 52) = 0.97" *after* observing d = 1.17.  Power computed from the observed
-effect is a monotone function of the p-value and adds no information; this
-module therefore reports both the *a priori* power for the pre-registered
-d = 1.00 and the observed-d value, clearly labelled.
+"""Statistics for the classroom study ).
 """
 
 from __future__ import annotations

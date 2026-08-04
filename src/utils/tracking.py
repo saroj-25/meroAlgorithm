@@ -1,9 +1,3 @@
-"""Experiment tracking with graceful degradation.
-
-If MLflow is installed we log to MLflow; otherwise every run is appended to
-``experiments/runs/<experiment>.jsonl`` so that nothing is ever lost and the
-Streamlit "Results" page can read runs either way.
-"""
 
 from __future__ import annotations
 

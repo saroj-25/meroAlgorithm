@@ -1,11 +1,3 @@
-"""Vector store with a FAISS-HNSW backend and a numpy brute-force fallback.
-
-Paper configuration (Table 2): FAISS HNSW with M = 32, efConstruction = 200,
-efSearch = 64, cosine similarity over 768-d vectors.  For 1,252 chunks a flat
-search is already sub-millisecond, so the numpy fallback is exact and fast; the
-HNSW path exists because it is what scales to the larger corpora the paper
-anticipates.
-"""
 
 from __future__ import annotations
 

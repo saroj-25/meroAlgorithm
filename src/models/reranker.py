@@ -1,18 +1,3 @@
-"""Cross-encoder re-ranking (Section 3.5).
-
-The retriever produces 20 fused candidates; the re-ranker scores *query-chunk
-pairs jointly*, which is more accurate than comparing two independently encoded
-vectors, and returns the top 5 for generation.
-
-Backends
---------
-``cross_encoder``  ms-marco-MiniLM-L-6-v2, exactly as in the paper (needs torch)
-``lexical``        offline fallback: IDF-weighted term overlap + character
-                   trigram Dice similarity + the fused retrieval score.
-                   The character component is what keeps it usable for
-                   Romanized Nepali, where spellings vary.
-"""
-
 from __future__ import annotations
 
 import math

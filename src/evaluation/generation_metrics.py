@@ -1,9 +1,5 @@
-"""Generation-quality metrics (Table 4 of the paper, plus two additions).
+"""Generation-quality metrics
 
-The paper evaluates generation with BERTScore F1 against instructor reference
-answers plus human ratings of correctness, pedagogical clarity and linguistic
-appropriateness.  Human ratings cannot be reproduced offline, so this module
-provides:
 
 * ``bertscore_f1``   - real BERTScore if ``bert-score`` is installed, otherwise
                        an explicitly-labelled token-F1 proxy (never silently

@@ -1,12 +1,8 @@
-"""Reproduce the learning-outcome analysis: Tables 5, 6 and 7.
+"""
 
     python -m src.evaluation.evaluate_learning --config configs/default.yaml
     python -m src.evaluation.evaluate_learning --scores path/to/real_scores.csv
 
-A real CSV needs the columns ``student_id, group, pre_test, post_test`` where
-``group`` is ``experimental`` or ``control``.  Everything downstream - the
-t-test, effect size, ANCOVA, assumption checks, power - is computed from that
-file alone, so the same pipeline that reproduces the paper analyses your data.
 """
 
 from __future__ import annotations

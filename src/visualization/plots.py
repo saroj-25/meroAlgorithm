@@ -1,8 +1,4 @@
-"""All figures produced by the project (matplotlib; Plotly is used in the app).
 
-Every function takes plain records / DataFrames and a destination path, so the
-same code serves the CLI experiments and the Streamlit pages.
-"""
 
 from __future__ import annotations
 

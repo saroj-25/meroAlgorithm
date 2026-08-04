@@ -1,24 +1,4 @@
-"""Sentence encoders.
 
-The paper uses ``paraphrase-multilingual-mpnet-base-v2`` (768-d, 50+ languages,
-Section 3.4).  That model needs ~1 GB of downloads and a working network, so
-this module exposes a common interface with two backends:
-
-======================  ====================================================
-backend                 description
-======================  ====================================================
-``sentence_transformers``  the paper-faithful multilingual encoder
-``tfidf_svd``              offline fallback: character n-gram TF-IDF + SVD
-======================  ====================================================
-
-The fallback is deliberately *character*-based: Romanized Nepali has no
-standardised spelling, so character n-grams degrade far more gracefully across
-transliteration variants (kasto / kastoo / kasttoo) than word features, and the
-same trick is what makes the fallback usable for code-mixed input at all.
-
-Both backends produce L2-normalised vectors, so cosine similarity is a dot
-product and the downstream index code is backend-agnostic.
-"""
 
 from __future__ import annotations
 

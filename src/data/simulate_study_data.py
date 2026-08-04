@@ -1,30 +1,4 @@
-"""Simulate the classroom-study data of Sections 5-6 (learning outcomes, logs,
-satisfaction).
-
-WHY SIMULATE?
--------------
-The 52-student dataset behind Tables 5-7 is human-subjects data and is not
-published with the paper.  To make the statistical pipeline runnable and
-testable, this module *synthesises* a dataset that is calibrated to the paper's
-reported statistics, so that ``src/evaluation/evaluate_learning.py`` reproduces
-the reported t-test, effect size, ANCOVA and assumption checks.
-
-This is a **reproduction harness, not evidence**: no claim in the paper is
-confirmed by running it.  Point the same evaluation code at a real CSV
-(``--scores path/to/scores.csv``) to analyse genuine data.
-
-Two known inconsistencies in the paper are handled explicitly:
-
-1. Table 6 reports gain SDs of 8.1 (exp) and 9.7 (ctrl).  With a gain difference
-   of 11.7 those SDs imply d = 1.31 and t(50) = 4.72, not the reported
-   d = 1.17 / t = 4.21 (which imply a pooled SD of exactly 10.0).
-   ``study.calibrate_to`` selects which set to honour.
-2. Section 6.6 reports 38.1 messages per student while Section 5.3 reports 1,983
-   logged query-response pairs for 26 students (= 76.3 each).  We generate 1,983
-   pairs and record both numbers.
-
-Run::
-
+"""
     python -m src.data.simulate_study_data --config configs/default.yaml
 """
 

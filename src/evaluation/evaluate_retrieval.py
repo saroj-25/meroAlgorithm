@@ -1,15 +1,4 @@
-"""Retrieval evaluation and the ablation grid of Table 3.
-
-Runs every retriever configuration over every query-language slice of the
-300-query annotated set and writes:
-
-    results/tables/retrieval_ablation.csv     full grid (all metrics)
-    results/tables/table3_retrieval.csv       paper-shaped table (P@5, MRR, R@10)
-    results/tables/retrieval_per_query.csv    per-query scores, for error analysis
-    results/figures/retrieval_ablation_p5.png
-
-Run::
-
+"""
     python -m src.evaluation.evaluate_retrieval --config configs/ablation.yaml
 """
 

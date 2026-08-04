@@ -1,4 +1,4 @@
-"""Unicode normalization and light query cleaning (Section 3.3, step 1)."""
+
 
 from __future__ import annotations
 

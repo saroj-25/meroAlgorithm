@@ -1,16 +1,4 @@
-"""Query preprocessing: the three branches of Section 3.3.
 
-    pure English            -> Unicode normalization only
-    pure Romanized Nepali   -> normalization + optional Devanagari expansion
-                               ("roman [SEP] devanagari", both encoded together)
-    code-mixed              -> normalization only; the string is deliberately
-                               NOT split, because splitting degraded retrieval
-                               in the paper's pilot experiments
-
-The output object carries everything downstream components need: the text to
-encode, the text to hand to BM25, the detected register, and the token-level
-language profile that the generator uses to preserve the learner's register.
-"""
 
 from __future__ import annotations
 

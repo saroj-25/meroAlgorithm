@@ -1,15 +1,4 @@
-"""Rule-based Romanized Nepali -> Devanagari transliteration.
 
-Used for the optional *query expansion* branch of Section 3.3: a pure Romanized
-Nepali query is transliterated to Devanagari, and the Roman and Devanagari forms
-are concatenated with a ``[SEP]`` marker before encoding.  This helps because the
-multilingual encoder was pre-trained on Devanagari Nepali/Hindi, not on the
-Roman transliteration.
-
-If ``indic-transliteration`` is installed we defer to it (better coverage);
-otherwise the greedy longest-match table below is used, which is enough for the
-short function words that dominate learner queries.
-"""
 
 from __future__ import annotations
 

@@ -1,18 +1,3 @@
-"""Offline phase of Figure 2: build every index the retriever needs.
-
-Artefacts written to ``checkpoints/index/``::
-
-    encoder.pkl        fitted encoder (TF-IDF+SVD) or a model-name stub (ST)
-    vector_store.pkl   FAISS HNSW or numpy flat index over 1,252 chunk vectors
-    bm25.pkl           BM25Okapi inverted index over the same chunks
-    chunks.jsonl       the chunk records, in index order
-    index_meta.json    backends, dimensions, build time - for the results tables
-
-Run::
-
-    python -m src.retrieval.index_builder --config configs/default.yaml
-"""
-
 from __future__ import annotations
 
 import argparse

@@ -1,7 +1,4 @@
-"""Retrieval metrics: P@k, MRR, R@k, nDCG@k (Section 5.5).
-
-Binary relevance: a retrieved chunk counts as relevant if its ``chunk_id`` is in
-the annotated relevant set for that query.
+"""Retrieval metrics: P@k, MRR, R@k, nDCG@k .
 """
 
 from __future__ import annotations

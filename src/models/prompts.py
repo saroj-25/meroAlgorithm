@@ -1,15 +1,3 @@
-"""Prompt construction (Sections 3.6-3.7, "Appendix A").
-
-The four properties the paper attributes to its prompt are all encoded here:
-
-1. **Register preservation** - answer in the same language mix as the question.
-2. **Grounding + citation** - every claim carries a ``[chunk_id]`` marker.
-3. **Pedagogical scaffold** - intuition, formalization, code, complexity.
-4. **Socratic check-back** - one question at the end of every non-trivial answer.
-
-Plus the instructor-authority line that reduced self-contradiction in pilots.
-"""
-
 from __future__ import annotations
 
 from typing import List, Sequence

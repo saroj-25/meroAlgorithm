@@ -1,14 +1,3 @@
-"""A transparent mini-batch trainer for the language-ID classifier.
-
-Everything a training loop normally hides behind ``model.fit()`` is written out
-here: forward pass, loss, analytic gradient, parameter update, validation pass,
-early stopping and checkpointing.  It runs on sparse character n-gram features
-with numpy only, so students can read it end to end without a GPU or a deep
-learning framework.
-
-Optimiser: mini-batch gradient descent with a simple 1/sqrt(t) learning-rate
-decay and L2 (ridge) regularisation.
-"""
 
 from __future__ import annotations
 

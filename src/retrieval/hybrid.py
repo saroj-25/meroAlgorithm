@@ -1,20 +1,4 @@
-"""Hybrid retrieval: dense + BM25, fused with RRF, then cross-encoder re-ranked.
 
-This is Section 3.5 of the paper.  The motivation is worth restating because it
-is the single most important design decision for code-mixed input:
-
-* the **dense** encoder maps meaning, so "yo sorting kasari kaam garcha" can find
-  an English passage about sorting - but it is weak on rare technical strings
-  (AVL, Kruskal, Floyd-Warshall) it barely saw in pre-training;
-* **BM25** is exact-match, so it nails those rare strings - but it cannot bridge
-  Romanized Nepali to English at all;
-* **reciprocal rank fusion** combines the two ranked lists without needing their
-  scores to be on the same scale:
-
-      RRF(d) = sum over retrievers r of  1 / (k + rank_r(d)),   k = 60
-
-* the **cross-encoder** then re-scores the top-20 query-chunk pairs jointly.
-"""
 
 from __future__ import annotations
 
