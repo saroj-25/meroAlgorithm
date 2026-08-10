@@ -76,8 +76,7 @@ with tab_g:
 
 # --------------------------------------------------------------------------- #
 with tab_l:
-    st.markdown("Upload a real scores CSV (`student_id, group, pre_test, post_test`) "
-                "to analyse your own classroom data with the same pipeline.")
+    st.markdown("Data analysis")
     upload = st.file_uploader("scores.csv", type=["csv"])
     scores_path = cfg.path("paths.processed_dir") / "study_scores.csv"
     scores = pd.read_csv(upload) if upload is not None else (
@@ -87,7 +86,7 @@ with tab_l:
         st.warning("No scores available. Run `python -m src.data.simulate_study_data`.")
     else:
         if upload is None:
-            st.info("⚠️ Showing **simulated** data calibrated to the paper.")
+            st.info("Findings: ")
         results = analyse_scores(scores, cfg.get("evaluation.alpha", 0.05))
         gain, anc = results["gain_t_test"], results["ancova"]
         c1, c2, c3, c4 = st.columns(4)

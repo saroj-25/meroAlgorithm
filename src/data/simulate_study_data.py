@@ -255,7 +255,7 @@ def main() -> None:
         "note": "SYNTHETIC data calibrated to the paper's reported statistics. Not evidence.",
     }
     write_json(out / "study_summary.json", summary)
-    log.info("Study data simulated: %s", summary)
+    log.info("Study data : %s", summary)
 
 
 if __name__ == "__main__":

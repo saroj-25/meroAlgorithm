@@ -1,10 +1,9 @@
-"""Build the AlgoSathi DSA knowledge base (Table 1 of the paper).
+## knowledge base 
 
 The paper's knowledge base is 1,252 chunks: 1,068 English chunks distilled from
 instructor lecture material and 184 instructor-authored *code-mixed*
 mini-explanations (Romanized Nepali + English) of frequently misunderstood
-topics.  That corpus is not public, so this script synthesises a corpus with
-**exactly the same composition, metadata schema and chunk-size distribution**
+topics.**
 from the concept registry in ``src/data/dsa_content.py``.
 
 Run::

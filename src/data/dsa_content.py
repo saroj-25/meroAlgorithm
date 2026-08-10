@@ -1,6 +1,4 @@
 """Instructor-style DSA concept registry.
-Replace it with your own course material at any time:
-
     python -m src.data.ingest --input path/to/your/notes --config configs/default.yaml
 
 

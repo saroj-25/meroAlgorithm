@@ -97,7 +97,7 @@ python -m src.retrieval.index_builder --config configs/default.yaml
 python -m src.evaluation.evaluate_learning --scores path/to/scores.csv
 ```
 
-The statistics are computed from that file alone, so nothing simulated leaks in.
+The statistics are computed from that file alone, so nothing estra leaks in.
 
 ## 5. Reproducibility notes
 

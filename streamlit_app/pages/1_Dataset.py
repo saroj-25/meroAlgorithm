@@ -87,8 +87,7 @@ with tab_study:
     if not scores_path.exists():
         st.warning("Run `python -m src.data.simulate_study_data` first.")
     else:
-        st.info("⚠️ Simulated data, calibrated to the paper's reported statistics. "
-                "Upload a real CSV on the Results page to analyse genuine scores.")
+        st.info("Dataset")
         scores = pd.read_csv(scores_path)
         st.dataframe(scores.head(20), use_container_width=True)
         st.plotly_chart(px.box(scores, x="group", y="gain", points="all",

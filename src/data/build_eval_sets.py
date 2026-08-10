@@ -1,4 +1,4 @@
-"""Build the evaluation sets used in Sections 5.5 and 6.1 of the paper.
+## Evaluation set 
 
 Two artefacts are produced:
 
