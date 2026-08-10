@@ -1,9 +1,7 @@
 # =============================================================================
-# AlgoSathi - default configuration
+# AlgoSathi 
 # -----------------------------------------------------------------------------
-# Every module in src/ reads its settings from a config like this one, so that
-# an experiment is fully described by (code commit + config file + seed).
-# Values mirror Table 2 ("Production Configuration") of the paper.
+
 # =============================================================================
 
 project:
