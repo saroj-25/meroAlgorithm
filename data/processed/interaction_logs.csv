@@ -1,0 +1,1984 @@
+interaction_id,student_id,date,week,query_type,topic,n_retrieved,latency_s,thumbs,intent
+LOG-00000,E23,2025-09-09,2,code_mixed,Graphs and Traversals,5,1.2,none,how_to_implement
+LOG-00001,E05,2025-09-18,3,code_mixed,Graphs and Traversals,5,1.69,none,complexity
+LOG-00002,E21,2025-09-17,3,english,Greedy and Backtracking,5,1.69,up,debug
+LOG-00003,E09,2025-10-05,5,code_mixed,Heaps and Priority Queues,5,2.32,none,conceptual_why
+LOG-00004,E06,2025-09-18,3,english,Stacks and Queues,5,1.06,none,conceptual_why
+LOG-00005,E06,2025-09-04,1,english,Complexity and Notation,5,2.18,down,complexity
+LOG-00006,E15,2025-09-23,4,english,Graphs and Traversals,5,1.95,none,complexity
+LOG-00007,E09,2025-09-15,3,english,Stacks and Queues,5,2.05,none,how_to_implement
+LOG-00008,E07,2025-10-05,5,english,Dynamic Programming (Intro),5,1.8,up,how_to_implement
+LOG-00009,E04,2025-09-17,3,romanized_nepali,Arrays and Strings,5,1.89,none,complexity
+LOG-00010,E10,2025-09-30,5,code_mixed,Trees and BSTs,5,2.51,none,conceptual_why
+LOG-00011,E21,2025-09-13,2,code_mixed,Heaps and Priority Queues,5,2.32,none,conceptual_why
+LOG-00012,E01,2025-09-24,4,romanized_nepali,Dynamic Programming (Intro),5,1.61,none,complexity
+LOG-00013,E14,2025-10-09,6,code_mixed,Linked Lists,5,2.11,up,how_to_implement
+LOG-00014,E16,2025-09-19,3,english,Trees and BSTs,5,1.45,none,conceptual_why
+LOG-00015,E02,2025-09-28,4,english,Stacks and Queues,5,2.49,up,complexity
+LOG-00016,E09,2025-09-23,4,english,Dynamic Programming (Intro),5,1.95,none,how_to_implement
+LOG-00017,E24,2025-09-06,1,romanized_nepali,Arrays and Strings,5,2.34,none,conceptual_why
+LOG-00018,E26,2025-09-02,1,code_mixed,Heaps and Priority Queues,5,2.25,up,how_to_implement
+LOG-00019,E22,2025-10-09,6,romanized_nepali,Complexity and Notation,5,1.87,up,complexity
+LOG-00020,E06,2025-09-21,3,romanized_nepali,Sorting Algorithms,5,1.46,none,conceptual_why
+LOG-00021,E21,2025-10-05,5,english,Dynamic Programming (Intro),5,2.11,none,how_to_implement
+LOG-00022,E13,2025-09-23,4,english,Graphs and Traversals,5,1.21,up,how_to_implement
+LOG-00023,E06,2025-10-09,6,romanized_nepali,Arrays and Strings,5,1.97,up,how_to_implement
+LOG-00024,E14,2025-09-15,3,english,Dynamic Programming (Intro),5,1.28,up,conceptual_why
+LOG-00025,E24,2025-09-25,4,romanized_nepali,Graphs and Traversals,5,1.81,none,conceptual_why
+LOG-00026,E23,2025-09-29,5,english,Sorting Algorithms,5,1.96,none,how_to_implement
+LOG-00027,E11,2025-10-08,6,romanized_nepali,Graphs and Traversals,5,2.16,up,complexity
+LOG-00028,E03,2025-09-03,1,code_mixed,Graphs and Traversals,5,1.94,up,debug
+LOG-00029,E23,2025-09-21,3,code_mixed,Trees and BSTs,5,1.55,none,conceptual_why
+LOG-00030,E26,2025-09-24,4,code_mixed,Dynamic Programming (Intro),5,1.69,none,conceptual_why
+LOG-00031,E14,2025-10-02,5,english,Arrays and Strings,5,3.01,none,complexity
+LOG-00032,E07,2025-09-11,2,code_mixed,Hashing,5,1.84,none,conceptual_why
+LOG-00033,E15,2025-09-29,5,code_mixed,Arrays and Strings,5,1.9,none,how_to_implement
+LOG-00034,E19,2025-10-06,6,english,Arrays and Strings,5,2.24,up,debug
+LOG-00035,E14,2025-10-06,6,romanized_nepali,Hashing,5,1.86,none,complexity
+LOG-00036,E10,2025-09-17,3,code_mixed,Searching Algorithms,5,2.0,up,complexity
+LOG-00037,E08,2025-09-23,4,romanized_nepali,Trees and BSTs,5,1.49,up,complexity
+LOG-00038,E09,2025-09-19,3,code_mixed,Stacks and Queues,5,1.51,none,how_to_implement
+LOG-00039,E02,2025-09-22,4,english,Trees and BSTs,5,1.77,none,how_to_implement
+LOG-00040,E08,2025-09-21,3,code_mixed,Arrays and Strings,5,2.08,up,debug
+LOG-00041,E25,2025-10-11,6,code_mixed,Dynamic Programming (Intro),5,1.24,up,complexity
+LOG-00042,E01,2025-09-01,1,english,Sorting Algorithms,5,2.14,none,how_to_implement
+LOG-00043,E19,2025-10-11,6,english,Hashing,5,1.74,up,debug
+LOG-00044,E21,2025-09-03,1,english,Greedy and Backtracking,5,2.69,up,how_to_implement
+LOG-00045,E12,2025-09-06,1,english,Greedy and Backtracking,5,1.85,up,complexity
+LOG-00046,E16,2025-09-16,3,english,Dynamic Programming (Intro),5,1.3,none,conceptual_why
+LOG-00047,E07,2025-09-19,3,english,Hashing,5,2.09,down,how_to_implement
+LOG-00048,E18,2025-10-09,6,english,Sorting Algorithms,5,1.97,up,debug
+LOG-00049,E19,2025-10-09,6,english,Graphs and Traversals,5,1.43,down,how_to_implement
+LOG-00050,E20,2025-10-11,6,english,Dynamic Programming (Intro),5,2.26,none,how_to_implement
+LOG-00051,E14,2025-09-22,4,code_mixed,Dynamic Programming (Intro),5,0.78,up,complexity
+LOG-00052,E25,2025-09-02,1,english,Graphs and Traversals,5,0.98,none,how_to_implement
+LOG-00053,E23,2025-10-04,5,code_mixed,Arrays and Strings,5,2.82,none,conceptual_why
+LOG-00054,E15,2025-10-10,6,code_mixed,Linked Lists,5,1.43,none,debug
+LOG-00055,E18,2025-09-08,2,code_mixed,Sorting Algorithms,5,1.71,none,how_to_implement
+LOG-00056,E08,2025-10-09,6,romanized_nepali,Heaps and Priority Queues,5,1.44,up,conceptual_why
+LOG-00057,E25,2025-09-01,1,code_mixed,Trees and BSTs,5,1.92,none,complexity
+LOG-00058,E17,2025-10-06,6,code_mixed,Greedy and Backtracking,5,2.15,up,how_to_implement
+LOG-00059,E23,2025-09-25,4,english,Dynamic Programming (Intro),5,1.48,up,conceptual_why
+LOG-00060,E09,2025-10-10,6,romanized_nepali,Stacks and Queues,5,1.93,none,debug
+LOG-00061,E26,2025-10-10,6,code_mixed,Dynamic Programming (Intro),5,2.26,none,how_to_implement
+LOG-00062,E04,2025-09-04,1,english,Arrays and Strings,5,1.84,up,conceptual_why
+LOG-00063,E14,2025-09-26,4,romanized_nepali,Graphs and Traversals,5,1.44,none,complexity
+LOG-00064,E04,2025-09-18,3,english,Trees and BSTs,5,0.98,none,how_to_implement
+LOG-00065,E06,2025-09-23,4,code_mixed,Sorting Algorithms,5,1.56,up,complexity
+LOG-00066,E21,2025-09-05,1,code_mixed,Linked Lists,5,0.67,none,conceptual_why
+LOG-00067,E03,2025-09-21,3,code_mixed,Dynamic Programming (Intro),5,1.18,none,how_to_implement
+LOG-00068,E11,2025-09-22,4,english,Stacks and Queues,5,2.02,none,conceptual_why
+LOG-00069,E06,2025-09-01,1,romanized_nepali,Sorting Algorithms,5,1.37,up,conceptual_why
+LOG-00070,E22,2025-09-24,4,romanized_nepali,Linked Lists,5,0.77,none,conceptual_why
+LOG-00071,E03,2025-10-10,6,english,Sorting Algorithms,5,2.38,down,how_to_implement
+LOG-00072,E10,2025-09-05,1,english,Arrays and Strings,5,2.46,up,how_to_implement
+LOG-00073,E22,2025-10-11,6,english,Trees and BSTs,5,1.9,none,complexity
+LOG-00074,E18,2025-09-25,4,romanized_nepali,Graphs and Traversals,5,1.98,none,how_to_implement
+LOG-00075,E19,2025-09-16,3,romanized_nepali,Heaps and Priority Queues,5,1.33,none,how_to_implement
+LOG-00076,E26,2025-10-12,6,english,Complexity and Notation,5,1.16,none,complexity
+LOG-00077,E01,2025-09-24,4,english,Trees and BSTs,5,1.39,none,how_to_implement
+LOG-00078,E18,2025-09-23,4,english,Hashing,5,2.4,none,how_to_implement
+LOG-00079,E20,2025-09-22,4,code_mixed,Dynamic Programming (Intro),5,2.22,none,debug
+LOG-00080,E20,2025-10-10,6,code_mixed,Trees and BSTs,5,1.59,none,complexity
+LOG-00081,E19,2025-09-10,2,code_mixed,Graphs and Traversals,5,1.48,none,complexity
+LOG-00082,E03,2025-09-16,3,romanized_nepali,Graphs and Traversals,5,1.14,none,conceptual_why
+LOG-00083,E03,2025-09-19,3,romanized_nepali,Arrays and Strings,5,2.31,down,conceptual_why
+LOG-00084,E21,2025-09-05,1,code_mixed,Linked Lists,5,2.1,up,how_to_implement
+LOG-00085,E16,2025-10-09,6,english,Sorting Algorithms,5,2.09,none,conceptual_why
+LOG-00086,E08,2025-09-25,4,code_mixed,Stacks and Queues,5,1.73,up,complexity
+LOG-00087,E01,2025-10-03,5,english,Stacks and Queues,5,0.89,none,complexity
+LOG-00088,E14,2025-10-10,6,code_mixed,Dynamic Programming (Intro),5,1.16,none,how_to_implement
+LOG-00089,E03,2025-09-25,4,english,Graphs and Traversals,5,1.64,none,conceptual_why
+LOG-00090,E20,2025-09-19,3,romanized_nepali,Linked Lists,5,0.87,none,complexity
+LOG-00091,E10,2025-09-28,4,code_mixed,Heaps and Priority Queues,5,1.19,none,how_to_implement
+LOG-00092,E21,2025-09-26,4,english,Linked Lists,5,1.45,none,complexity
+LOG-00093,E04,2025-09-19,3,romanized_nepali,Dynamic Programming (Intro),5,2.16,down,debug
+LOG-00094,E14,2025-09-17,3,english,Greedy and Backtracking,5,1.96,none,how_to_implement
+LOG-00095,E04,2025-09-21,3,romanized_nepali,Dynamic Programming (Intro),5,1.91,none,complexity
+LOG-00096,E21,2025-10-06,6,code_mixed,Searching Algorithms,5,1.98,down,debug
+LOG-00097,E15,2025-09-13,2,code_mixed,Hashing,5,1.47,up,how_to_implement
+LOG-00098,E07,2025-10-12,6,romanized_nepali,Dynamic Programming (Intro),5,1.5,none,debug
+LOG-00099,E25,2025-09-18,3,code_mixed,Trees and BSTs,5,1.74,none,conceptual_why
+LOG-00100,E18,2025-09-19,3,code_mixed,Complexity and Notation,5,1.59,up,how_to_implement
+LOG-00101,E10,2025-09-09,2,english,Stacks and Queues,5,2.44,up,how_to_implement
+LOG-00102,E22,2025-09-22,4,english,Trees and BSTs,5,2.11,up,debug
+LOG-00103,E11,2025-09-21,3,romanized_nepali,Hashing,5,1.79,none,how_to_implement
+LOG-00104,E25,2025-10-05,5,code_mixed,Sorting Algorithms,5,1.31,up,conceptual_why
+LOG-00105,E09,2025-10-10,6,romanized_nepali,Graphs and Traversals,5,1.96,none,how_to_implement
+LOG-00106,E26,2025-09-18,3,english,Hashing,5,1.26,none,how_to_implement
+LOG-00107,E03,2025-10-08,6,code_mixed,Hashing,5,1.02,up,complexity
+LOG-00108,E20,2025-09-20,3,code_mixed,Stacks and Queues,5,1.57,none,complexity
+LOG-00109,E09,2025-09-22,4,english,Graphs and Traversals,5,2.03,none,how_to_implement
+LOG-00110,E12,2025-09-10,2,romanized_nepali,Stacks and Queues,5,1.72,none,complexity
+LOG-00111,E17,2025-10-10,6,english,Hashing,5,1.35,none,how_to_implement
+LOG-00112,E02,2025-09-21,3,code_mixed,Heaps and Priority Queues,5,2.37,none,conceptual_why
+LOG-00113,E07,2025-10-06,6,english,Trees and BSTs,5,1.75,up,complexity
+LOG-00114,E04,2025-09-02,1,english,Arrays and Strings,5,1.29,none,debug
+LOG-00115,E20,2025-10-06,6,code_mixed,Sorting Algorithms,5,2.28,none,conceptual_why
+LOG-00116,E07,2025-09-17,3,code_mixed,Greedy and Backtracking,5,1.87,down,conceptual_why
+LOG-00117,E14,2025-09-24,4,english,Linked Lists,5,1.84,none,how_to_implement
+LOG-00118,E10,2025-10-05,5,english,Searching Algorithms,5,1.61,none,debug
+LOG-00119,E07,2025-09-13,2,romanized_nepali,Trees and BSTs,5,1.15,up,complexity
+LOG-00120,E25,2025-09-28,4,romanized_nepali,Searching Algorithms,5,1.84,none,conceptual_why
+LOG-00121,E14,2025-10-09,6,romanized_nepali,Graphs and Traversals,5,1.96,none,conceptual_why
+LOG-00122,E18,2025-09-12,2,english,Graphs and Traversals,5,1.55,down,how_to_implement
+LOG-00123,E19,2025-09-24,4,english,Sorting Algorithms,5,2.11,none,conceptual_why
+LOG-00124,E22,2025-09-14,2,code_mixed,Greedy and Backtracking,5,0.82,none,how_to_implement
+LOG-00125,E08,2025-09-11,2,code_mixed,Arrays and Strings,5,1.72,none,debug
+LOG-00126,E03,2025-09-25,4,english,Sorting Algorithms,5,1.93,up,complexity
+LOG-00127,E13,2025-09-24,4,code_mixed,Graphs and Traversals,5,1.69,none,debug
+LOG-00128,E06,2025-10-04,5,code_mixed,Hashing,5,1.52,none,complexity
+LOG-00129,E01,2025-10-09,6,code_mixed,Graphs and Traversals,5,0.98,none,conceptual_why
+LOG-00130,E24,2025-10-06,6,romanized_nepali,Hashing,5,2.05,up,how_to_implement
+LOG-00131,E17,2025-09-20,3,romanized_nepali,Searching Algorithms,5,1.91,up,how_to_implement
+LOG-00132,E12,2025-09-25,4,english,Sorting Algorithms,5,1.51,none,complexity
+LOG-00133,E05,2025-10-05,5,romanized_nepali,Graphs and Traversals,5,1.7,none,conceptual_why
+LOG-00134,E21,2025-10-09,6,code_mixed,Stacks and Queues,5,1.55,none,debug
+LOG-00135,E14,2025-10-05,5,code_mixed,Graphs and Traversals,5,1.08,none,conceptual_why
+LOG-00136,E06,2025-09-26,4,romanized_nepali,Greedy and Backtracking,5,1.41,none,complexity
+LOG-00137,E26,2025-09-10,2,code_mixed,Linked Lists,5,1.16,up,complexity
+LOG-00138,E25,2025-10-09,6,romanized_nepali,Stacks and Queues,5,1.66,up,how_to_implement
+LOG-00139,E24,2025-09-19,3,code_mixed,Dynamic Programming (Intro),5,1.17,up,debug
+LOG-00140,E22,2025-09-22,4,romanized_nepali,Linked Lists,5,2.13,none,complexity
+LOG-00141,E14,2025-10-10,6,code_mixed,Graphs and Traversals,5,2.04,up,conceptual_why
+LOG-00142,E09,2025-09-16,3,english,Arrays and Strings,5,2.56,none,conceptual_why
+LOG-00143,E18,2025-10-11,6,romanized_nepali,Heaps and Priority Queues,5,1.25,none,conceptual_why
+LOG-00144,E05,2025-09-17,3,code_mixed,Linked Lists,5,1.71,none,conceptual_why
+LOG-00145,E16,2025-09-07,1,code_mixed,Sorting Algorithms,5,2.19,none,debug
+LOG-00146,E03,2025-09-27,4,english,Searching Algorithms,5,1.83,none,how_to_implement
+LOG-00147,E01,2025-10-08,6,code_mixed,Graphs and Traversals,5,1.19,up,how_to_implement
+LOG-00148,E19,2025-09-22,4,english,Stacks and Queues,5,1.14,up,complexity
+LOG-00149,E10,2025-10-09,6,romanized_nepali,Searching Algorithms,5,1.68,none,complexity
+LOG-00150,E19,2025-09-22,4,code_mixed,Heaps and Priority Queues,5,2.05,none,complexity
+LOG-00151,E21,2025-10-08,6,code_mixed,Greedy and Backtracking,5,1.85,none,conceptual_why
+LOG-00152,E22,2025-09-09,2,code_mixed,Dynamic Programming (Intro),5,1.98,up,how_to_implement
+LOG-00153,E16,2025-09-19,3,code_mixed,Searching Algorithms,5,1.89,none,conceptual_why
+LOG-00154,E22,2025-09-09,2,english,Heaps and Priority Queues,5,1.18,none,complexity
+LOG-00155,E18,2025-10-07,6,english,Hashing,5,2.06,up,conceptual_why
+LOG-00156,E24,2025-09-24,4,code_mixed,Linked Lists,5,1.95,none,conceptual_why
+LOG-00157,E23,2025-10-05,5,romanized_nepali,Linked Lists,5,1.89,none,complexity
+LOG-00158,E02,2025-09-18,3,code_mixed,Graphs and Traversals,5,1.53,none,how_to_implement
+LOG-00159,E08,2025-10-06,6,romanized_nepali,Heaps and Priority Queues,5,1.83,down,conceptual_why
+LOG-00160,E11,2025-10-12,6,english,Dynamic Programming (Intro),5,2.14,none,debug
+LOG-00161,E08,2025-09-06,1,code_mixed,Heaps and Priority Queues,5,1.73,none,how_to_implement
+LOG-00162,E06,2025-09-20,3,code_mixed,Greedy and Backtracking,5,1.37,none,debug
+LOG-00163,E23,2025-10-10,6,code_mixed,Stacks and Queues,5,1.25,none,conceptual_why
+LOG-00164,E01,2025-10-09,6,code_mixed,Heaps and Priority Queues,5,1.71,none,conceptual_why
+LOG-00165,E06,2025-10-10,6,english,Graphs and Traversals,5,1.51,up,conceptual_why
+LOG-00166,E21,2025-09-17,3,code_mixed,Searching Algorithms,5,2.75,none,complexity
+LOG-00167,E07,2025-09-30,5,english,Linked Lists,5,1.64,none,complexity
+LOG-00168,E08,2025-09-07,1,romanized_nepali,Graphs and Traversals,5,1.32,none,how_to_implement
+LOG-00169,E25,2025-09-23,4,english,Arrays and Strings,5,1.58,none,conceptual_why
+LOG-00170,E21,2025-10-01,5,english,Trees and BSTs,5,1.87,none,debug
+LOG-00171,E13,2025-09-18,3,code_mixed,Trees and BSTs,5,1.92,none,conceptual_why
+LOG-00172,E05,2025-09-23,4,code_mixed,Trees and BSTs,5,1.72,up,how_to_implement
+LOG-00173,E08,2025-09-21,3,english,Linked Lists,5,1.85,none,how_to_implement
+LOG-00174,E26,2025-09-07,1,romanized_nepali,Dynamic Programming (Intro),5,1.06,none,how_to_implement
+LOG-00175,E21,2025-09-06,1,code_mixed,Dynamic Programming (Intro),5,1.9,none,conceptual_why
+LOG-00176,E03,2025-10-08,6,english,Graphs and Traversals,5,1.47,none,how_to_implement
+LOG-00177,E19,2025-09-01,1,english,Searching Algorithms,5,1.76,up,debug
+LOG-00178,E11,2025-10-12,6,code_mixed,Stacks and Queues,5,0.67,up,debug
+LOG-00179,E19,2025-10-10,6,english,Stacks and Queues,5,1.16,up,conceptual_why
+LOG-00180,E09,2025-10-12,6,romanized_nepali,Dynamic Programming (Intro),5,2.15,none,conceptual_why
+LOG-00181,E04,2025-10-08,6,code_mixed,Trees and BSTs,5,1.82,up,conceptual_why
+LOG-00182,E01,2025-09-01,1,romanized_nepali,Graphs and Traversals,5,1.71,up,debug
+LOG-00183,E09,2025-09-09,2,english,Arrays and Strings,5,2.54,up,conceptual_why
+LOG-00184,E22,2025-09-20,3,code_mixed,Hashing,5,2.31,down,complexity
+LOG-00185,E23,2025-09-14,2,english,Complexity and Notation,5,1.22,none,how_to_implement
+LOG-00186,E18,2025-09-05,1,romanized_nepali,Dynamic Programming (Intro),5,1.22,none,debug
+LOG-00187,E20,2025-10-11,6,code_mixed,Trees and BSTs,5,1.69,up,conceptual_why
+LOG-00188,E06,2025-10-10,6,english,Graphs and Traversals,5,2.35,none,how_to_implement
+LOG-00189,E10,2025-10-07,6,code_mixed,Sorting Algorithms,5,2.04,up,conceptual_why
+LOG-00190,E23,2025-09-18,3,code_mixed,Hashing,5,1.49,up,how_to_implement
+LOG-00191,E26,2025-10-09,6,romanized_nepali,Trees and BSTs,5,1.5,up,conceptual_why
+LOG-00192,E13,2025-10-08,6,english,Arrays and Strings,5,1.75,none,how_to_implement
+LOG-00193,E21,2025-09-20,3,english,Graphs and Traversals,5,1.3,none,how_to_implement
+LOG-00194,E25,2025-09-10,2,romanized_nepali,Graphs and Traversals,5,1.15,none,how_to_implement
+LOG-00195,E26,2025-09-10,2,english,Graphs and Traversals,5,1.5,none,conceptual_why
+LOG-00196,E09,2025-09-22,4,code_mixed,Complexity and Notation,5,1.58,none,how_to_implement
+LOG-00197,E18,2025-10-09,6,english,Greedy and Backtracking,5,2.6,up,complexity
+LOG-00198,E11,2025-09-06,1,english,Greedy and Backtracking,5,1.76,none,complexity
+LOG-00199,E13,2025-09-23,4,code_mixed,Complexity and Notation,5,2.01,none,complexity
+LOG-00200,E13,2025-09-21,3,romanized_nepali,Arrays and Strings,5,1.3,none,debug
+LOG-00201,E09,2025-10-10,6,romanized_nepali,Stacks and Queues,5,1.54,up,debug
+LOG-00202,E01,2025-09-12,2,code_mixed,Stacks and Queues,5,1.27,up,how_to_implement
+LOG-00203,E21,2025-10-05,5,romanized_nepali,Dynamic Programming (Intro),5,2.24,none,conceptual_why
+LOG-00204,E19,2025-09-20,3,code_mixed,Dynamic Programming (Intro),5,1.75,up,conceptual_why
+LOG-00205,E22,2025-10-04,5,code_mixed,Greedy and Backtracking,5,2.06,none,debug
+LOG-00206,E05,2025-10-08,6,code_mixed,Dynamic Programming (Intro),5,1.82,none,complexity
+LOG-00207,E07,2025-10-08,6,english,Graphs and Traversals,5,1.23,up,how_to_implement
+LOG-00208,E16,2025-10-09,6,english,Hashing,5,2.36,up,conceptual_why
+LOG-00209,E25,2025-09-19,3,romanized_nepali,Trees and BSTs,5,1.64,none,complexity
+LOG-00210,E13,2025-09-19,3,code_mixed,Linked Lists,5,2.06,none,complexity
+LOG-00211,E06,2025-09-09,2,code_mixed,Linked Lists,5,2.8,up,complexity
+LOG-00212,E16,2025-09-18,3,code_mixed,Trees and BSTs,5,2.27,none,how_to_implement
+LOG-00213,E25,2025-09-09,2,english,Hashing,5,2.48,none,conceptual_why
+LOG-00214,E23,2025-10-08,6,code_mixed,Heaps and Priority Queues,5,1.36,none,complexity
+LOG-00215,E23,2025-09-04,1,code_mixed,Hashing,5,1.64,none,how_to_implement
+LOG-00216,E12,2025-09-14,2,english,Graphs and Traversals,5,1.68,down,complexity
+LOG-00217,E08,2025-10-08,6,code_mixed,Stacks and Queues,5,1.76,none,how_to_implement
+LOG-00218,E23,2025-10-07,6,code_mixed,Heaps and Priority Queues,5,1.61,none,conceptual_why
+LOG-00219,E21,2025-10-12,6,english,Trees and BSTs,5,1.66,up,complexity
+LOG-00220,E22,2025-09-22,4,romanized_nepali,Trees and BSTs,5,2.15,none,conceptual_why
+LOG-00221,E11,2025-09-04,1,english,Greedy and Backtracking,5,1.25,up,how_to_implement
+LOG-00222,E09,2025-10-08,6,english,Arrays and Strings,5,1.6,up,how_to_implement
+LOG-00223,E07,2025-09-19,3,english,Greedy and Backtracking,5,1.44,up,conceptual_why
+LOG-00224,E23,2025-10-07,6,romanized_nepali,Graphs and Traversals,5,2.39,none,complexity
+LOG-00225,E24,2025-09-02,1,code_mixed,Linked Lists,5,1.83,none,debug
+LOG-00226,E11,2025-09-03,1,code_mixed,Trees and BSTs,5,1.62,up,complexity
+LOG-00227,E23,2025-10-03,5,code_mixed,Hashing,5,2.45,none,complexity
+LOG-00228,E11,2025-10-05,5,code_mixed,Hashing,5,2.89,up,how_to_implement
+LOG-00229,E13,2025-09-30,5,english,Dynamic Programming (Intro),5,1.45,none,how_to_implement
+LOG-00230,E15,2025-09-28,4,romanized_nepali,Hashing,5,1.39,none,debug
+LOG-00231,E07,2025-10-03,5,english,Graphs and Traversals,5,0.84,none,debug
+LOG-00232,E08,2025-09-10,2,english,Dynamic Programming (Intro),5,1.87,up,how_to_implement
+LOG-00233,E08,2025-09-05,1,code_mixed,Arrays and Strings,5,1.21,up,debug
+LOG-00234,E08,2025-09-21,3,code_mixed,Hashing,5,1.21,none,how_to_implement
+LOG-00235,E14,2025-09-29,5,code_mixed,Dynamic Programming (Intro),5,1.21,none,how_to_implement
+LOG-00236,E04,2025-09-18,3,code_mixed,Dynamic Programming (Intro),5,1.92,up,conceptual_why
+LOG-00237,E21,2025-09-14,2,code_mixed,Trees and BSTs,5,1.71,up,conceptual_why
+LOG-00238,E06,2025-09-23,4,english,Linked Lists,5,1.32,none,conceptual_why
+LOG-00239,E13,2025-09-22,4,english,Heaps and Priority Queues,5,1.69,none,how_to_implement
+LOG-00240,E17,2025-09-19,3,english,Heaps and Priority Queues,5,1.47,none,how_to_implement
+LOG-00241,E05,2025-10-11,6,code_mixed,Graphs and Traversals,5,1.53,up,complexity
+LOG-00242,E12,2025-10-11,6,code_mixed,Heaps and Priority Queues,5,1.73,none,conceptual_why
+LOG-00243,E15,2025-09-04,1,code_mixed,Trees and BSTs,5,1.83,none,complexity
+LOG-00244,E15,2025-09-24,4,code_mixed,Graphs and Traversals,5,1.41,down,debug
+LOG-00245,E23,2025-09-18,3,english,Linked Lists,5,1.55,none,complexity
+LOG-00246,E21,2025-09-20,3,english,Searching Algorithms,5,2.13,none,how_to_implement
+LOG-00247,E04,2025-09-03,1,code_mixed,Graphs and Traversals,5,1.47,none,how_to_implement
+LOG-00248,E22,2025-09-06,1,english,Sorting Algorithms,5,1.89,none,how_to_implement
+LOG-00249,E15,2025-09-03,1,english,Dynamic Programming (Intro),5,1.08,none,how_to_implement
+LOG-00250,E18,2025-09-10,2,english,Dynamic Programming (Intro),5,1.3,none,how_to_implement
+LOG-00251,E05,2025-10-04,5,code_mixed,Arrays and Strings,5,1.03,none,debug
+LOG-00252,E13,2025-09-06,1,code_mixed,Arrays and Strings,5,1.72,up,how_to_implement
+LOG-00253,E19,2025-10-10,6,code_mixed,Trees and BSTs,5,2.04,none,conceptual_why
+LOG-00254,E21,2025-10-08,6,code_mixed,Trees and BSTs,5,0.63,none,complexity
+LOG-00255,E21,2025-09-19,3,english,Dynamic Programming (Intro),5,2.11,none,conceptual_why
+LOG-00256,E07,2025-10-05,5,code_mixed,Trees and BSTs,5,1.75,up,how_to_implement
+LOG-00257,E22,2025-10-11,6,code_mixed,Dynamic Programming (Intro),5,1.95,none,complexity
+LOG-00258,E15,2025-09-09,2,english,Graphs and Traversals,5,1.91,down,how_to_implement
+LOG-00259,E18,2025-09-30,5,code_mixed,Dynamic Programming (Intro),5,1.52,up,conceptual_why
+LOG-00260,E22,2025-09-24,4,english,Complexity and Notation,5,1.33,none,how_to_implement
+LOG-00261,E12,2025-09-20,3,code_mixed,Trees and BSTs,5,1.61,none,how_to_implement
+LOG-00262,E24,2025-09-19,3,code_mixed,Dynamic Programming (Intro),5,1.97,none,complexity
+LOG-00263,E23,2025-09-07,1,english,Stacks and Queues,5,1.49,up,how_to_implement
+LOG-00264,E21,2025-10-04,5,english,Searching Algorithms,5,2.36,none,complexity
+LOG-00265,E11,2025-09-15,3,romanized_nepali,Arrays and Strings,5,1.7,none,conceptual_why
+LOG-00266,E14,2025-09-23,4,code_mixed,Linked Lists,5,1.63,up,conceptual_why
+LOG-00267,E06,2025-10-11,6,code_mixed,Stacks and Queues,5,1.15,none,conceptual_why
+LOG-00268,E21,2025-09-21,3,romanized_nepali,Stacks and Queues,5,0.94,none,how_to_implement
+LOG-00269,E23,2025-09-20,3,english,Dynamic Programming (Intro),5,2.2,up,how_to_implement
+LOG-00270,E05,2025-10-11,6,english,Graphs and Traversals,5,2.17,none,debug
+LOG-00271,E20,2025-10-02,5,english,Greedy and Backtracking,5,2.25,none,conceptual_why
+LOG-00272,E19,2025-10-01,5,english,Heaps and Priority Queues,5,2.05,up,how_to_implement
+LOG-00273,E02,2025-09-17,3,code_mixed,Dynamic Programming (Intro),5,1.07,none,how_to_implement
+LOG-00274,E24,2025-10-04,5,english,Complexity and Notation,5,1.81,up,how_to_implement
+LOG-00275,E13,2025-09-22,4,english,Arrays and Strings,5,2.1,none,debug
+LOG-00276,E08,2025-09-29,5,code_mixed,Dynamic Programming (Intro),5,2.17,none,how_to_implement
+LOG-00277,E01,2025-09-22,4,code_mixed,Hashing,5,2.08,none,how_to_implement
+LOG-00278,E21,2025-09-06,1,romanized_nepali,Hashing,5,1.6,none,conceptual_why
+LOG-00279,E10,2025-10-10,6,code_mixed,Arrays and Strings,5,2.29,none,debug
+LOG-00280,E14,2025-10-05,5,code_mixed,Heaps and Priority Queues,5,1.47,none,complexity
+LOG-00281,E06,2025-10-12,6,english,Dynamic Programming (Intro),5,1.72,up,how_to_implement
+LOG-00282,E16,2025-09-20,3,english,Graphs and Traversals,5,1.57,none,complexity
+LOG-00283,E12,2025-09-19,3,code_mixed,Trees and BSTs,5,1.69,none,complexity
+LOG-00284,E21,2025-09-10,2,code_mixed,Linked Lists,5,1.69,none,how_to_implement
+LOG-00285,E18,2025-09-20,3,romanized_nepali,Complexity and Notation,5,2.43,up,debug
+LOG-00286,E19,2025-09-20,3,code_mixed,Greedy and Backtracking,5,1.86,up,conceptual_why
+LOG-00287,E08,2025-09-14,2,romanized_nepali,Greedy and Backtracking,5,1.42,up,complexity
+LOG-00288,E03,2025-09-18,3,english,Graphs and Traversals,5,1.96,up,conceptual_why
+LOG-00289,E23,2025-09-19,3,english,Heaps and Priority Queues,5,1.89,down,conceptual_why
+LOG-00290,E25,2025-10-09,6,code_mixed,Graphs and Traversals,5,1.62,none,complexity
+LOG-00291,E17,2025-09-23,4,code_mixed,Trees and BSTs,5,2.05,up,complexity
+LOG-00292,E24,2025-10-08,6,english,Linked Lists,5,1.8,none,how_to_implement
+LOG-00293,E19,2025-09-04,1,romanized_nepali,Heaps and Priority Queues,5,1.52,none,complexity
+LOG-00294,E16,2025-09-14,2,code_mixed,Stacks and Queues,5,2.4,up,debug
+LOG-00295,E12,2025-10-11,6,romanized_nepali,Arrays and Strings,5,1.05,none,conceptual_why
+LOG-00296,E10,2025-09-04,1,code_mixed,Searching Algorithms,5,1.55,none,complexity
+LOG-00297,E14,2025-09-06,1,code_mixed,Trees and BSTs,5,1.82,none,how_to_implement
+LOG-00298,E07,2025-09-27,4,code_mixed,Hashing,5,1.44,none,conceptual_why
+LOG-00299,E12,2025-09-19,3,english,Stacks and Queues,5,1.62,up,conceptual_why
+LOG-00300,E14,2025-09-15,3,romanized_nepali,Heaps and Priority Queues,5,2.34,none,conceptual_why
+LOG-00301,E01,2025-10-04,5,code_mixed,Sorting Algorithms,5,1.79,up,how_to_implement
+LOG-00302,E11,2025-10-04,5,romanized_nepali,Sorting Algorithms,5,1.64,none,debug
+LOG-00303,E09,2025-09-14,2,code_mixed,Dynamic Programming (Intro),5,2.26,up,how_to_implement
+LOG-00304,E17,2025-09-29,5,code_mixed,Hashing,5,1.44,none,how_to_implement
+LOG-00305,E21,2025-09-24,4,code_mixed,Dynamic Programming (Intro),5,2.09,down,debug
+LOG-00306,E16,2025-10-09,6,english,Sorting Algorithms,5,1.93,none,conceptual_why
+LOG-00307,E18,2025-09-05,1,code_mixed,Searching Algorithms,5,1.74,up,conceptual_why
+LOG-00308,E16,2025-09-18,3,romanized_nepali,Sorting Algorithms,5,1.77,up,debug
+LOG-00309,E08,2025-10-01,5,romanized_nepali,Greedy and Backtracking,5,1.97,none,how_to_implement
+LOG-00310,E11,2025-09-03,1,romanized_nepali,Arrays and Strings,5,1.21,up,complexity
+LOG-00311,E22,2025-10-09,6,romanized_nepali,Sorting Algorithms,5,1.86,none,complexity
+LOG-00312,E25,2025-10-12,6,english,Graphs and Traversals,5,1.6,none,complexity
+LOG-00313,E06,2025-09-20,3,english,Stacks and Queues,5,1.45,none,conceptual_why
+LOG-00314,E01,2025-10-07,6,code_mixed,Dynamic Programming (Intro),5,1.77,up,conceptual_why
+LOG-00315,E25,2025-09-18,3,english,Heaps and Priority Queues,5,0.53,up,how_to_implement
+LOG-00316,E22,2025-10-11,6,code_mixed,Trees and BSTs,5,1.44,none,how_to_implement
+LOG-00317,E16,2025-09-16,3,english,Trees and BSTs,5,2.3,none,how_to_implement
+LOG-00318,E22,2025-09-01,1,code_mixed,Stacks and Queues,5,1.55,none,debug
+LOG-00319,E16,2025-09-05,1,code_mixed,Dynamic Programming (Intro),5,1.56,up,how_to_implement
+LOG-00320,E24,2025-09-24,4,english,Complexity and Notation,5,0.58,none,how_to_implement
+LOG-00321,E08,2025-09-03,1,code_mixed,Graphs and Traversals,5,1.81,none,conceptual_why
+LOG-00322,E13,2025-10-12,6,english,Searching Algorithms,5,1.72,none,debug
+LOG-00323,E18,2025-10-04,5,romanized_nepali,Linked Lists,5,1.83,down,conceptual_why
+LOG-00324,E07,2025-10-01,5,code_mixed,Dynamic Programming (Intro),5,1.99,none,complexity
+LOG-00325,E19,2025-10-04,5,code_mixed,Linked Lists,5,2.0,down,how_to_implement
+LOG-00326,E08,2025-09-23,4,romanized_nepali,Trees and BSTs,5,1.64,up,debug
+LOG-00327,E19,2025-10-10,6,english,Stacks and Queues,5,1.84,none,complexity
+LOG-00328,E21,2025-10-06,6,romanized_nepali,Linked Lists,5,1.1,up,debug
+LOG-00329,E12,2025-09-23,4,romanized_nepali,Searching Algorithms,5,2.23,none,conceptual_why
+LOG-00330,E26,2025-09-19,3,code_mixed,Graphs and Traversals,5,1.56,none,complexity
+LOG-00331,E17,2025-09-11,2,romanized_nepali,Heaps and Priority Queues,5,2.27,up,conceptual_why
+LOG-00332,E21,2025-09-20,3,english,Sorting Algorithms,5,1.77,down,debug
+LOG-00333,E01,2025-09-21,3,code_mixed,Linked Lists,5,1.76,none,complexity
+LOG-00334,E04,2025-09-06,1,english,Graphs and Traversals,5,1.88,none,conceptual_why
+LOG-00335,E19,2025-10-11,6,english,Greedy and Backtracking,5,1.47,up,debug
+LOG-00336,E25,2025-09-18,3,code_mixed,Stacks and Queues,5,1.13,none,conceptual_why
+LOG-00337,E17,2025-09-29,5,code_mixed,Greedy and Backtracking,5,2.55,up,conceptual_why
+LOG-00338,E24,2025-09-05,1,english,Trees and BSTs,5,1.74,none,complexity
+LOG-00339,E02,2025-09-30,5,english,Graphs and Traversals,5,1.72,up,how_to_implement
+LOG-00340,E23,2025-10-04,5,english,Stacks and Queues,5,1.71,down,how_to_implement
+LOG-00341,E23,2025-09-06,1,code_mixed,Dynamic Programming (Intro),5,1.79,none,conceptual_why
+LOG-00342,E17,2025-10-12,6,english,Graphs and Traversals,5,1.68,up,how_to_implement
+LOG-00343,E12,2025-09-12,2,code_mixed,Greedy and Backtracking,5,1.72,up,conceptual_why
+LOG-00344,E19,2025-09-18,3,english,Graphs and Traversals,5,1.48,up,debug
+LOG-00345,E08,2025-10-06,6,code_mixed,Trees and BSTs,5,1.71,none,debug
+LOG-00346,E18,2025-09-20,3,code_mixed,Heaps and Priority Queues,5,1.94,none,conceptual_why
+LOG-00347,E19,2025-10-10,6,english,Sorting Algorithms,5,2.2,none,complexity
+LOG-00348,E14,2025-09-18,3,code_mixed,Hashing,5,1.72,none,how_to_implement
+LOG-00349,E08,2025-09-20,3,code_mixed,Trees and BSTs,5,1.32,none,complexity
+LOG-00350,E01,2025-10-05,5,code_mixed,Sorting Algorithms,5,0.68,none,how_to_implement
+LOG-00351,E06,2025-10-09,6,english,Dynamic Programming (Intro),5,2.05,none,complexity
+LOG-00352,E22,2025-10-10,6,code_mixed,Dynamic Programming (Intro),5,1.64,none,debug
+LOG-00353,E07,2025-09-19,3,english,Trees and BSTs,5,2.04,none,complexity
+LOG-00354,E03,2025-09-28,4,english,Heaps and Priority Queues,5,1.74,none,how_to_implement
+LOG-00355,E08,2025-09-22,4,code_mixed,Dynamic Programming (Intro),5,2.45,none,how_to_implement
+LOG-00356,E14,2025-10-05,5,code_mixed,Sorting Algorithms,5,1.76,up,complexity
+LOG-00357,E15,2025-09-17,3,romanized_nepali,Hashing,5,1.53,none,conceptual_why
+LOG-00358,E23,2025-10-09,6,romanized_nepali,Greedy and Backtracking,5,2.09,up,conceptual_why
+LOG-00359,E22,2025-10-06,6,english,Sorting Algorithms,5,1.21,none,how_to_implement
+LOG-00360,E25,2025-09-13,2,romanized_nepali,Trees and BSTs,5,1.96,up,conceptual_why
+LOG-00361,E23,2025-09-20,3,code_mixed,Sorting Algorithms,5,1.89,none,conceptual_why
+LOG-00362,E13,2025-09-20,3,romanized_nepali,Stacks and Queues,5,1.32,none,debug
+LOG-00363,E05,2025-10-11,6,english,Greedy and Backtracking,5,1.95,none,conceptual_why
+LOG-00364,E25,2025-09-24,4,code_mixed,Graphs and Traversals,5,1.65,up,complexity
+LOG-00365,E07,2025-10-04,5,romanized_nepali,Graphs and Traversals,5,1.55,none,conceptual_why
+LOG-00366,E16,2025-10-11,6,code_mixed,Graphs and Traversals,5,1.59,none,how_to_implement
+LOG-00367,E08,2025-09-22,4,code_mixed,Linked Lists,5,1.95,up,how_to_implement
+LOG-00368,E22,2025-10-11,6,romanized_nepali,Heaps and Priority Queues,5,0.96,up,conceptual_why
+LOG-00369,E06,2025-09-19,3,code_mixed,Graphs and Traversals,5,1.86,up,conceptual_why
+LOG-00370,E12,2025-09-01,1,english,Hashing,5,2.1,none,how_to_implement
+LOG-00371,E07,2025-09-08,2,code_mixed,Linked Lists,5,1.36,up,complexity
+LOG-00372,E22,2025-10-05,5,code_mixed,Linked Lists,5,1.89,none,complexity
+LOG-00373,E16,2025-09-22,4,romanized_nepali,Greedy and Backtracking,5,1.6,down,how_to_implement
+LOG-00374,E17,2025-10-09,6,english,Heaps and Priority Queues,5,0.89,up,how_to_implement
+LOG-00375,E09,2025-09-28,4,english,Searching Algorithms,5,2.76,down,conceptual_why
+LOG-00376,E06,2025-10-05,5,code_mixed,Heaps and Priority Queues,5,1.98,up,complexity
+LOG-00377,E22,2025-09-21,3,code_mixed,Graphs and Traversals,5,1.56,up,how_to_implement
+LOG-00378,E21,2025-10-02,5,english,Stacks and Queues,5,1.86,none,debug
+LOG-00379,E20,2025-10-06,6,english,Arrays and Strings,5,1.69,up,how_to_implement
+LOG-00380,E26,2025-09-22,4,code_mixed,Trees and BSTs,5,2.11,up,how_to_implement
+LOG-00381,E15,2025-09-25,4,english,Linked Lists,5,1.16,none,conceptual_why
+LOG-00382,E06,2025-10-09,6,romanized_nepali,Sorting Algorithms,5,2.17,up,how_to_implement
+LOG-00383,E16,2025-10-11,6,english,Graphs and Traversals,5,1.58,none,how_to_implement
+LOG-00384,E09,2025-09-21,3,english,Complexity and Notation,5,1.45,none,conceptual_why
+LOG-00385,E14,2025-09-05,1,romanized_nepali,Searching Algorithms,5,2.11,none,how_to_implement
+LOG-00386,E13,2025-10-09,6,english,Sorting Algorithms,5,2.11,none,conceptual_why
+LOG-00387,E15,2025-09-24,4,english,Greedy and Backtracking,5,1.36,up,how_to_implement
+LOG-00388,E24,2025-10-12,6,code_mixed,Dynamic Programming (Intro),5,1.42,up,conceptual_why
+LOG-00389,E21,2025-10-07,6,english,Graphs and Traversals,5,1.42,none,how_to_implement
+LOG-00390,E12,2025-09-21,3,code_mixed,Greedy and Backtracking,5,2.27,up,debug
+LOG-00391,E22,2025-10-09,6,english,Trees and BSTs,5,1.41,none,conceptual_why
+LOG-00392,E22,2025-09-29,5,english,Searching Algorithms,5,1.96,up,how_to_implement
+LOG-00393,E21,2025-10-06,6,romanized_nepali,Graphs and Traversals,5,1.71,none,conceptual_why
+LOG-00394,E15,2025-10-10,6,romanized_nepali,Trees and BSTs,5,1.69,up,complexity
+LOG-00395,E23,2025-10-02,5,romanized_nepali,Linked Lists,5,1.78,none,debug
+LOG-00396,E14,2025-10-11,6,english,Hashing,5,1.24,up,complexity
+LOG-00397,E04,2025-09-22,4,code_mixed,Hashing,5,1.58,none,debug
+LOG-00398,E08,2025-09-22,4,code_mixed,Heaps and Priority Queues,5,1.97,none,how_to_implement
+LOG-00399,E18,2025-10-04,5,romanized_nepali,Trees and BSTs,5,2.12,down,conceptual_why
+LOG-00400,E11,2025-09-22,4,code_mixed,Greedy and Backtracking,5,1.58,none,conceptual_why
+LOG-00401,E12,2025-10-06,6,code_mixed,Graphs and Traversals,5,1.92,none,complexity
+LOG-00402,E12,2025-09-28,4,code_mixed,Hashing,5,1.79,none,debug
+LOG-00403,E06,2025-10-07,6,romanized_nepali,Sorting Algorithms,5,2.22,up,conceptual_why
+LOG-00404,E04,2025-10-09,6,code_mixed,Graphs and Traversals,5,1.0,down,complexity
+LOG-00405,E02,2025-10-01,5,english,Graphs and Traversals,5,2.12,up,debug
+LOG-00406,E18,2025-10-11,6,english,Hashing,5,1.28,up,how_to_implement
+LOG-00407,E10,2025-10-08,6,english,Linked Lists,5,1.81,up,how_to_implement
+LOG-00408,E13,2025-10-09,6,english,Greedy and Backtracking,5,2.39,down,how_to_implement
+LOG-00409,E25,2025-09-02,1,romanized_nepali,Searching Algorithms,5,1.69,none,how_to_implement
+LOG-00410,E17,2025-09-02,1,code_mixed,Graphs and Traversals,5,1.84,up,how_to_implement
+LOG-00411,E21,2025-10-04,5,english,Graphs and Traversals,5,1.32,none,conceptual_why
+LOG-00412,E21,2025-09-20,3,romanized_nepali,Trees and BSTs,5,1.95,up,debug
+LOG-00413,E25,2025-10-10,6,code_mixed,Searching Algorithms,5,2.14,none,how_to_implement
+LOG-00414,E03,2025-09-22,4,code_mixed,Heaps and Priority Queues,5,2.11,up,conceptual_why
+LOG-00415,E11,2025-10-07,6,english,Heaps and Priority Queues,5,1.83,none,conceptual_why
+LOG-00416,E25,2025-09-18,3,english,Arrays and Strings,5,1.27,up,how_to_implement
+LOG-00417,E13,2025-10-04,5,romanized_nepali,Stacks and Queues,5,2.35,none,debug
+LOG-00418,E25,2025-10-10,6,code_mixed,Complexity and Notation,5,2.56,none,how_to_implement
+LOG-00419,E06,2025-10-09,6,romanized_nepali,Trees and BSTs,5,1.69,none,conceptual_why
+LOG-00420,E02,2025-09-21,3,romanized_nepali,Searching Algorithms,5,1.82,up,conceptual_why
+LOG-00421,E23,2025-09-24,4,code_mixed,Trees and BSTs,5,1.76,none,how_to_implement
+LOG-00422,E12,2025-09-28,4,english,Sorting Algorithms,5,2.1,none,how_to_implement
+LOG-00423,E14,2025-09-21,3,code_mixed,Linked Lists,5,1.87,none,debug
+LOG-00424,E25,2025-09-25,4,code_mixed,Dynamic Programming (Intro),5,2.36,none,conceptual_why
+LOG-00425,E07,2025-10-12,6,romanized_nepali,Greedy and Backtracking,5,2.39,none,complexity
+LOG-00426,E25,2025-10-10,6,code_mixed,Searching Algorithms,5,1.77,none,conceptual_why
+LOG-00427,E12,2025-09-20,3,romanized_nepali,Dynamic Programming (Intro),5,1.08,none,conceptual_why
+LOG-00428,E08,2025-10-05,5,english,Hashing,5,2.02,down,conceptual_why
+LOG-00429,E07,2025-10-11,6,english,Stacks and Queues,5,1.65,none,conceptual_why
+LOG-00430,E14,2025-09-21,3,code_mixed,Trees and BSTs,5,2.37,up,complexity
+LOG-00431,E13,2025-10-09,6,code_mixed,Dynamic Programming (Intro),5,2.02,none,how_to_implement
+LOG-00432,E23,2025-10-08,6,code_mixed,Sorting Algorithms,5,1.03,up,debug
+LOG-00433,E02,2025-10-10,6,code_mixed,Linked Lists,5,1.73,up,complexity
+LOG-00434,E02,2025-09-07,1,english,Trees and BSTs,5,1.09,none,complexity
+LOG-00435,E05,2025-10-11,6,code_mixed,Greedy and Backtracking,5,1.4,none,how_to_implement
+LOG-00436,E16,2025-10-12,6,code_mixed,Sorting Algorithms,5,2.01,none,conceptual_why
+LOG-00437,E21,2025-09-18,3,code_mixed,Graphs and Traversals,5,1.26,none,complexity
+LOG-00438,E14,2025-10-04,5,english,Greedy and Backtracking,5,1.46,none,how_to_implement
+LOG-00439,E16,2025-09-07,1,code_mixed,Graphs and Traversals,5,2.05,up,complexity
+LOG-00440,E17,2025-10-03,5,code_mixed,Hashing,5,2.02,none,complexity
+LOG-00441,E01,2025-10-06,6,romanized_nepali,Dynamic Programming (Intro),5,1.94,none,debug
+LOG-00442,E08,2025-10-07,6,english,Hashing,5,2.26,up,how_to_implement
+LOG-00443,E26,2025-10-09,6,code_mixed,Heaps and Priority Queues,5,1.35,up,conceptual_why
+LOG-00444,E10,2025-09-19,3,english,Arrays and Strings,5,2.63,up,complexity
+LOG-00445,E25,2025-09-09,2,english,Greedy and Backtracking,5,2.11,none,how_to_implement
+LOG-00446,E14,2025-10-08,6,romanized_nepali,Graphs and Traversals,5,1.95,none,how_to_implement
+LOG-00447,E07,2025-09-02,1,code_mixed,Hashing,5,0.67,none,conceptual_why
+LOG-00448,E01,2025-09-18,3,code_mixed,Graphs and Traversals,5,1.82,up,debug
+LOG-00449,E07,2025-09-18,3,code_mixed,Stacks and Queues,5,1.7,none,how_to_implement
+LOG-00450,E10,2025-10-07,6,code_mixed,Dynamic Programming (Intro),5,1.78,none,complexity
+LOG-00451,E13,2025-09-23,4,romanized_nepali,Hashing,5,2.23,up,conceptual_why
+LOG-00452,E13,2025-10-09,6,english,Trees and BSTs,5,1.42,up,how_to_implement
+LOG-00453,E15,2025-10-05,5,code_mixed,Stacks and Queues,5,0.83,down,debug
+LOG-00454,E13,2025-10-09,6,code_mixed,Dynamic Programming (Intro),5,1.86,none,how_to_implement
+LOG-00455,E01,2025-10-08,6,code_mixed,Heaps and Priority Queues,5,2.31,none,complexity
+LOG-00456,E08,2025-10-10,6,romanized_nepali,Graphs and Traversals,5,1.02,none,debug
+LOG-00457,E25,2025-09-19,3,code_mixed,Sorting Algorithms,5,1.8,none,conceptual_why
+LOG-00458,E01,2025-09-21,3,code_mixed,Greedy and Backtracking,5,1.14,none,complexity
+LOG-00459,E20,2025-10-04,5,code_mixed,Complexity and Notation,5,2.49,none,conceptual_why
+LOG-00460,E13,2025-10-02,5,english,Sorting Algorithms,5,2.0,up,how_to_implement
+LOG-00461,E19,2025-10-07,6,code_mixed,Sorting Algorithms,5,2.18,up,conceptual_why
+LOG-00462,E10,2025-10-08,6,romanized_nepali,Dynamic Programming (Intro),5,2.4,up,conceptual_why
+LOG-00463,E11,2025-09-20,3,code_mixed,Dynamic Programming (Intro),5,2.08,up,conceptual_why
+LOG-00464,E14,2025-09-09,2,code_mixed,Greedy and Backtracking,5,2.17,none,conceptual_why
+LOG-00465,E24,2025-10-07,6,romanized_nepali,Graphs and Traversals,5,2.23,up,debug
+LOG-00466,E10,2025-10-05,5,romanized_nepali,Trees and BSTs,5,1.96,none,complexity
+LOG-00467,E03,2025-09-19,3,romanized_nepali,Dynamic Programming (Intro),5,1.9,none,conceptual_why
+LOG-00468,E02,2025-09-05,1,code_mixed,Dynamic Programming (Intro),5,1.42,none,debug
+LOG-00469,E23,2025-09-02,1,romanized_nepali,Sorting Algorithms,5,2.27,none,how_to_implement
+LOG-00470,E09,2025-09-18,3,english,Sorting Algorithms,5,2.33,none,complexity
+LOG-00471,E04,2025-09-19,3,english,Sorting Algorithms,5,1.74,up,debug
+LOG-00472,E16,2025-09-16,3,romanized_nepali,Trees and BSTs,5,2.33,none,conceptual_why
+LOG-00473,E22,2025-09-04,1,code_mixed,Arrays and Strings,5,1.57,up,conceptual_why
+LOG-00474,E16,2025-09-13,2,english,Stacks and Queues,5,2.19,none,debug
+LOG-00475,E05,2025-09-21,3,english,Trees and BSTs,5,1.99,none,complexity
+LOG-00476,E12,2025-09-07,1,english,Hashing,5,2.65,up,how_to_implement
+LOG-00477,E08,2025-09-16,3,romanized_nepali,Sorting Algorithms,5,2.66,none,complexity
+LOG-00478,E01,2025-09-23,4,code_mixed,Graphs and Traversals,5,2.26,none,how_to_implement
+LOG-00479,E25,2025-10-09,6,english,Sorting Algorithms,5,2.0,none,debug
+LOG-00480,E13,2025-10-10,6,english,Trees and BSTs,5,1.54,up,debug
+LOG-00481,E05,2025-09-22,4,english,Trees and BSTs,5,1.29,none,complexity
+LOG-00482,E23,2025-09-10,2,code_mixed,Sorting Algorithms,5,1.84,up,conceptual_why
+LOG-00483,E26,2025-09-19,3,english,Heaps and Priority Queues,5,2.28,up,conceptual_why
+LOG-00484,E22,2025-10-05,5,english,Dynamic Programming (Intro),5,2.23,none,debug
+LOG-00485,E08,2025-09-22,4,romanized_nepali,Heaps and Priority Queues,5,2.52,up,complexity
+LOG-00486,E06,2025-10-01,5,code_mixed,Searching Algorithms,5,2.36,none,how_to_implement
+LOG-00487,E14,2025-10-06,6,english,Arrays and Strings,5,1.82,none,complexity
+LOG-00488,E15,2025-10-05,5,romanized_nepali,Linked Lists,5,1.32,up,conceptual_why
+LOG-00489,E23,2025-10-09,6,romanized_nepali,Stacks and Queues,5,1.91,none,conceptual_why
+LOG-00490,E25,2025-09-07,1,code_mixed,Greedy and Backtracking,5,1.17,up,conceptual_why
+LOG-00491,E24,2025-09-19,3,code_mixed,Graphs and Traversals,5,2.1,up,conceptual_why
+LOG-00492,E10,2025-09-03,1,english,Arrays and Strings,5,1.56,none,complexity
+LOG-00493,E15,2025-09-27,4,english,Graphs and Traversals,5,1.99,up,conceptual_why
+LOG-00494,E04,2025-10-04,5,english,Trees and BSTs,5,1.85,up,how_to_implement
+LOG-00495,E14,2025-09-18,3,english,Heaps and Priority Queues,5,1.91,none,complexity
+LOG-00496,E03,2025-09-05,1,english,Hashing,5,2.23,none,conceptual_why
+LOG-00497,E04,2025-09-24,4,romanized_nepali,Greedy and Backtracking,5,2.14,up,how_to_implement
+LOG-00498,E04,2025-09-13,2,romanized_nepali,Dynamic Programming (Intro),5,1.98,up,complexity
+LOG-00499,E09,2025-09-15,3,romanized_nepali,Dynamic Programming (Intro),5,1.58,none,complexity
+LOG-00500,E09,2025-09-22,4,english,Trees and BSTs,5,2.64,up,conceptual_why
+LOG-00501,E19,2025-10-11,6,romanized_nepali,Dynamic Programming (Intro),5,1.91,none,how_to_implement
+LOG-00502,E03,2025-09-21,3,english,Dynamic Programming (Intro),5,1.44,up,conceptual_why
+LOG-00503,E04,2025-10-06,6,english,Heaps and Priority Queues,5,1.49,none,debug
+LOG-00504,E18,2025-09-21,3,code_mixed,Arrays and Strings,5,2.44,none,complexity
+LOG-00505,E18,2025-09-22,4,code_mixed,Dynamic Programming (Intro),5,0.86,up,debug
+LOG-00506,E19,2025-09-11,2,english,Trees and BSTs,5,1.55,none,complexity
+LOG-00507,E19,2025-09-14,2,english,Hashing,5,2.46,none,how_to_implement
+LOG-00508,E18,2025-10-07,6,english,Arrays and Strings,5,2.67,none,how_to_implement
+LOG-00509,E15,2025-09-23,4,code_mixed,Linked Lists,5,1.51,none,how_to_implement
+LOG-00510,E20,2025-09-19,3,code_mixed,Arrays and Strings,5,0.92,none,conceptual_why
+LOG-00511,E03,2025-10-12,6,english,Heaps and Priority Queues,5,1.56,none,conceptual_why
+LOG-00512,E07,2025-10-10,6,english,Greedy and Backtracking,5,1.75,none,conceptual_why
+LOG-00513,E20,2025-09-18,3,code_mixed,Searching Algorithms,5,1.58,none,complexity
+LOG-00514,E06,2025-09-23,4,code_mixed,Graphs and Traversals,5,2.64,none,how_to_implement
+LOG-00515,E14,2025-10-01,5,code_mixed,Stacks and Queues,5,2.52,none,how_to_implement
+LOG-00516,E08,2025-09-13,2,code_mixed,Heaps and Priority Queues,5,1.75,none,complexity
+LOG-00517,E12,2025-09-23,4,english,Stacks and Queues,5,0.77,up,how_to_implement
+LOG-00518,E22,2025-09-19,3,romanized_nepali,Sorting Algorithms,5,1.77,none,complexity
+LOG-00519,E18,2025-10-08,6,english,Greedy and Backtracking,5,2.55,up,complexity
+LOG-00520,E13,2025-09-07,1,english,Trees and BSTs,5,1.69,none,how_to_implement
+LOG-00521,E08,2025-10-12,6,romanized_nepali,Stacks and Queues,5,1.74,none,debug
+LOG-00522,E21,2025-09-18,3,english,Trees and BSTs,5,1.48,up,how_to_implement
+LOG-00523,E18,2025-09-20,3,english,Complexity and Notation,5,1.98,none,debug
+LOG-00524,E13,2025-09-06,1,code_mixed,Trees and BSTs,5,1.58,none,debug
+LOG-00525,E23,2025-10-11,6,romanized_nepali,Trees and BSTs,5,1.41,none,conceptual_why
+LOG-00526,E18,2025-10-09,6,english,Stacks and Queues,5,2.21,none,conceptual_why
+LOG-00527,E26,2025-09-05,1,code_mixed,Hashing,5,2.96,up,complexity
+LOG-00528,E18,2025-09-28,4,english,Graphs and Traversals,5,2.06,none,debug
+LOG-00529,E23,2025-09-22,4,english,Trees and BSTs,5,2.34,none,conceptual_why
+LOG-00530,E15,2025-10-04,5,code_mixed,Sorting Algorithms,5,2.01,none,how_to_implement
+LOG-00531,E19,2025-09-20,3,code_mixed,Graphs and Traversals,5,1.84,none,debug
+LOG-00532,E22,2025-10-12,6,code_mixed,Searching Algorithms,5,1.45,none,conceptual_why
+LOG-00533,E03,2025-09-16,3,romanized_nepali,Hashing,5,1.74,down,conceptual_why
+LOG-00534,E13,2025-10-08,6,code_mixed,Trees and BSTs,5,1.57,none,conceptual_why
+LOG-00535,E16,2025-09-18,3,romanized_nepali,Graphs and Traversals,5,1.27,none,conceptual_why
+LOG-00536,E02,2025-10-05,5,code_mixed,Dynamic Programming (Intro),5,1.81,none,debug
+LOG-00537,E21,2025-09-23,4,code_mixed,Hashing,5,1.43,down,debug
+LOG-00538,E19,2025-09-28,4,code_mixed,Sorting Algorithms,5,1.7,none,complexity
+LOG-00539,E25,2025-09-27,4,english,Searching Algorithms,5,1.26,up,complexity
+LOG-00540,E11,2025-10-04,5,english,Graphs and Traversals,5,1.67,up,complexity
+LOG-00541,E13,2025-09-05,1,code_mixed,Linked Lists,5,1.92,up,conceptual_why
+LOG-00542,E24,2025-09-05,1,code_mixed,Hashing,5,1.56,down,how_to_implement
+LOG-00543,E12,2025-10-12,6,code_mixed,Trees and BSTs,5,1.15,down,conceptual_why
+LOG-00544,E22,2025-09-18,3,code_mixed,Stacks and Queues,5,2.06,none,complexity
+LOG-00545,E12,2025-09-21,3,english,Trees and BSTs,5,1.57,up,how_to_implement
+LOG-00546,E10,2025-09-18,3,code_mixed,Trees and BSTs,5,1.65,up,conceptual_why
+LOG-00547,E09,2025-10-04,5,romanized_nepali,Sorting Algorithms,5,2.12,none,conceptual_why
+LOG-00548,E07,2025-10-12,6,code_mixed,Greedy and Backtracking,5,1.07,none,complexity
+LOG-00549,E12,2025-09-22,4,code_mixed,Dynamic Programming (Intro),5,1.77,none,how_to_implement
+LOG-00550,E05,2025-09-20,3,english,Stacks and Queues,5,1.92,up,complexity
+LOG-00551,E22,2025-09-21,3,code_mixed,Trees and BSTs,5,2.31,none,conceptual_why
+LOG-00552,E26,2025-09-02,1,code_mixed,Greedy and Backtracking,5,1.51,down,debug
+LOG-00553,E04,2025-09-07,1,code_mixed,Searching Algorithms,5,1.84,up,conceptual_why
+LOG-00554,E02,2025-09-04,1,code_mixed,Sorting Algorithms,5,2.18,none,how_to_implement
+LOG-00555,E01,2025-09-20,3,english,Greedy and Backtracking,5,2.11,none,complexity
+LOG-00556,E24,2025-10-12,6,romanized_nepali,Searching Algorithms,5,0.65,up,conceptual_why
+LOG-00557,E03,2025-09-11,2,english,Searching Algorithms,5,1.7,up,conceptual_why
+LOG-00558,E18,2025-09-29,5,code_mixed,Dynamic Programming (Intro),5,2.74,up,debug
+LOG-00559,E09,2025-09-16,3,english,Arrays and Strings,5,1.9,none,how_to_implement
+LOG-00560,E06,2025-09-03,1,code_mixed,Dynamic Programming (Intro),5,1.1,up,debug
+LOG-00561,E08,2025-10-09,6,code_mixed,Dynamic Programming (Intro),5,1.75,up,how_to_implement
+LOG-00562,E18,2025-09-10,2,code_mixed,Sorting Algorithms,5,2.42,up,conceptual_why
+LOG-00563,E01,2025-09-10,2,romanized_nepali,Trees and BSTs,5,2.04,none,debug
+LOG-00564,E23,2025-10-08,6,code_mixed,Trees and BSTs,5,1.01,none,conceptual_why
+LOG-00565,E15,2025-09-18,3,english,Dynamic Programming (Intro),5,2.17,up,debug
+LOG-00566,E07,2025-09-15,3,english,Hashing,5,2.31,none,conceptual_why
+LOG-00567,E07,2025-10-11,6,english,Heaps and Priority Queues,5,2.29,up,complexity
+LOG-00568,E18,2025-09-15,3,romanized_nepali,Complexity and Notation,5,1.42,none,how_to_implement
+LOG-00569,E17,2025-10-09,6,code_mixed,Dynamic Programming (Intro),5,2.4,none,complexity
+LOG-00570,E09,2025-09-20,3,english,Linked Lists,5,2.44,none,conceptual_why
+LOG-00571,E10,2025-10-01,5,english,Arrays and Strings,5,1.99,up,how_to_implement
+LOG-00572,E13,2025-09-20,3,code_mixed,Trees and BSTs,5,1.45,none,complexity
+LOG-00573,E24,2025-09-20,3,english,Heaps and Priority Queues,5,1.72,none,conceptual_why
+LOG-00574,E14,2025-10-11,6,romanized_nepali,Graphs and Traversals,5,1.69,none,conceptual_why
+LOG-00575,E22,2025-10-10,6,code_mixed,Greedy and Backtracking,5,2.22,none,how_to_implement
+LOG-00576,E17,2025-09-13,2,code_mixed,Dynamic Programming (Intro),5,1.02,none,how_to_implement
+LOG-00577,E15,2025-10-06,6,code_mixed,Greedy and Backtracking,5,1.1,up,conceptual_why
+LOG-00578,E14,2025-09-11,2,code_mixed,Trees and BSTs,5,1.64,none,conceptual_why
+LOG-00579,E18,2025-09-19,3,english,Arrays and Strings,5,1.85,none,conceptual_why
+LOG-00580,E14,2025-09-06,1,english,Arrays and Strings,5,2.54,none,how_to_implement
+LOG-00581,E19,2025-10-04,5,romanized_nepali,Graphs and Traversals,5,1.95,up,conceptual_why
+LOG-00582,E06,2025-10-06,6,english,Complexity and Notation,5,2.18,up,how_to_implement
+LOG-00583,E10,2025-10-07,6,code_mixed,Trees and BSTs,5,2.69,none,how_to_implement
+LOG-00584,E23,2025-10-07,6,code_mixed,Complexity and Notation,5,1.92,up,complexity
+LOG-00585,E11,2025-09-22,4,english,Greedy and Backtracking,5,1.91,none,how_to_implement
+LOG-00586,E22,2025-09-13,2,english,Heaps and Priority Queues,5,1.63,none,debug
+LOG-00587,E25,2025-09-01,1,code_mixed,Graphs and Traversals,5,1.95,none,debug
+LOG-00588,E15,2025-09-23,4,code_mixed,Dynamic Programming (Intro),5,1.97,none,how_to_implement
+LOG-00589,E04,2025-10-11,6,english,Searching Algorithms,5,2.02,up,how_to_implement
+LOG-00590,E21,2025-09-24,4,english,Dynamic Programming (Intro),5,2.06,none,how_to_implement
+LOG-00591,E18,2025-10-04,5,english,Greedy and Backtracking,5,1.84,none,complexity
+LOG-00592,E09,2025-10-11,6,code_mixed,Complexity and Notation,5,1.57,up,debug
+LOG-00593,E23,2025-10-09,6,romanized_nepali,Dynamic Programming (Intro),5,1.93,none,conceptual_why
+LOG-00594,E14,2025-10-07,6,code_mixed,Arrays and Strings,5,2.12,up,complexity
+LOG-00595,E02,2025-10-03,5,romanized_nepali,Complexity and Notation,5,1.87,none,how_to_implement
+LOG-00596,E03,2025-09-17,3,romanized_nepali,Hashing,5,2.2,none,debug
+LOG-00597,E07,2025-10-07,6,code_mixed,Trees and BSTs,5,1.52,up,conceptual_why
+LOG-00598,E16,2025-09-23,4,english,Dynamic Programming (Intro),5,1.64,up,how_to_implement
+LOG-00599,E22,2025-10-06,6,code_mixed,Graphs and Traversals,5,1.4,up,how_to_implement
+LOG-00600,E04,2025-09-17,3,romanized_nepali,Graphs and Traversals,5,2.52,up,conceptual_why
+LOG-00601,E01,2025-10-11,6,code_mixed,Dynamic Programming (Intro),5,1.84,none,how_to_implement
+LOG-00602,E16,2025-09-12,2,code_mixed,Trees and BSTs,5,1.15,none,complexity
+LOG-00603,E12,2025-10-08,6,code_mixed,Graphs and Traversals,5,1.71,none,how_to_implement
+LOG-00604,E13,2025-10-10,6,english,Searching Algorithms,5,1.06,up,conceptual_why
+LOG-00605,E22,2025-09-12,2,romanized_nepali,Dynamic Programming (Intro),5,0.69,none,conceptual_why
+LOG-00606,E24,2025-10-09,6,code_mixed,Arrays and Strings,5,2.43,none,conceptual_why
+LOG-00607,E25,2025-10-04,5,romanized_nepali,Sorting Algorithms,5,2.28,none,debug
+LOG-00608,E21,2025-10-03,5,code_mixed,Hashing,5,1.44,none,complexity
+LOG-00609,E01,2025-09-18,3,english,Trees and BSTs,5,1.06,none,complexity
+LOG-00610,E05,2025-09-20,3,romanized_nepali,Greedy and Backtracking,5,1.03,down,conceptual_why
+LOG-00611,E15,2025-09-18,3,romanized_nepali,Dynamic Programming (Intro),5,2.72,none,conceptual_why
+LOG-00612,E25,2025-09-23,4,code_mixed,Searching Algorithms,5,0.99,up,how_to_implement
+LOG-00613,E03,2025-10-04,5,code_mixed,Searching Algorithms,5,1.77,none,conceptual_why
+LOG-00614,E14,2025-10-06,6,romanized_nepali,Sorting Algorithms,5,1.42,none,conceptual_why
+LOG-00615,E12,2025-10-06,6,english,Trees and BSTs,5,1.66,up,how_to_implement
+LOG-00616,E12,2025-09-21,3,english,Linked Lists,5,1.04,none,how_to_implement
+LOG-00617,E08,2025-09-20,3,english,Dynamic Programming (Intro),5,1.99,none,conceptual_why
+LOG-00618,E08,2025-10-07,6,romanized_nepali,Complexity and Notation,5,1.21,none,conceptual_why
+LOG-00619,E07,2025-10-12,6,code_mixed,Searching Algorithms,5,2.11,none,conceptual_why
+LOG-00620,E04,2025-09-17,3,code_mixed,Arrays and Strings,5,1.47,up,debug
+LOG-00621,E15,2025-09-23,4,english,Trees and BSTs,5,1.82,up,how_to_implement
+LOG-00622,E13,2025-09-19,3,code_mixed,Sorting Algorithms,5,2.11,none,debug
+LOG-00623,E19,2025-10-12,6,english,Trees and BSTs,5,1.65,up,how_to_implement
+LOG-00624,E17,2025-09-02,1,romanized_nepali,Graphs and Traversals,5,1.86,up,how_to_implement
+LOG-00625,E25,2025-10-10,6,code_mixed,Sorting Algorithms,5,1.88,up,debug
+LOG-00626,E10,2025-10-07,6,code_mixed,Trees and BSTs,5,1.53,none,conceptual_why
+LOG-00627,E23,2025-09-20,3,romanized_nepali,Graphs and Traversals,5,1.77,none,debug
+LOG-00628,E11,2025-10-05,5,code_mixed,Graphs and Traversals,5,1.52,up,debug
+LOG-00629,E18,2025-09-21,3,code_mixed,Stacks and Queues,5,1.67,up,how_to_implement
+LOG-00630,E21,2025-10-04,5,english,Linked Lists,5,1.86,none,complexity
+LOG-00631,E12,2025-09-23,4,english,Greedy and Backtracking,5,1.61,none,how_to_implement
+LOG-00632,E13,2025-10-11,6,code_mixed,Dynamic Programming (Intro),5,1.72,none,how_to_implement
+LOG-00633,E17,2025-09-24,4,romanized_nepali,Graphs and Traversals,5,0.69,none,conceptual_why
+LOG-00634,E04,2025-10-08,6,code_mixed,Dynamic Programming (Intro),5,1.93,none,complexity
+LOG-00635,E14,2025-10-01,5,code_mixed,Arrays and Strings,5,1.58,none,how_to_implement
+LOG-00636,E04,2025-09-21,3,english,Graphs and Traversals,5,1.59,none,how_to_implement
+LOG-00637,E07,2025-10-12,6,english,Sorting Algorithms,5,1.33,down,how_to_implement
+LOG-00638,E16,2025-09-15,3,code_mixed,Linked Lists,5,1.0,none,how_to_implement
+LOG-00639,E25,2025-10-10,6,code_mixed,Trees and BSTs,5,1.62,up,conceptual_why
+LOG-00640,E26,2025-10-12,6,english,Graphs and Traversals,5,1.77,none,how_to_implement
+LOG-00641,E08,2025-10-09,6,code_mixed,Stacks and Queues,5,1.28,none,how_to_implement
+LOG-00642,E05,2025-10-04,5,romanized_nepali,Sorting Algorithms,5,1.97,none,conceptual_why
+LOG-00643,E14,2025-10-04,5,english,Trees and BSTs,5,0.83,none,how_to_implement
+LOG-00644,E13,2025-10-11,6,code_mixed,Linked Lists,5,1.69,up,how_to_implement
+LOG-00645,E11,2025-09-23,4,english,Graphs and Traversals,5,1.06,none,complexity
+LOG-00646,E21,2025-10-08,6,romanized_nepali,Trees and BSTs,5,1.95,up,complexity
+LOG-00647,E19,2025-10-07,6,code_mixed,Hashing,5,1.34,none,conceptual_why
+LOG-00648,E15,2025-10-09,6,code_mixed,Dynamic Programming (Intro),5,2.13,none,debug
+LOG-00649,E16,2025-09-23,4,english,Complexity and Notation,5,2.63,none,debug
+LOG-00650,E15,2025-10-05,5,english,Trees and BSTs,5,1.89,none,debug
+LOG-00651,E18,2025-09-07,1,code_mixed,Trees and BSTs,5,1.01,up,conceptual_why
+LOG-00652,E24,2025-09-06,1,romanized_nepali,Hashing,5,1.84,none,how_to_implement
+LOG-00653,E25,2025-09-08,2,romanized_nepali,Dynamic Programming (Intro),5,1.6,none,conceptual_why
+LOG-00654,E26,2025-10-06,6,code_mixed,Linked Lists,5,2.07,none,debug
+LOG-00655,E22,2025-09-21,3,english,Graphs and Traversals,5,1.81,none,conceptual_why
+LOG-00656,E04,2025-10-10,6,romanized_nepali,Linked Lists,5,1.89,none,complexity
+LOG-00657,E13,2025-09-06,1,code_mixed,Hashing,5,1.63,none,conceptual_why
+LOG-00658,E21,2025-09-13,2,code_mixed,Heaps and Priority Queues,5,2.38,none,debug
+LOG-00659,E09,2025-10-09,6,english,Linked Lists,5,1.71,none,how_to_implement
+LOG-00660,E16,2025-09-23,4,code_mixed,Linked Lists,5,1.6,up,complexity
+LOG-00661,E02,2025-09-17,3,code_mixed,Dynamic Programming (Intro),5,2.56,up,complexity
+LOG-00662,E06,2025-10-08,6,romanized_nepali,Stacks and Queues,5,2.0,none,conceptual_why
+LOG-00663,E12,2025-09-18,3,english,Dynamic Programming (Intro),5,1.59,none,how_to_implement
+LOG-00664,E03,2025-10-12,6,code_mixed,Arrays and Strings,5,0.85,none,complexity
+LOG-00665,E12,2025-09-19,3,english,Greedy and Backtracking,5,2.32,none,how_to_implement
+LOG-00666,E07,2025-10-09,6,english,Searching Algorithms,5,1.75,none,complexity
+LOG-00667,E23,2025-09-24,4,english,Dynamic Programming (Intro),5,1.61,up,conceptual_why
+LOG-00668,E09,2025-10-11,6,english,Arrays and Strings,5,2.03,none,how_to_implement
+LOG-00669,E11,2025-09-19,3,code_mixed,Heaps and Priority Queues,5,2.64,none,complexity
+LOG-00670,E21,2025-10-11,6,english,Greedy and Backtracking,5,2.42,none,debug
+LOG-00671,E15,2025-09-19,3,romanized_nepali,Greedy and Backtracking,5,1.38,up,complexity
+LOG-00672,E02,2025-09-24,4,code_mixed,Graphs and Traversals,5,1.78,none,how_to_implement
+LOG-00673,E07,2025-10-04,5,code_mixed,Heaps and Priority Queues,5,1.04,none,how_to_implement
+LOG-00674,E16,2025-09-30,5,romanized_nepali,Trees and BSTs,5,1.99,up,conceptual_why
+LOG-00675,E06,2025-10-05,5,code_mixed,Sorting Algorithms,5,1.23,up,how_to_implement
+LOG-00676,E08,2025-10-06,6,code_mixed,Graphs and Traversals,5,1.61,none,conceptual_why
+LOG-00677,E16,2025-09-18,3,english,Trees and BSTs,5,0.84,none,debug
+LOG-00678,E14,2025-09-01,1,english,Linked Lists,5,2.22,none,complexity
+LOG-00679,E08,2025-10-06,6,code_mixed,Searching Algorithms,5,0.83,up,how_to_implement
+LOG-00680,E15,2025-10-03,5,code_mixed,Sorting Algorithms,5,1.63,none,conceptual_why
+LOG-00681,E17,2025-09-30,5,code_mixed,Arrays and Strings,5,1.46,none,conceptual_why
+LOG-00682,E02,2025-09-25,4,english,Linked Lists,5,2.22,none,how_to_implement
+LOG-00683,E08,2025-10-11,6,english,Sorting Algorithms,5,1.63,none,how_to_implement
+LOG-00684,E09,2025-09-19,3,code_mixed,Stacks and Queues,5,1.73,up,debug
+LOG-00685,E23,2025-10-10,6,code_mixed,Trees and BSTs,5,1.59,none,how_to_implement
+LOG-00686,E02,2025-09-13,2,code_mixed,Graphs and Traversals,5,1.98,up,debug
+LOG-00687,E10,2025-10-06,6,code_mixed,Sorting Algorithms,5,1.19,none,debug
+LOG-00688,E06,2025-10-11,6,romanized_nepali,Sorting Algorithms,5,1.2,none,conceptual_why
+LOG-00689,E19,2025-09-12,2,code_mixed,Dynamic Programming (Intro),5,2.24,up,complexity
+LOG-00690,E21,2025-10-07,6,code_mixed,Graphs and Traversals,5,0.68,up,debug
+LOG-00691,E02,2025-09-19,3,code_mixed,Dynamic Programming (Intro),5,1.87,up,conceptual_why
+LOG-00692,E23,2025-09-05,1,code_mixed,Sorting Algorithms,5,1.43,up,conceptual_why
+LOG-00693,E19,2025-09-23,4,code_mixed,Trees and BSTs,5,1.92,up,how_to_implement
+LOG-00694,E07,2025-10-06,6,romanized_nepali,Searching Algorithms,5,1.88,up,conceptual_why
+LOG-00695,E24,2025-09-19,3,code_mixed,Complexity and Notation,5,1.67,none,conceptual_why
+LOG-00696,E09,2025-10-11,6,code_mixed,Dynamic Programming (Intro),5,2.01,none,conceptual_why
+LOG-00697,E21,2025-09-01,1,code_mixed,Linked Lists,5,1.66,none,how_to_implement
+LOG-00698,E03,2025-09-18,3,code_mixed,Arrays and Strings,5,2.02,none,debug
+LOG-00699,E13,2025-09-21,3,english,Heaps and Priority Queues,5,1.44,none,how_to_implement
+LOG-00700,E14,2025-09-21,3,code_mixed,Stacks and Queues,5,2.22,none,complexity
+LOG-00701,E23,2025-09-19,3,english,Graphs and Traversals,5,1.73,up,conceptual_why
+LOG-00702,E22,2025-09-02,1,english,Dynamic Programming (Intro),5,1.59,up,how_to_implement
+LOG-00703,E15,2025-09-16,3,romanized_nepali,Linked Lists,5,1.81,none,debug
+LOG-00704,E02,2025-09-18,3,code_mixed,Linked Lists,5,1.55,none,conceptual_why
+LOG-00705,E12,2025-10-05,5,code_mixed,Trees and BSTs,5,0.4,up,debug
+LOG-00706,E11,2025-09-22,4,romanized_nepali,Sorting Algorithms,5,1.21,none,complexity
+LOG-00707,E26,2025-10-06,6,romanized_nepali,Arrays and Strings,5,2.08,none,how_to_implement
+LOG-00708,E18,2025-09-23,4,code_mixed,Graphs and Traversals,5,1.85,none,debug
+LOG-00709,E12,2025-09-21,3,english,Greedy and Backtracking,5,2.14,none,how_to_implement
+LOG-00710,E11,2025-09-12,2,english,Hashing,5,1.32,none,conceptual_why
+LOG-00711,E21,2025-09-17,3,english,Sorting Algorithms,5,1.94,none,debug
+LOG-00712,E04,2025-10-10,6,romanized_nepali,Stacks and Queues,5,2.11,none,complexity
+LOG-00713,E22,2025-09-24,4,romanized_nepali,Heaps and Priority Queues,5,2.38,none,conceptual_why
+LOG-00714,E18,2025-09-20,3,english,Trees and BSTs,5,2.36,none,conceptual_why
+LOG-00715,E12,2025-09-16,3,code_mixed,Complexity and Notation,5,1.2,none,how_to_implement
+LOG-00716,E19,2025-10-10,6,english,Graphs and Traversals,5,1.22,up,how_to_implement
+LOG-00717,E12,2025-10-06,6,english,Trees and BSTs,5,1.32,none,debug
+LOG-00718,E05,2025-10-06,6,code_mixed,Searching Algorithms,5,1.1,none,conceptual_why
+LOG-00719,E12,2025-10-08,6,code_mixed,Arrays and Strings,5,1.11,none,complexity
+LOG-00720,E02,2025-09-18,3,english,Dynamic Programming (Intro),5,1.23,up,debug
+LOG-00721,E03,2025-10-06,6,code_mixed,Sorting Algorithms,5,1.83,down,how_to_implement
+LOG-00722,E13,2025-09-06,1,romanized_nepali,Linked Lists,5,1.87,none,conceptual_why
+LOG-00723,E22,2025-10-05,5,romanized_nepali,Graphs and Traversals,5,1.96,none,conceptual_why
+LOG-00724,E06,2025-09-20,3,english,Graphs and Traversals,5,1.68,none,complexity
+LOG-00725,E14,2025-10-05,5,english,Dynamic Programming (Intro),5,1.65,up,debug
+LOG-00726,E26,2025-09-17,3,code_mixed,Linked Lists,5,1.39,down,how_to_implement
+LOG-00727,E22,2025-09-21,3,english,Graphs and Traversals,5,2.13,up,how_to_implement
+LOG-00728,E24,2025-10-05,5,code_mixed,Hashing,5,1.75,none,conceptual_why
+LOG-00729,E18,2025-10-11,6,english,Sorting Algorithms,5,1.6,none,debug
+LOG-00730,E16,2025-09-21,3,code_mixed,Linked Lists,5,2.33,none,debug
+LOG-00731,E15,2025-09-13,2,code_mixed,Trees and BSTs,5,1.5,up,how_to_implement
+LOG-00732,E16,2025-09-10,2,english,Trees and BSTs,5,2.38,up,complexity
+LOG-00733,E13,2025-10-05,5,code_mixed,Hashing,5,1.32,none,complexity
+LOG-00734,E11,2025-10-10,6,english,Sorting Algorithms,5,2.09,up,how_to_implement
+LOG-00735,E07,2025-09-02,1,code_mixed,Trees and BSTs,5,2.08,none,conceptual_why
+LOG-00736,E03,2025-09-21,3,code_mixed,Trees and BSTs,5,1.68,none,how_to_implement
+LOG-00737,E11,2025-09-13,2,english,Graphs and Traversals,5,1.34,none,how_to_implement
+LOG-00738,E21,2025-10-11,6,code_mixed,Trees and BSTs,5,1.68,up,debug
+LOG-00739,E15,2025-09-10,2,english,Sorting Algorithms,5,2.3,none,debug
+LOG-00740,E05,2025-09-06,1,english,Dynamic Programming (Intro),5,1.67,down,debug
+LOG-00741,E22,2025-10-07,6,romanized_nepali,Sorting Algorithms,5,1.02,none,conceptual_why
+LOG-00742,E02,2025-10-12,6,english,Trees and BSTs,5,1.52,none,how_to_implement
+LOG-00743,E24,2025-10-07,6,code_mixed,Greedy and Backtracking,5,1.82,none,conceptual_why
+LOG-00744,E18,2025-09-09,2,english,Searching Algorithms,5,2.57,none,complexity
+LOG-00745,E15,2025-09-22,4,code_mixed,Searching Algorithms,5,1.71,up,complexity
+LOG-00746,E12,2025-09-27,4,english,Sorting Algorithms,5,2.01,up,how_to_implement
+LOG-00747,E22,2025-10-10,6,romanized_nepali,Trees and BSTs,5,1.86,none,debug
+LOG-00748,E01,2025-10-07,6,code_mixed,Arrays and Strings,5,2.38,none,conceptual_why
+LOG-00749,E01,2025-09-05,1,code_mixed,Trees and BSTs,5,1.65,none,how_to_implement
+LOG-00750,E14,2025-09-24,4,english,Linked Lists,5,2.18,none,conceptual_why
+LOG-00751,E09,2025-10-07,6,code_mixed,Hashing,5,2.5,none,debug
+LOG-00752,E12,2025-09-29,5,romanized_nepali,Hashing,5,1.88,up,how_to_implement
+LOG-00753,E14,2025-10-05,5,code_mixed,Hashing,5,1.46,none,conceptual_why
+LOG-00754,E02,2025-10-12,6,code_mixed,Dynamic Programming (Intro),5,1.81,none,conceptual_why
+LOG-00755,E26,2025-10-12,6,romanized_nepali,Greedy and Backtracking,5,2.55,none,conceptual_why
+LOG-00756,E18,2025-10-09,6,english,Sorting Algorithms,5,2.07,none,complexity
+LOG-00757,E04,2025-10-01,5,romanized_nepali,Hashing,5,1.84,none,complexity
+LOG-00758,E20,2025-09-20,3,code_mixed,Graphs and Traversals,5,1.29,none,conceptual_why
+LOG-00759,E14,2025-09-12,2,english,Dynamic Programming (Intro),5,2.35,none,how_to_implement
+LOG-00760,E18,2025-09-13,2,english,Trees and BSTs,5,1.71,none,how_to_implement
+LOG-00761,E20,2025-10-04,5,code_mixed,Graphs and Traversals,5,2.18,down,conceptual_why
+LOG-00762,E26,2025-10-07,6,english,Hashing,5,1.56,up,how_to_implement
+LOG-00763,E04,2025-10-09,6,english,Stacks and Queues,5,1.0,up,debug
+LOG-00764,E26,2025-10-11,6,code_mixed,Stacks and Queues,5,1.71,up,how_to_implement
+LOG-00765,E13,2025-09-19,3,romanized_nepali,Complexity and Notation,5,1.35,up,how_to_implement
+LOG-00766,E06,2025-09-20,3,romanized_nepali,Trees and BSTs,5,1.94,none,conceptual_why
+LOG-00767,E11,2025-09-15,3,code_mixed,Graphs and Traversals,5,1.47,up,complexity
+LOG-00768,E11,2025-09-29,5,code_mixed,Graphs and Traversals,5,1.77,up,complexity
+LOG-00769,E23,2025-10-11,6,romanized_nepali,Linked Lists,5,1.84,none,complexity
+LOG-00770,E14,2025-10-07,6,english,Stacks and Queues,5,1.7,none,how_to_implement
+LOG-00771,E03,2025-09-23,4,code_mixed,Searching Algorithms,5,2.27,up,complexity
+LOG-00772,E19,2025-09-12,2,code_mixed,Graphs and Traversals,5,1.84,none,how_to_implement
+LOG-00773,E14,2025-10-09,6,code_mixed,Hashing,5,1.34,up,complexity
+LOG-00774,E22,2025-10-10,6,code_mixed,Dynamic Programming (Intro),5,1.88,up,conceptual_why
+LOG-00775,E02,2025-10-07,6,code_mixed,Trees and BSTs,5,1.53,up,how_to_implement
+LOG-00776,E23,2025-09-19,3,english,Graphs and Traversals,5,1.15,none,debug
+LOG-00777,E23,2025-09-22,4,english,Trees and BSTs,5,2.15,none,complexity
+LOG-00778,E01,2025-10-02,5,code_mixed,Complexity and Notation,5,1.92,none,debug
+LOG-00779,E13,2025-10-11,6,english,Hashing,5,1.72,none,debug
+LOG-00780,E04,2025-09-18,3,english,Stacks and Queues,5,1.52,none,conceptual_why
+LOG-00781,E14,2025-09-23,4,code_mixed,Dynamic Programming (Intro),5,2.18,up,conceptual_why
+LOG-00782,E03,2025-09-05,1,romanized_nepali,Stacks and Queues,5,1.64,up,conceptual_why
+LOG-00783,E23,2025-09-01,1,english,Stacks and Queues,5,1.83,none,debug
+LOG-00784,E06,2025-09-18,3,code_mixed,Trees and BSTs,5,1.59,up,complexity
+LOG-00785,E18,2025-10-08,6,romanized_nepali,Dynamic Programming (Intro),5,1.36,none,debug
+LOG-00786,E18,2025-10-05,5,code_mixed,Graphs and Traversals,5,1.45,up,conceptual_why
+LOG-00787,E10,2025-09-24,4,code_mixed,Sorting Algorithms,5,1.96,none,complexity
+LOG-00788,E07,2025-09-22,4,english,Searching Algorithms,5,0.95,up,complexity
+LOG-00789,E24,2025-09-18,3,romanized_nepali,Linked Lists,5,1.68,none,how_to_implement
+LOG-00790,E02,2025-10-07,6,english,Trees and BSTs,5,1.75,none,conceptual_why
+LOG-00791,E08,2025-09-25,4,english,Dynamic Programming (Intro),5,1.45,none,complexity
+LOG-00792,E10,2025-09-06,1,english,Hashing,5,2.05,up,how_to_implement
+LOG-00793,E15,2025-10-04,5,romanized_nepali,Sorting Algorithms,5,2.39,none,conceptual_why
+LOG-00794,E11,2025-10-12,6,english,Greedy and Backtracking,5,1.49,none,complexity
+LOG-00795,E04,2025-09-06,1,code_mixed,Dynamic Programming (Intro),5,1.13,none,debug
+LOG-00796,E15,2025-10-12,6,code_mixed,Sorting Algorithms,5,0.92,up,how_to_implement
+LOG-00797,E19,2025-09-08,2,romanized_nepali,Arrays and Strings,5,1.17,none,how_to_implement
+LOG-00798,E19,2025-09-20,3,code_mixed,Sorting Algorithms,5,1.62,none,conceptual_why
+LOG-00799,E14,2025-10-12,6,english,Greedy and Backtracking,5,2.1,none,how_to_implement
+LOG-00800,E09,2025-10-12,6,english,Searching Algorithms,5,1.8,none,conceptual_why
+LOG-00801,E01,2025-09-14,2,romanized_nepali,Stacks and Queues,5,1.49,none,conceptual_why
+LOG-00802,E14,2025-10-06,6,code_mixed,Hashing,5,1.22,none,how_to_implement
+LOG-00803,E17,2025-10-04,5,code_mixed,Dynamic Programming (Intro),5,1.83,up,debug
+LOG-00804,E13,2025-09-22,4,code_mixed,Graphs and Traversals,5,2.13,up,complexity
+LOG-00805,E25,2025-10-08,6,romanized_nepali,Heaps and Priority Queues,5,1.92,none,conceptual_why
+LOG-00806,E06,2025-10-04,5,english,Linked Lists,5,1.94,up,complexity
+LOG-00807,E22,2025-09-17,3,romanized_nepali,Heaps and Priority Queues,5,2.16,none,conceptual_why
+LOG-00808,E19,2025-09-25,4,romanized_nepali,Graphs and Traversals,5,2.43,up,complexity
+LOG-00809,E23,2025-10-06,6,code_mixed,Greedy and Backtracking,5,1.44,none,complexity
+LOG-00810,E24,2025-10-04,5,code_mixed,Stacks and Queues,5,2.05,none,how_to_implement
+LOG-00811,E07,2025-09-29,5,romanized_nepali,Graphs and Traversals,5,2.28,none,conceptual_why
+LOG-00812,E24,2025-10-07,6,english,Sorting Algorithms,5,2.14,none,how_to_implement
+LOG-00813,E12,2025-09-10,2,english,Linked Lists,5,2.18,up,complexity
+LOG-00814,E18,2025-09-04,1,code_mixed,Graphs and Traversals,5,1.44,up,how_to_implement
+LOG-00815,E25,2025-09-03,1,code_mixed,Graphs and Traversals,5,2.16,none,conceptual_why
+LOG-00816,E16,2025-10-04,5,english,Graphs and Traversals,5,2.31,none,how_to_implement
+LOG-00817,E15,2025-09-23,4,code_mixed,Trees and BSTs,5,1.85,none,debug
+LOG-00818,E03,2025-10-09,6,code_mixed,Heaps and Priority Queues,5,2.1,none,conceptual_why
+LOG-00819,E16,2025-10-12,6,english,Graphs and Traversals,5,2.0,none,conceptual_why
+LOG-00820,E07,2025-09-09,2,code_mixed,Arrays and Strings,5,2.57,down,debug
+LOG-00821,E11,2025-09-22,4,code_mixed,Hashing,5,1.02,none,complexity
+LOG-00822,E11,2025-09-23,4,english,Dynamic Programming (Intro),5,2.5,up,how_to_implement
+LOG-00823,E26,2025-09-29,5,code_mixed,Dynamic Programming (Intro),5,1.95,none,conceptual_why
+LOG-00824,E17,2025-10-10,6,code_mixed,Graphs and Traversals,5,2.17,up,conceptual_why
+LOG-00825,E19,2025-10-03,5,romanized_nepali,Linked Lists,5,2.47,none,debug
+LOG-00826,E06,2025-09-20,3,code_mixed,Complexity and Notation,5,1.91,none,how_to_implement
+LOG-00827,E09,2025-10-05,5,code_mixed,Arrays and Strings,5,1.83,none,how_to_implement
+LOG-00828,E23,2025-09-20,3,romanized_nepali,Dynamic Programming (Intro),5,2.25,none,complexity
+LOG-00829,E04,2025-09-30,5,english,Searching Algorithms,5,1.94,none,how_to_implement
+LOG-00830,E25,2025-09-08,2,romanized_nepali,Greedy and Backtracking,5,1.91,none,conceptual_why
+LOG-00831,E12,2025-09-30,5,romanized_nepali,Linked Lists,5,1.1,none,conceptual_why
+LOG-00832,E11,2025-09-24,4,code_mixed,Graphs and Traversals,5,0.75,up,debug
+LOG-00833,E14,2025-10-04,5,english,Graphs and Traversals,5,2.08,up,debug
+LOG-00834,E13,2025-10-01,5,english,Trees and BSTs,5,1.61,none,how_to_implement
+LOG-00835,E13,2025-10-01,5,code_mixed,Hashing,5,1.9,none,debug
+LOG-00836,E12,2025-10-07,6,code_mixed,Greedy and Backtracking,5,2.66,up,conceptual_why
+LOG-00837,E19,2025-09-10,2,code_mixed,Trees and BSTs,5,2.45,none,conceptual_why
+LOG-00838,E09,2025-10-07,6,code_mixed,Graphs and Traversals,5,1.7,up,conceptual_why
+LOG-00839,E05,2025-10-04,5,romanized_nepali,Dynamic Programming (Intro),5,1.62,up,conceptual_why
+LOG-00840,E12,2025-10-05,5,english,Complexity and Notation,5,1.19,none,how_to_implement
+LOG-00841,E03,2025-09-22,4,english,Complexity and Notation,5,2.39,none,how_to_implement
+LOG-00842,E13,2025-09-07,1,code_mixed,Greedy and Backtracking,5,1.62,none,debug
+LOG-00843,E14,2025-10-11,6,english,Complexity and Notation,5,1.84,none,conceptual_why
+LOG-00844,E21,2025-10-09,6,code_mixed,Graphs and Traversals,5,1.9,none,complexity
+LOG-00845,E04,2025-10-12,6,code_mixed,Arrays and Strings,5,1.49,none,conceptual_why
+LOG-00846,E12,2025-09-24,4,english,Searching Algorithms,5,0.4,none,how_to_implement
+LOG-00847,E21,2025-10-10,6,english,Greedy and Backtracking,5,2.56,none,how_to_implement
+LOG-00848,E10,2025-10-10,6,english,Trees and BSTs,5,1.87,up,how_to_implement
+LOG-00849,E22,2025-09-29,5,code_mixed,Hashing,5,0.93,none,conceptual_why
+LOG-00850,E19,2025-10-10,6,english,Arrays and Strings,5,1.47,none,how_to_implement
+LOG-00851,E02,2025-10-08,6,english,Linked Lists,5,1.28,up,debug
+LOG-00852,E11,2025-09-08,2,code_mixed,Trees and BSTs,5,1.41,up,how_to_implement
+LOG-00853,E21,2025-09-10,2,english,Dynamic Programming (Intro),5,0.93,none,how_to_implement
+LOG-00854,E14,2025-09-22,4,english,Searching Algorithms,5,1.83,none,how_to_implement
+LOG-00855,E18,2025-09-28,4,code_mixed,Complexity and Notation,5,1.28,none,conceptual_why
+LOG-00856,E26,2025-10-05,5,english,Searching Algorithms,5,2.42,none,conceptual_why
+LOG-00857,E18,2025-09-30,5,english,Greedy and Backtracking,5,1.41,up,debug
+LOG-00858,E15,2025-10-10,6,romanized_nepali,Heaps and Priority Queues,5,2.51,none,conceptual_why
+LOG-00859,E22,2025-10-08,6,english,Trees and BSTs,5,1.14,none,conceptual_why
+LOG-00860,E12,2025-09-08,2,code_mixed,Searching Algorithms,5,2.0,none,complexity
+LOG-00861,E01,2025-09-20,3,romanized_nepali,Graphs and Traversals,5,1.84,up,how_to_implement
+LOG-00862,E08,2025-10-10,6,english,Hashing,5,1.92,up,how_to_implement
+LOG-00863,E16,2025-10-07,6,english,Dynamic Programming (Intro),5,2.54,up,conceptual_why
+LOG-00864,E25,2025-09-02,1,english,Searching Algorithms,5,1.65,none,conceptual_why
+LOG-00865,E16,2025-10-04,5,code_mixed,Stacks and Queues,5,1.29,none,complexity
+LOG-00866,E09,2025-09-10,2,code_mixed,Sorting Algorithms,5,2.36,none,conceptual_why
+LOG-00867,E26,2025-09-26,4,english,Hashing,5,0.98,up,how_to_implement
+LOG-00868,E12,2025-10-12,6,english,Trees and BSTs,5,1.52,up,how_to_implement
+LOG-00869,E07,2025-09-06,1,code_mixed,Dynamic Programming (Intro),5,2.02,none,debug
+LOG-00870,E15,2025-10-08,6,code_mixed,Greedy and Backtracking,5,2.25,none,conceptual_why
+LOG-00871,E10,2025-09-25,4,code_mixed,Graphs and Traversals,5,2.13,up,how_to_implement
+LOG-00872,E04,2025-10-12,6,romanized_nepali,Greedy and Backtracking,5,2.02,up,complexity
+LOG-00873,E19,2025-10-09,6,english,Arrays and Strings,5,0.62,up,complexity
+LOG-00874,E18,2025-09-05,1,code_mixed,Hashing,5,2.08,none,debug
+LOG-00875,E25,2025-10-04,5,english,Trees and BSTs,5,1.68,none,complexity
+LOG-00876,E05,2025-10-09,6,code_mixed,Dynamic Programming (Intro),5,2.59,up,complexity
+LOG-00877,E24,2025-09-19,3,code_mixed,Trees and BSTs,5,1.92,none,complexity
+LOG-00878,E21,2025-10-06,6,romanized_nepali,Dynamic Programming (Intro),5,1.49,none,conceptual_why
+LOG-00879,E08,2025-09-18,3,romanized_nepali,Dynamic Programming (Intro),5,2.42,up,complexity
+LOG-00880,E13,2025-09-15,3,romanized_nepali,Linked Lists,5,1.08,up,conceptual_why
+LOG-00881,E17,2025-09-20,3,code_mixed,Heaps and Priority Queues,5,2.16,none,conceptual_why
+LOG-00882,E09,2025-09-19,3,romanized_nepali,Hashing,5,2.06,none,complexity
+LOG-00883,E04,2025-10-12,6,code_mixed,Dynamic Programming (Intro),5,1.45,none,conceptual_why
+LOG-00884,E22,2025-09-18,3,english,Dynamic Programming (Intro),5,1.54,none,debug
+LOG-00885,E05,2025-09-23,4,english,Heaps and Priority Queues,5,1.81,up,how_to_implement
+LOG-00886,E14,2025-09-25,4,code_mixed,Trees and BSTs,5,1.97,none,conceptual_why
+LOG-00887,E12,2025-10-05,5,english,Trees and BSTs,5,2.14,up,conceptual_why
+LOG-00888,E24,2025-10-12,6,english,Dynamic Programming (Intro),5,1.91,none,how_to_implement
+LOG-00889,E15,2025-10-04,5,code_mixed,Dynamic Programming (Intro),5,0.98,up,conceptual_why
+LOG-00890,E12,2025-10-09,6,code_mixed,Sorting Algorithms,5,2.37,none,how_to_implement
+LOG-00891,E26,2025-09-10,2,romanized_nepali,Trees and BSTs,5,1.68,none,debug
+LOG-00892,E10,2025-10-05,5,english,Trees and BSTs,5,2.01,up,how_to_implement
+LOG-00893,E19,2025-09-13,2,romanized_nepali,Complexity and Notation,5,1.8,up,conceptual_why
+LOG-00894,E07,2025-10-10,6,code_mixed,Arrays and Strings,5,1.15,none,how_to_implement
+LOG-00895,E21,2025-10-03,5,english,Sorting Algorithms,5,1.72,down,how_to_implement
+LOG-00896,E21,2025-09-10,2,romanized_nepali,Dynamic Programming (Intro),5,2.59,none,debug
+LOG-00897,E22,2025-10-09,6,code_mixed,Stacks and Queues,5,1.65,none,how_to_implement
+LOG-00898,E14,2025-09-28,4,romanized_nepali,Searching Algorithms,5,1.41,none,complexity
+LOG-00899,E07,2025-09-25,4,code_mixed,Stacks and Queues,5,1.69,none,complexity
+LOG-00900,E17,2025-09-06,1,code_mixed,Stacks and Queues,5,1.39,up,conceptual_why
+LOG-00901,E24,2025-10-10,6,english,Searching Algorithms,5,2.63,up,how_to_implement
+LOG-00902,E09,2025-09-27,4,code_mixed,Searching Algorithms,5,1.69,none,debug
+LOG-00903,E01,2025-10-09,6,code_mixed,Dynamic Programming (Intro),5,1.73,none,complexity
+LOG-00904,E06,2025-09-06,1,code_mixed,Graphs and Traversals,5,1.98,none,complexity
+LOG-00905,E24,2025-10-05,5,code_mixed,Searching Algorithms,5,1.81,up,debug
+LOG-00906,E01,2025-09-22,4,code_mixed,Stacks and Queues,5,2.02,up,conceptual_why
+LOG-00907,E02,2025-09-28,4,code_mixed,Greedy and Backtracking,5,1.67,none,debug
+LOG-00908,E04,2025-10-04,5,code_mixed,Dynamic Programming (Intro),5,1.39,none,how_to_implement
+LOG-00909,E23,2025-10-09,6,code_mixed,Dynamic Programming (Intro),5,1.85,none,how_to_implement
+LOG-00910,E11,2025-10-11,6,code_mixed,Dynamic Programming (Intro),5,0.99,up,debug
+LOG-00911,E18,2025-09-13,2,romanized_nepali,Dynamic Programming (Intro),5,1.09,up,how_to_implement
+LOG-00912,E19,2025-10-09,6,english,Sorting Algorithms,5,1.91,up,how_to_implement
+LOG-00913,E12,2025-09-09,2,romanized_nepali,Hashing,5,2.68,none,how_to_implement
+LOG-00914,E20,2025-09-01,1,romanized_nepali,Graphs and Traversals,5,1.13,none,how_to_implement
+LOG-00915,E13,2025-09-19,3,english,Sorting Algorithms,5,2.33,none,complexity
+LOG-00916,E14,2025-09-19,3,code_mixed,Graphs and Traversals,5,1.44,none,how_to_implement
+LOG-00917,E09,2025-10-07,6,english,Arrays and Strings,5,1.71,none,conceptual_why
+LOG-00918,E01,2025-09-30,5,code_mixed,Linked Lists,5,1.28,up,conceptual_why
+LOG-00919,E16,2025-09-22,4,code_mixed,Sorting Algorithms,5,1.53,none,conceptual_why
+LOG-00920,E08,2025-10-08,6,code_mixed,Arrays and Strings,5,2.31,none,debug
+LOG-00921,E09,2025-10-11,6,english,Arrays and Strings,5,2.27,none,how_to_implement
+LOG-00922,E23,2025-10-04,5,english,Stacks and Queues,5,1.47,up,how_to_implement
+LOG-00923,E11,2025-10-05,5,romanized_nepali,Complexity and Notation,5,2.03,none,complexity
+LOG-00924,E04,2025-10-09,6,code_mixed,Trees and BSTs,5,2.17,up,conceptual_why
+LOG-00925,E17,2025-09-19,3,romanized_nepali,Hashing,5,2.14,up,conceptual_why
+LOG-00926,E14,2025-10-12,6,english,Trees and BSTs,5,1.71,none,how_to_implement
+LOG-00927,E02,2025-09-13,2,english,Trees and BSTs,5,1.35,none,debug
+LOG-00928,E10,2025-09-04,1,code_mixed,Graphs and Traversals,5,1.81,none,complexity
+LOG-00929,E16,2025-10-08,6,romanized_nepali,Heaps and Priority Queues,5,0.97,none,conceptual_why
+LOG-00930,E09,2025-09-13,2,code_mixed,Sorting Algorithms,5,2.47,none,debug
+LOG-00931,E26,2025-09-20,3,code_mixed,Sorting Algorithms,5,2.38,up,complexity
+LOG-00932,E21,2025-09-27,4,code_mixed,Sorting Algorithms,5,2.08,none,conceptual_why
+LOG-00933,E14,2025-09-09,2,romanized_nepali,Dynamic Programming (Intro),5,1.61,none,conceptual_why
+LOG-00934,E24,2025-09-23,4,romanized_nepali,Dynamic Programming (Intro),5,1.59,up,how_to_implement
+LOG-00935,E01,2025-09-21,3,code_mixed,Trees and BSTs,5,1.33,none,debug
+LOG-00936,E07,2025-09-07,1,english,Searching Algorithms,5,1.94,up,conceptual_why
+LOG-00937,E24,2025-10-03,5,code_mixed,Searching Algorithms,5,2.05,up,how_to_implement
+LOG-00938,E14,2025-09-24,4,english,Complexity and Notation,5,1.21,none,how_to_implement
+LOG-00939,E06,2025-09-12,2,english,Dynamic Programming (Intro),5,1.54,up,conceptual_why
+LOG-00940,E15,2025-10-08,6,romanized_nepali,Trees and BSTs,5,1.77,up,conceptual_why
+LOG-00941,E20,2025-09-22,4,english,Linked Lists,5,1.56,up,complexity
+LOG-00942,E16,2025-09-02,1,code_mixed,Greedy and Backtracking,5,1.65,up,complexity
+LOG-00943,E02,2025-10-10,6,english,Hashing,5,1.23,none,conceptual_why
+LOG-00944,E02,2025-09-22,4,english,Searching Algorithms,5,2.28,none,how_to_implement
+LOG-00945,E12,2025-09-07,1,code_mixed,Hashing,5,1.85,none,how_to_implement
+LOG-00946,E01,2025-09-19,3,english,Heaps and Priority Queues,5,2.18,up,conceptual_why
+LOG-00947,E03,2025-09-18,3,code_mixed,Trees and BSTs,5,2.1,none,conceptual_why
+LOG-00948,E17,2025-09-04,1,code_mixed,Graphs and Traversals,5,1.92,up,debug
+LOG-00949,E12,2025-09-20,3,english,Complexity and Notation,5,1.92,none,complexity
+LOG-00950,E03,2025-09-13,2,code_mixed,Arrays and Strings,5,1.6,none,conceptual_why
+LOG-00951,E23,2025-09-16,3,code_mixed,Stacks and Queues,5,1.71,none,how_to_implement
+LOG-00952,E11,2025-10-05,5,romanized_nepali,Searching Algorithms,5,1.15,none,conceptual_why
+LOG-00953,E23,2025-09-12,2,romanized_nepali,Trees and BSTs,5,1.36,up,debug
+LOG-00954,E16,2025-09-02,1,english,Graphs and Traversals,5,2.08,none,how_to_implement
+LOG-00955,E16,2025-09-14,2,code_mixed,Arrays and Strings,5,2.52,none,conceptual_why
+LOG-00956,E12,2025-09-19,3,romanized_nepali,Trees and BSTs,5,1.84,none,how_to_implement
+LOG-00957,E18,2025-09-13,2,english,Linked Lists,5,1.96,down,complexity
+LOG-00958,E08,2025-10-03,5,code_mixed,Sorting Algorithms,5,1.24,none,how_to_implement
+LOG-00959,E08,2025-10-10,6,code_mixed,Graphs and Traversals,5,1.17,none,complexity
+LOG-00960,E23,2025-10-09,6,code_mixed,Dynamic Programming (Intro),5,2.09,none,complexity
+LOG-00961,E06,2025-09-24,4,romanized_nepali,Greedy and Backtracking,5,1.58,up,conceptual_why
+LOG-00962,E11,2025-10-08,6,code_mixed,Graphs and Traversals,5,2.14,up,complexity
+LOG-00963,E20,2025-10-08,6,code_mixed,Hashing,5,1.25,none,how_to_implement
+LOG-00964,E10,2025-10-04,5,english,Searching Algorithms,5,1.44,none,how_to_implement
+LOG-00965,E11,2025-10-08,6,code_mixed,Sorting Algorithms,5,1.92,none,how_to_implement
+LOG-00966,E24,2025-09-22,4,english,Graphs and Traversals,5,2.01,none,conceptual_why
+LOG-00967,E06,2025-10-07,6,code_mixed,Linked Lists,5,0.7,none,debug
+LOG-00968,E07,2025-09-27,4,code_mixed,Trees and BSTs,5,1.59,none,conceptual_why
+LOG-00969,E23,2025-10-07,6,code_mixed,Greedy and Backtracking,5,1.26,none,how_to_implement
+LOG-00970,E09,2025-10-07,6,english,Stacks and Queues,5,2.64,none,debug
+LOG-00971,E10,2025-09-05,1,english,Graphs and Traversals,5,2.29,none,conceptual_why
+LOG-00972,E23,2025-10-09,6,code_mixed,Hashing,5,2.04,none,complexity
+LOG-00973,E10,2025-09-03,1,code_mixed,Trees and BSTs,5,2.4,none,conceptual_why
+LOG-00974,E26,2025-09-23,4,code_mixed,Trees and BSTs,5,1.9,up,how_to_implement
+LOG-00975,E22,2025-10-02,5,code_mixed,Graphs and Traversals,5,2.09,none,conceptual_why
+LOG-00976,E22,2025-10-08,6,code_mixed,Sorting Algorithms,5,1.4,none,complexity
+LOG-00977,E07,2025-09-05,1,romanized_nepali,Hashing,5,1.65,none,complexity
+LOG-00978,E07,2025-10-05,5,english,Greedy and Backtracking,5,0.61,none,how_to_implement
+LOG-00979,E21,2025-09-21,3,english,Searching Algorithms,5,2.02,up,conceptual_why
+LOG-00980,E22,2025-09-03,1,english,Arrays and Strings,5,1.46,none,how_to_implement
+LOG-00981,E07,2025-09-20,3,romanized_nepali,Searching Algorithms,5,1.84,none,how_to_implement
+LOG-00982,E06,2025-10-04,5,english,Trees and BSTs,5,1.37,none,conceptual_why
+LOG-00983,E08,2025-09-07,1,code_mixed,Dynamic Programming (Intro),5,2.27,none,complexity
+LOG-00984,E05,2025-10-09,6,code_mixed,Graphs and Traversals,5,1.32,none,complexity
+LOG-00985,E12,2025-09-04,1,english,Sorting Algorithms,5,1.98,none,how_to_implement
+LOG-00986,E14,2025-09-18,3,romanized_nepali,Trees and BSTs,5,1.76,none,conceptual_why
+LOG-00987,E17,2025-09-20,3,english,Greedy and Backtracking,5,1.34,none,conceptual_why
+LOG-00988,E02,2025-09-05,1,code_mixed,Stacks and Queues,5,2.45,up,debug
+LOG-00989,E06,2025-10-11,6,english,Trees and BSTs,5,1.86,none,how_to_implement
+LOG-00990,E04,2025-10-12,6,romanized_nepali,Trees and BSTs,5,1.68,none,debug
+LOG-00991,E08,2025-10-10,6,english,Arrays and Strings,5,1.81,none,complexity
+LOG-00992,E06,2025-09-15,3,english,Linked Lists,5,1.66,none,how_to_implement
+LOG-00993,E25,2025-10-09,6,code_mixed,Sorting Algorithms,5,1.02,up,how_to_implement
+LOG-00994,E11,2025-09-20,3,english,Searching Algorithms,5,2.12,up,how_to_implement
+LOG-00995,E05,2025-09-19,3,code_mixed,Graphs and Traversals,5,1.47,none,complexity
+LOG-00996,E18,2025-10-05,5,code_mixed,Complexity and Notation,5,2.49,up,complexity
+LOG-00997,E25,2025-09-07,1,english,Sorting Algorithms,5,1.88,none,conceptual_why
+LOG-00998,E21,2025-09-01,1,english,Arrays and Strings,5,1.89,none,complexity
+LOG-00999,E18,2025-10-11,6,code_mixed,Searching Algorithms,5,2.39,none,conceptual_why
+LOG-01000,E11,2025-09-21,3,romanized_nepali,Sorting Algorithms,5,1.78,up,complexity
+LOG-01001,E12,2025-10-08,6,code_mixed,Hashing,5,2.17,none,conceptual_why
+LOG-01002,E09,2025-09-23,4,romanized_nepali,Heaps and Priority Queues,5,1.34,none,complexity
+LOG-01003,E21,2025-09-07,1,code_mixed,Stacks and Queues,5,2.15,none,conceptual_why
+LOG-01004,E21,2025-09-24,4,english,Greedy and Backtracking,5,1.77,none,conceptual_why
+LOG-01005,E14,2025-09-13,2,romanized_nepali,Linked Lists,5,1.78,none,conceptual_why
+LOG-01006,E23,2025-09-06,1,code_mixed,Sorting Algorithms,5,1.69,none,complexity
+LOG-01007,E18,2025-09-02,1,english,Trees and BSTs,5,2.37,up,complexity
+LOG-01008,E18,2025-09-22,4,romanized_nepali,Sorting Algorithms,5,2.0,none,complexity
+LOG-01009,E08,2025-09-18,3,code_mixed,Complexity and Notation,5,2.34,up,how_to_implement
+LOG-01010,E07,2025-09-20,3,code_mixed,Linked Lists,5,1.46,down,complexity
+LOG-01011,E07,2025-10-12,6,romanized_nepali,Trees and BSTs,5,1.34,none,conceptual_why
+LOG-01012,E24,2025-10-09,6,romanized_nepali,Stacks and Queues,5,1.59,none,conceptual_why
+LOG-01013,E21,2025-10-06,6,romanized_nepali,Dynamic Programming (Intro),5,2.26,up,conceptual_why
+LOG-01014,E23,2025-09-18,3,code_mixed,Graphs and Traversals,5,1.57,none,conceptual_why
+LOG-01015,E22,2025-10-07,6,code_mixed,Trees and BSTs,5,2.03,none,complexity
+LOG-01016,E21,2025-10-06,6,english,Trees and BSTs,5,1.84,up,how_to_implement
+LOG-01017,E12,2025-09-28,4,code_mixed,Arrays and Strings,5,1.86,none,debug
+LOG-01018,E21,2025-09-18,3,english,Dynamic Programming (Intro),5,1.9,none,how_to_implement
+LOG-01019,E05,2025-09-16,3,english,Linked Lists,5,2.28,none,how_to_implement
+LOG-01020,E18,2025-09-23,4,romanized_nepali,Complexity and Notation,5,2.01,none,complexity
+LOG-01021,E02,2025-09-19,3,romanized_nepali,Complexity and Notation,5,2.05,up,debug
+LOG-01022,E25,2025-10-10,6,english,Stacks and Queues,5,1.95,up,debug
+LOG-01023,E23,2025-09-24,4,code_mixed,Sorting Algorithms,5,2.33,none,how_to_implement
+LOG-01024,E05,2025-10-05,5,code_mixed,Sorting Algorithms,5,2.14,up,conceptual_why
+LOG-01025,E21,2025-10-10,6,romanized_nepali,Arrays and Strings,5,1.59,up,how_to_implement
+LOG-01026,E22,2025-10-04,5,english,Dynamic Programming (Intro),5,1.29,none,conceptual_why
+LOG-01027,E02,2025-09-12,2,english,Stacks and Queues,5,0.89,none,debug
+LOG-01028,E15,2025-09-20,3,code_mixed,Trees and BSTs,5,1.6,none,how_to_implement
+LOG-01029,E12,2025-10-11,6,english,Dynamic Programming (Intro),5,1.63,up,complexity
+LOG-01030,E16,2025-09-04,1,romanized_nepali,Greedy and Backtracking,5,1.18,none,complexity
+LOG-01031,E23,2025-09-17,3,english,Complexity and Notation,5,1.86,up,debug
+LOG-01032,E19,2025-10-04,5,romanized_nepali,Searching Algorithms,5,1.58,none,complexity
+LOG-01033,E07,2025-10-09,6,code_mixed,Graphs and Traversals,5,2.1,up,conceptual_why
+LOG-01034,E15,2025-10-08,6,romanized_nepali,Graphs and Traversals,5,1.3,up,conceptual_why
+LOG-01035,E15,2025-10-06,6,code_mixed,Dynamic Programming (Intro),5,1.49,none,conceptual_why
+LOG-01036,E01,2025-10-06,6,romanized_nepali,Arrays and Strings,5,2.03,none,complexity
+LOG-01037,E05,2025-09-21,3,code_mixed,Sorting Algorithms,5,2.07,none,how_to_implement
+LOG-01038,E11,2025-09-05,1,code_mixed,Graphs and Traversals,5,1.32,none,how_to_implement
+LOG-01039,E06,2025-10-04,5,english,Dynamic Programming (Intro),5,1.89,none,complexity
+LOG-01040,E07,2025-09-06,1,romanized_nepali,Linked Lists,5,1.84,none,how_to_implement
+LOG-01041,E18,2025-10-08,6,code_mixed,Searching Algorithms,5,1.59,up,debug
+LOG-01042,E25,2025-09-10,2,romanized_nepali,Linked Lists,5,1.68,up,conceptual_why
+LOG-01043,E13,2025-09-02,1,code_mixed,Graphs and Traversals,5,1.71,up,conceptual_why
+LOG-01044,E17,2025-10-12,6,english,Searching Algorithms,5,1.56,up,complexity
+LOG-01045,E21,2025-09-13,2,english,Searching Algorithms,5,2.12,up,how_to_implement
+LOG-01046,E18,2025-10-02,5,english,Heaps and Priority Queues,5,1.12,none,how_to_implement
+LOG-01047,E18,2025-09-05,1,code_mixed,Heaps and Priority Queues,5,1.7,up,complexity
+LOG-01048,E01,2025-10-12,6,romanized_nepali,Heaps and Priority Queues,5,1.47,none,complexity
+LOG-01049,E23,2025-09-02,1,english,Arrays and Strings,5,1.81,none,how_to_implement
+LOG-01050,E05,2025-10-05,5,english,Linked Lists,5,1.26,none,how_to_implement
+LOG-01051,E06,2025-10-09,6,romanized_nepali,Hashing,5,1.15,none,conceptual_why
+LOG-01052,E14,2025-09-19,3,english,Trees and BSTs,5,1.57,up,how_to_implement
+LOG-01053,E15,2025-09-01,1,english,Greedy and Backtracking,5,2.96,none,conceptual_why
+LOG-01054,E21,2025-09-03,1,english,Arrays and Strings,5,1.91,up,complexity
+LOG-01055,E09,2025-09-05,1,code_mixed,Complexity and Notation,5,1.69,none,complexity
+LOG-01056,E25,2025-10-07,6,english,Trees and BSTs,5,1.1,none,how_to_implement
+LOG-01057,E17,2025-09-28,4,code_mixed,Linked Lists,5,1.41,up,debug
+LOG-01058,E22,2025-10-10,6,english,Dynamic Programming (Intro),5,1.23,up,how_to_implement
+LOG-01059,E13,2025-10-04,5,romanized_nepali,Sorting Algorithms,5,2.37,up,conceptual_why
+LOG-01060,E03,2025-10-03,5,romanized_nepali,Trees and BSTs,5,0.87,up,conceptual_why
+LOG-01061,E01,2025-09-15,3,english,Trees and BSTs,5,1.03,none,debug
+LOG-01062,E17,2025-09-17,3,english,Greedy and Backtracking,5,1.81,none,how_to_implement
+LOG-01063,E12,2025-10-12,6,english,Heaps and Priority Queues,5,1.27,up,debug
+LOG-01064,E13,2025-10-11,6,romanized_nepali,Arrays and Strings,5,1.19,none,how_to_implement
+LOG-01065,E10,2025-09-23,4,romanized_nepali,Arrays and Strings,5,1.67,none,conceptual_why
+LOG-01066,E06,2025-10-08,6,romanized_nepali,Dynamic Programming (Intro),5,1.76,none,conceptual_why
+LOG-01067,E13,2025-10-06,6,english,Greedy and Backtracking,5,1.19,up,conceptual_why
+LOG-01068,E08,2025-09-19,3,romanized_nepali,Sorting Algorithms,5,2.05,down,complexity
+LOG-01069,E23,2025-09-15,3,english,Dynamic Programming (Intro),5,1.83,up,how_to_implement
+LOG-01070,E06,2025-10-07,6,english,Stacks and Queues,5,1.25,up,how_to_implement
+LOG-01071,E25,2025-10-12,6,english,Complexity and Notation,5,1.12,up,how_to_implement
+LOG-01072,E22,2025-10-12,6,english,Heaps and Priority Queues,5,1.57,none,how_to_implement
+LOG-01073,E11,2025-09-21,3,code_mixed,Greedy and Backtracking,5,1.78,none,how_to_implement
+LOG-01074,E21,2025-09-05,1,romanized_nepali,Sorting Algorithms,5,2.55,up,conceptual_why
+LOG-01075,E15,2025-09-20,3,english,Trees and BSTs,5,1.1,none,conceptual_why
+LOG-01076,E13,2025-09-06,1,romanized_nepali,Arrays and Strings,5,1.55,up,complexity
+LOG-01077,E21,2025-10-12,6,romanized_nepali,Linked Lists,5,2.01,up,conceptual_why
+LOG-01078,E22,2025-09-20,3,code_mixed,Linked Lists,5,1.78,none,debug
+LOG-01079,E06,2025-10-09,6,code_mixed,Arrays and Strings,5,1.86,none,debug
+LOG-01080,E24,2025-09-18,3,english,Trees and BSTs,5,1.23,none,conceptual_why
+LOG-01081,E01,2025-10-12,6,english,Heaps and Priority Queues,5,1.45,none,conceptual_why
+LOG-01082,E01,2025-09-25,4,english,Trees and BSTs,5,1.57,up,complexity
+LOG-01083,E14,2025-10-09,6,code_mixed,Graphs and Traversals,5,2.35,none,complexity
+LOG-01084,E09,2025-10-03,5,code_mixed,Greedy and Backtracking,5,2.12,none,complexity
+LOG-01085,E12,2025-10-07,6,romanized_nepali,Hashing,5,2.02,none,debug
+LOG-01086,E13,2025-09-06,1,english,Dynamic Programming (Intro),5,1.95,none,debug
+LOG-01087,E13,2025-09-07,1,code_mixed,Graphs and Traversals,5,1.68,none,complexity
+LOG-01088,E24,2025-09-21,3,romanized_nepali,Dynamic Programming (Intro),5,1.76,up,debug
+LOG-01089,E24,2025-10-10,6,english,Hashing,5,2.3,up,complexity
+LOG-01090,E10,2025-10-10,6,romanized_nepali,Dynamic Programming (Intro),5,2.1,none,conceptual_why
+LOG-01091,E09,2025-10-06,6,english,Greedy and Backtracking,5,1.84,up,complexity
+LOG-01092,E18,2025-10-03,5,code_mixed,Linked Lists,5,2.16,none,complexity
+LOG-01093,E06,2025-09-04,1,english,Trees and BSTs,5,2.17,none,how_to_implement
+LOG-01094,E12,2025-10-11,6,romanized_nepali,Complexity and Notation,5,1.54,up,conceptual_why
+LOG-01095,E19,2025-10-05,5,romanized_nepali,Trees and BSTs,5,1.79,none,debug
+LOG-01096,E01,2025-10-04,5,code_mixed,Hashing,5,2.24,none,how_to_implement
+LOG-01097,E21,2025-10-09,6,romanized_nepali,Trees and BSTs,5,1.3,none,complexity
+LOG-01098,E20,2025-09-18,3,code_mixed,Hashing,5,1.8,none,conceptual_why
+LOG-01099,E11,2025-10-04,5,romanized_nepali,Searching Algorithms,5,2.85,up,debug
+LOG-01100,E08,2025-10-05,5,english,Graphs and Traversals,5,0.79,none,debug
+LOG-01101,E14,2025-10-07,6,romanized_nepali,Trees and BSTs,5,2.38,up,debug
+LOG-01102,E09,2025-09-07,1,english,Trees and BSTs,5,1.79,down,how_to_implement
+LOG-01103,E22,2025-10-06,6,romanized_nepali,Hashing,5,1.24,none,conceptual_why
+LOG-01104,E16,2025-10-10,6,code_mixed,Searching Algorithms,5,1.04,none,debug
+LOG-01105,E09,2025-10-04,5,code_mixed,Trees and BSTs,5,1.58,none,complexity
+LOG-01106,E21,2025-09-13,2,code_mixed,Dynamic Programming (Intro),5,1.3,none,conceptual_why
+LOG-01107,E16,2025-10-11,6,english,Graphs and Traversals,5,1.88,none,how_to_implement
+LOG-01108,E05,2025-09-08,2,code_mixed,Graphs and Traversals,5,1.63,none,conceptual_why
+LOG-01109,E12,2025-09-17,3,english,Arrays and Strings,5,1.84,none,how_to_implement
+LOG-01110,E14,2025-10-09,6,english,Heaps and Priority Queues,5,2.59,down,how_to_implement
+LOG-01111,E25,2025-10-02,5,code_mixed,Complexity and Notation,5,1.45,none,complexity
+LOG-01112,E10,2025-09-20,3,english,Greedy and Backtracking,5,1.11,down,how_to_implement
+LOG-01113,E13,2025-10-08,6,romanized_nepali,Trees and BSTs,5,2.16,up,complexity
+LOG-01114,E26,2025-10-04,5,code_mixed,Linked Lists,5,1.52,up,conceptual_why
+LOG-01115,E12,2025-09-09,2,code_mixed,Stacks and Queues,5,1.51,up,conceptual_why
+LOG-01116,E22,2025-09-17,3,english,Heaps and Priority Queues,5,1.65,none,how_to_implement
+LOG-01117,E04,2025-10-08,6,code_mixed,Graphs and Traversals,5,2.4,none,conceptual_why
+LOG-01118,E11,2025-10-08,6,english,Linked Lists,5,2.02,down,how_to_implement
+LOG-01119,E06,2025-09-06,1,code_mixed,Sorting Algorithms,5,1.46,up,complexity
+LOG-01120,E23,2025-09-27,4,code_mixed,Graphs and Traversals,5,1.72,up,complexity
+LOG-01121,E15,2025-10-06,6,romanized_nepali,Graphs and Traversals,5,1.81,none,conceptual_why
+LOG-01122,E07,2025-09-20,3,english,Dynamic Programming (Intro),5,1.92,up,debug
+LOG-01123,E03,2025-09-05,1,code_mixed,Complexity and Notation,5,1.32,up,debug
+LOG-01124,E12,2025-09-23,4,english,Greedy and Backtracking,5,1.22,none,conceptual_why
+LOG-01125,E04,2025-10-11,6,english,Graphs and Traversals,5,1.66,up,conceptual_why
+LOG-01126,E14,2025-10-06,6,romanized_nepali,Arrays and Strings,5,1.7,none,conceptual_why
+LOG-01127,E19,2025-09-16,3,code_mixed,Searching Algorithms,5,1.77,up,conceptual_why
+LOG-01128,E09,2025-10-09,6,english,Linked Lists,5,1.52,up,conceptual_why
+LOG-01129,E06,2025-10-05,5,romanized_nepali,Dynamic Programming (Intro),5,1.92,none,how_to_implement
+LOG-01130,E11,2025-09-19,3,romanized_nepali,Graphs and Traversals,5,1.61,none,conceptual_why
+LOG-01131,E05,2025-09-19,3,english,Dynamic Programming (Intro),5,2.39,none,how_to_implement
+LOG-01132,E22,2025-09-13,2,code_mixed,Hashing,5,3.53,down,complexity
+LOG-01133,E04,2025-09-22,4,english,Sorting Algorithms,5,2.23,none,complexity
+LOG-01134,E20,2025-09-21,3,code_mixed,Arrays and Strings,5,2.11,up,conceptual_why
+LOG-01135,E10,2025-09-19,3,code_mixed,Complexity and Notation,5,1.06,none,how_to_implement
+LOG-01136,E19,2025-10-10,6,code_mixed,Arrays and Strings,5,1.54,up,conceptual_why
+LOG-01137,E21,2025-10-07,6,romanized_nepali,Arrays and Strings,5,2.26,none,conceptual_why
+LOG-01138,E05,2025-09-25,4,romanized_nepali,Dynamic Programming (Intro),5,1.86,up,conceptual_why
+LOG-01139,E21,2025-10-12,6,english,Hashing,5,1.72,none,conceptual_why
+LOG-01140,E25,2025-10-05,5,english,Graphs and Traversals,5,1.57,none,how_to_implement
+LOG-01141,E15,2025-10-11,6,english,Complexity and Notation,5,1.37,none,how_to_implement
+LOG-01142,E17,2025-10-09,6,code_mixed,Stacks and Queues,5,2.31,none,conceptual_why
+LOG-01143,E10,2025-10-04,5,code_mixed,Dynamic Programming (Intro),5,1.58,none,complexity
+LOG-01144,E06,2025-10-06,6,code_mixed,Sorting Algorithms,5,2.06,none,how_to_implement
+LOG-01145,E20,2025-10-07,6,english,Sorting Algorithms,5,1.51,none,conceptual_why
+LOG-01146,E22,2025-10-07,6,english,Trees and BSTs,5,2.51,up,how_to_implement
+LOG-01147,E06,2025-10-10,6,english,Graphs and Traversals,5,2.29,none,debug
+LOG-01148,E04,2025-09-21,3,code_mixed,Dynamic Programming (Intro),5,1.66,up,conceptual_why
+LOG-01149,E10,2025-09-21,3,romanized_nepali,Graphs and Traversals,5,1.16,down,conceptual_why
+LOG-01150,E16,2025-09-18,3,code_mixed,Searching Algorithms,5,0.75,none,complexity
+LOG-01151,E11,2025-10-11,6,romanized_nepali,Trees and BSTs,5,1.04,none,how_to_implement
+LOG-01152,E25,2025-10-10,6,code_mixed,Arrays and Strings,5,1.97,up,how_to_implement
+LOG-01153,E21,2025-09-23,4,code_mixed,Linked Lists,5,2.27,none,conceptual_why
+LOG-01154,E24,2025-09-22,4,english,Arrays and Strings,5,0.99,none,complexity
+LOG-01155,E16,2025-09-10,2,english,Graphs and Traversals,5,1.89,up,complexity
+LOG-01156,E21,2025-10-12,6,romanized_nepali,Graphs and Traversals,5,1.94,none,conceptual_why
+LOG-01157,E25,2025-10-05,5,romanized_nepali,Arrays and Strings,5,1.45,none,complexity
+LOG-01158,E02,2025-10-12,6,english,Hashing,5,2.32,none,debug
+LOG-01159,E15,2025-10-04,5,english,Hashing,5,1.81,up,conceptual_why
+LOG-01160,E06,2025-09-27,4,english,Hashing,5,2.26,none,how_to_implement
+LOG-01161,E21,2025-10-07,6,romanized_nepali,Trees and BSTs,5,1.78,up,conceptual_why
+LOG-01162,E07,2025-10-10,6,english,Sorting Algorithms,5,1.64,none,debug
+LOG-01163,E20,2025-10-09,6,english,Trees and BSTs,5,1.0,none,how_to_implement
+LOG-01164,E10,2025-09-21,3,code_mixed,Trees and BSTs,5,2.43,none,debug
+LOG-01165,E18,2025-09-26,4,english,Dynamic Programming (Intro),5,2.57,none,how_to_implement
+LOG-01166,E18,2025-10-11,6,code_mixed,Graphs and Traversals,5,1.66,up,complexity
+LOG-01167,E24,2025-09-26,4,code_mixed,Searching Algorithms,5,2.07,none,how_to_implement
+LOG-01168,E23,2025-10-08,6,romanized_nepali,Sorting Algorithms,5,1.82,up,conceptual_why
+LOG-01169,E12,2025-09-28,4,romanized_nepali,Dynamic Programming (Intro),5,2.29,none,debug
+LOG-01170,E18,2025-10-09,6,english,Graphs and Traversals,5,1.83,up,how_to_implement
+LOG-01171,E06,2025-09-05,1,code_mixed,Trees and BSTs,5,1.89,none,complexity
+LOG-01172,E04,2025-09-01,1,code_mixed,Hashing,5,2.32,up,complexity
+LOG-01173,E19,2025-09-07,1,code_mixed,Sorting Algorithms,5,1.74,up,how_to_implement
+LOG-01174,E24,2025-09-23,4,code_mixed,Hashing,5,2.0,up,complexity
+LOG-01175,E20,2025-09-21,3,english,Stacks and Queues,5,1.61,none,conceptual_why
+LOG-01176,E14,2025-10-12,6,code_mixed,Searching Algorithms,5,1.51,up,debug
+LOG-01177,E17,2025-10-12,6,english,Complexity and Notation,5,1.07,none,how_to_implement
+LOG-01178,E20,2025-09-10,2,english,Dynamic Programming (Intro),5,1.36,up,complexity
+LOG-01179,E15,2025-10-09,6,romanized_nepali,Heaps and Priority Queues,5,2.24,up,how_to_implement
+LOG-01180,E11,2025-09-26,4,code_mixed,Graphs and Traversals,5,1.73,none,complexity
+LOG-01181,E22,2025-10-09,6,code_mixed,Stacks and Queues,5,1.23,up,complexity
+LOG-01182,E11,2025-09-21,3,code_mixed,Greedy and Backtracking,5,2.05,none,how_to_implement
+LOG-01183,E24,2025-10-07,6,english,Trees and BSTs,5,1.59,up,how_to_implement
+LOG-01184,E21,2025-09-01,1,romanized_nepali,Heaps and Priority Queues,5,2.05,up,complexity
+LOG-01185,E21,2025-09-24,4,romanized_nepali,Linked Lists,5,2.78,none,conceptual_why
+LOG-01186,E22,2025-09-20,3,code_mixed,Trees and BSTs,5,2.16,none,conceptual_why
+LOG-01187,E26,2025-09-18,3,code_mixed,Sorting Algorithms,5,2.02,none,complexity
+LOG-01188,E26,2025-09-19,3,english,Complexity and Notation,5,1.83,none,debug
+LOG-01189,E14,2025-09-23,4,code_mixed,Graphs and Traversals,5,2.34,up,conceptual_why
+LOG-01190,E11,2025-09-26,4,code_mixed,Heaps and Priority Queues,5,1.43,none,how_to_implement
+LOG-01191,E20,2025-09-28,4,code_mixed,Complexity and Notation,5,2.02,none,how_to_implement
+LOG-01192,E25,2025-10-06,6,english,Dynamic Programming (Intro),5,1.51,none,complexity
+LOG-01193,E17,2025-10-09,6,english,Greedy and Backtracking,5,1.61,up,complexity
+LOG-01194,E01,2025-10-12,6,english,Sorting Algorithms,5,1.65,up,how_to_implement
+LOG-01195,E02,2025-10-05,5,romanized_nepali,Stacks and Queues,5,1.42,up,debug
+LOG-01196,E13,2025-09-18,3,code_mixed,Stacks and Queues,5,2.1,up,debug
+LOG-01197,E21,2025-10-02,5,romanized_nepali,Stacks and Queues,5,1.03,none,conceptual_why
+LOG-01198,E23,2025-09-23,4,code_mixed,Sorting Algorithms,5,1.74,up,debug
+LOG-01199,E11,2025-09-18,3,romanized_nepali,Greedy and Backtracking,5,1.83,up,debug
+LOG-01200,E14,2025-09-20,3,english,Linked Lists,5,2.17,up,debug
+LOG-01201,E14,2025-09-17,3,romanized_nepali,Stacks and Queues,5,1.64,none,conceptual_why
+LOG-01202,E04,2025-09-29,5,english,Complexity and Notation,5,2.17,up,complexity
+LOG-01203,E01,2025-09-05,1,english,Sorting Algorithms,5,1.82,none,complexity
+LOG-01204,E14,2025-09-29,5,code_mixed,Graphs and Traversals,5,1.41,up,conceptual_why
+LOG-01205,E14,2025-09-23,4,code_mixed,Trees and BSTs,5,1.69,none,how_to_implement
+LOG-01206,E23,2025-09-01,1,code_mixed,Graphs and Traversals,5,2.46,up,conceptual_why
+LOG-01207,E06,2025-09-19,3,code_mixed,Dynamic Programming (Intro),5,2.26,none,complexity
+LOG-01208,E22,2025-10-12,6,code_mixed,Graphs and Traversals,5,1.27,up,conceptual_why
+LOG-01209,E08,2025-10-02,5,code_mixed,Trees and BSTs,5,1.42,none,conceptual_why
+LOG-01210,E14,2025-09-05,1,english,Arrays and Strings,5,1.66,none,how_to_implement
+LOG-01211,E19,2025-10-01,5,english,Trees and BSTs,5,1.86,none,complexity
+LOG-01212,E05,2025-10-06,6,english,Stacks and Queues,5,1.56,up,conceptual_why
+LOG-01213,E25,2025-09-10,2,english,Searching Algorithms,5,1.69,none,complexity
+LOG-01214,E25,2025-09-22,4,english,Trees and BSTs,5,2.01,none,how_to_implement
+LOG-01215,E25,2025-09-16,3,english,Dynamic Programming (Intro),5,1.83,none,conceptual_why
+LOG-01216,E01,2025-09-29,5,english,Dynamic Programming (Intro),5,2.18,none,debug
+LOG-01217,E17,2025-10-08,6,code_mixed,Hashing,5,1.58,none,how_to_implement
+LOG-01218,E18,2025-09-18,3,english,Sorting Algorithms,5,1.89,none,conceptual_why
+LOG-01219,E23,2025-09-11,2,code_mixed,Graphs and Traversals,5,1.32,none,conceptual_why
+LOG-01220,E06,2025-09-11,2,romanized_nepali,Sorting Algorithms,5,1.84,none,conceptual_why
+LOG-01221,E04,2025-10-04,5,romanized_nepali,Dynamic Programming (Intro),5,0.4,none,conceptual_why
+LOG-01222,E21,2025-09-06,1,english,Arrays and Strings,5,1.47,up,debug
+LOG-01223,E08,2025-09-28,4,code_mixed,Greedy and Backtracking,5,1.56,up,complexity
+LOG-01224,E03,2025-10-08,6,code_mixed,Dynamic Programming (Intro),5,1.69,up,how_to_implement
+LOG-01225,E03,2025-10-07,6,romanized_nepali,Trees and BSTs,5,1.04,none,debug
+LOG-01226,E17,2025-10-05,5,romanized_nepali,Graphs and Traversals,5,1.95,up,conceptual_why
+LOG-01227,E14,2025-09-01,1,english,Dynamic Programming (Intro),5,1.29,up,how_to_implement
+LOG-01228,E20,2025-09-23,4,english,Searching Algorithms,5,1.53,none,conceptual_why
+LOG-01229,E21,2025-09-18,3,english,Complexity and Notation,5,1.67,none,debug
+LOG-01230,E01,2025-09-27,4,code_mixed,Trees and BSTs,5,1.96,none,complexity
+LOG-01231,E24,2025-09-12,2,code_mixed,Dynamic Programming (Intro),5,1.41,up,conceptual_why
+LOG-01232,E23,2025-09-10,2,english,Searching Algorithms,5,1.86,up,how_to_implement
+LOG-01233,E24,2025-10-11,6,code_mixed,Searching Algorithms,5,1.45,up,how_to_implement
+LOG-01234,E21,2025-10-10,6,code_mixed,Stacks and Queues,5,2.65,up,conceptual_why
+LOG-01235,E11,2025-09-08,2,code_mixed,Greedy and Backtracking,5,2.13,up,conceptual_why
+LOG-01236,E08,2025-10-09,6,code_mixed,Dynamic Programming (Intro),5,1.87,none,conceptual_why
+LOG-01237,E24,2025-09-05,1,english,Stacks and Queues,5,1.14,none,debug
+LOG-01238,E12,2025-09-20,3,romanized_nepali,Sorting Algorithms,5,1.86,up,complexity
+LOG-01239,E14,2025-10-12,6,romanized_nepali,Trees and BSTs,5,1.35,down,complexity
+LOG-01240,E19,2025-10-11,6,code_mixed,Dynamic Programming (Intro),5,1.81,none,complexity
+LOG-01241,E18,2025-09-24,4,code_mixed,Greedy and Backtracking,5,1.77,none,conceptual_why
+LOG-01242,E19,2025-10-06,6,english,Hashing,5,1.71,up,how_to_implement
+LOG-01243,E16,2025-09-22,4,code_mixed,Searching Algorithms,5,2.21,none,how_to_implement
+LOG-01244,E14,2025-10-09,6,english,Trees and BSTs,5,2.12,none,how_to_implement
+LOG-01245,E21,2025-09-20,3,code_mixed,Dynamic Programming (Intro),5,1.79,up,complexity
+LOG-01246,E11,2025-09-16,3,code_mixed,Arrays and Strings,5,2.18,none,complexity
+LOG-01247,E08,2025-09-11,2,romanized_nepali,Graphs and Traversals,5,1.77,none,conceptual_why
+LOG-01248,E24,2025-10-04,5,code_mixed,Trees and BSTs,5,1.57,none,conceptual_why
+LOG-01249,E22,2025-09-30,5,code_mixed,Complexity and Notation,5,0.8,none,how_to_implement
+LOG-01250,E19,2025-10-10,6,code_mixed,Linked Lists,5,1.75,up,conceptual_why
+LOG-01251,E06,2025-09-11,2,code_mixed,Heaps and Priority Queues,5,2.3,none,how_to_implement
+LOG-01252,E02,2025-10-08,6,code_mixed,Arrays and Strings,5,1.15,none,conceptual_why
+LOG-01253,E24,2025-10-11,6,english,Graphs and Traversals,5,1.7,down,conceptual_why
+LOG-01254,E25,2025-10-07,6,romanized_nepali,Hashing,5,2.92,none,complexity
+LOG-01255,E08,2025-09-09,2,code_mixed,Graphs and Traversals,5,1.94,up,how_to_implement
+LOG-01256,E17,2025-09-12,2,code_mixed,Hashing,5,1.61,none,how_to_implement
+LOG-01257,E01,2025-09-07,1,code_mixed,Dynamic Programming (Intro),5,2.47,none,complexity
+LOG-01258,E11,2025-09-20,3,romanized_nepali,Hashing,5,1.87,none,conceptual_why
+LOG-01259,E19,2025-10-07,6,english,Dynamic Programming (Intro),5,1.99,down,debug
+LOG-01260,E11,2025-09-11,2,code_mixed,Dynamic Programming (Intro),5,2.16,none,debug
+LOG-01261,E21,2025-09-24,4,romanized_nepali,Trees and BSTs,5,1.56,none,conceptual_why
+LOG-01262,E24,2025-09-04,1,code_mixed,Trees and BSTs,5,2.46,none,complexity
+LOG-01263,E05,2025-10-05,5,code_mixed,Linked Lists,5,1.2,none,how_to_implement
+LOG-01264,E18,2025-09-08,2,english,Greedy and Backtracking,5,1.66,none,debug
+LOG-01265,E11,2025-10-08,6,romanized_nepali,Trees and BSTs,5,2.02,none,conceptual_why
+LOG-01266,E06,2025-10-04,5,romanized_nepali,Complexity and Notation,5,1.49,none,complexity
+LOG-01267,E10,2025-09-14,2,romanized_nepali,Dynamic Programming (Intro),5,1.84,none,conceptual_why
+LOG-01268,E14,2025-10-06,6,code_mixed,Dynamic Programming (Intro),5,2.07,up,how_to_implement
+LOG-01269,E23,2025-09-21,3,english,Heaps and Priority Queues,5,1.37,none,conceptual_why
+LOG-01270,E21,2025-09-28,4,english,Heaps and Priority Queues,5,1.24,none,conceptual_why
+LOG-01271,E01,2025-09-30,5,english,Graphs and Traversals,5,2.66,none,how_to_implement
+LOG-01272,E02,2025-09-19,3,english,Searching Algorithms,5,1.95,none,how_to_implement
+LOG-01273,E26,2025-09-23,4,code_mixed,Arrays and Strings,5,1.0,none,conceptual_why
+LOG-01274,E15,2025-10-08,6,code_mixed,Arrays and Strings,5,1.46,up,conceptual_why
+LOG-01275,E16,2025-10-09,6,romanized_nepali,Complexity and Notation,5,1.57,none,how_to_implement
+LOG-01276,E10,2025-10-09,6,code_mixed,Hashing,5,1.44,up,complexity
+LOG-01277,E22,2025-10-01,5,code_mixed,Searching Algorithms,5,2.15,none,how_to_implement
+LOG-01278,E15,2025-10-10,6,code_mixed,Dynamic Programming (Intro),5,0.68,none,how_to_implement
+LOG-01279,E16,2025-09-11,2,code_mixed,Trees and BSTs,5,2.12,none,conceptual_why
+LOG-01280,E08,2025-10-12,6,code_mixed,Dynamic Programming (Intro),5,2.0,none,conceptual_why
+LOG-01281,E21,2025-09-04,1,code_mixed,Dynamic Programming (Intro),5,2.31,up,how_to_implement
+LOG-01282,E07,2025-10-10,6,code_mixed,Stacks and Queues,5,1.54,none,conceptual_why
+LOG-01283,E05,2025-10-08,6,english,Hashing,5,1.58,up,conceptual_why
+LOG-01284,E16,2025-09-22,4,romanized_nepali,Trees and BSTs,5,1.47,none,how_to_implement
+LOG-01285,E22,2025-10-08,6,english,Graphs and Traversals,5,1.9,up,how_to_implement
+LOG-01286,E09,2025-10-12,6,english,Sorting Algorithms,5,1.58,up,debug
+LOG-01287,E09,2025-09-12,2,code_mixed,Heaps and Priority Queues,5,2.45,none,conceptual_why
+LOG-01288,E05,2025-10-05,5,code_mixed,Heaps and Priority Queues,5,2.06,none,debug
+LOG-01289,E16,2025-09-01,1,code_mixed,Trees and BSTs,5,1.93,none,how_to_implement
+LOG-01290,E21,2025-10-05,5,english,Greedy and Backtracking,5,1.24,none,conceptual_why
+LOG-01291,E04,2025-09-05,1,code_mixed,Hashing,5,1.43,up,debug
+LOG-01292,E14,2025-10-05,5,english,Searching Algorithms,5,1.17,up,how_to_implement
+LOG-01293,E14,2025-09-02,1,romanized_nepali,Graphs and Traversals,5,1.99,up,how_to_implement
+LOG-01294,E04,2025-09-22,4,code_mixed,Hashing,5,1.6,none,complexity
+LOG-01295,E14,2025-10-09,6,romanized_nepali,Dynamic Programming (Intro),5,1.48,up,debug
+LOG-01296,E08,2025-09-20,3,romanized_nepali,Arrays and Strings,5,1.33,none,conceptual_why
+LOG-01297,E06,2025-10-12,6,english,Hashing,5,0.86,up,complexity
+LOG-01298,E26,2025-09-24,4,code_mixed,Hashing,5,0.56,none,complexity
+LOG-01299,E03,2025-09-14,2,romanized_nepali,Heaps and Priority Queues,5,1.96,none,complexity
+LOG-01300,E10,2025-10-11,6,code_mixed,Graphs and Traversals,5,1.41,none,complexity
+LOG-01301,E16,2025-09-12,2,romanized_nepali,Stacks and Queues,5,2.12,up,conceptual_why
+LOG-01302,E12,2025-10-03,5,english,Stacks and Queues,5,1.93,none,how_to_implement
+LOG-01303,E01,2025-10-11,6,romanized_nepali,Sorting Algorithms,5,1.13,none,conceptual_why
+LOG-01304,E23,2025-10-11,6,code_mixed,Stacks and Queues,5,0.6,down,conceptual_why
+LOG-01305,E07,2025-09-30,5,english,Hashing,5,2.05,up,how_to_implement
+LOG-01306,E12,2025-09-16,3,romanized_nepali,Sorting Algorithms,5,1.55,up,conceptual_why
+LOG-01307,E24,2025-09-26,4,code_mixed,Hashing,5,2.18,none,conceptual_why
+LOG-01308,E25,2025-09-19,3,code_mixed,Sorting Algorithms,5,1.53,none,conceptual_why
+LOG-01309,E24,2025-09-20,3,code_mixed,Arrays and Strings,5,1.97,up,conceptual_why
+LOG-01310,E12,2025-09-20,3,english,Graphs and Traversals,5,1.83,none,complexity
+LOG-01311,E20,2025-09-15,3,code_mixed,Graphs and Traversals,5,1.75,up,conceptual_why
+LOG-01312,E22,2025-09-03,1,romanized_nepali,Linked Lists,5,1.95,none,conceptual_why
+LOG-01313,E06,2025-10-07,6,english,Stacks and Queues,5,3.07,up,complexity
+LOG-01314,E25,2025-09-01,1,code_mixed,Searching Algorithms,5,1.27,down,complexity
+LOG-01315,E04,2025-10-01,5,english,Heaps and Priority Queues,5,1.56,up,how_to_implement
+LOG-01316,E18,2025-09-21,3,english,Complexity and Notation,5,2.44,up,how_to_implement
+LOG-01317,E07,2025-10-05,5,code_mixed,Graphs and Traversals,5,2.16,none,complexity
+LOG-01318,E07,2025-10-02,5,english,Trees and BSTs,5,1.6,up,conceptual_why
+LOG-01319,E05,2025-09-24,4,code_mixed,Sorting Algorithms,5,1.59,none,complexity
+LOG-01320,E25,2025-10-07,6,code_mixed,Dynamic Programming (Intro),5,1.11,up,conceptual_why
+LOG-01321,E04,2025-10-01,5,code_mixed,Sorting Algorithms,5,1.6,none,debug
+LOG-01322,E24,2025-10-10,6,romanized_nepali,Trees and BSTs,5,2.07,none,debug
+LOG-01323,E05,2025-10-02,5,romanized_nepali,Greedy and Backtracking,5,1.54,none,debug
+LOG-01324,E10,2025-10-10,6,code_mixed,Linked Lists,5,1.7,up,complexity
+LOG-01325,E07,2025-10-09,6,romanized_nepali,Stacks and Queues,5,1.4,none,conceptual_why
+LOG-01326,E26,2025-10-06,6,english,Graphs and Traversals,5,2.77,none,debug
+LOG-01327,E04,2025-09-20,3,english,Dynamic Programming (Intro),5,2.03,none,debug
+LOG-01328,E22,2025-09-25,4,code_mixed,Graphs and Traversals,5,1.88,up,conceptual_why
+LOG-01329,E09,2025-09-06,1,english,Complexity and Notation,5,1.2,none,complexity
+LOG-01330,E25,2025-10-06,6,romanized_nepali,Dynamic Programming (Intro),5,1.89,none,conceptual_why
+LOG-01331,E20,2025-10-04,5,code_mixed,Stacks and Queues,5,1.14,up,conceptual_why
+LOG-01332,E08,2025-10-08,6,english,Heaps and Priority Queues,5,1.73,up,conceptual_why
+LOG-01333,E14,2025-09-07,1,romanized_nepali,Greedy and Backtracking,5,1.15,none,complexity
+LOG-01334,E05,2025-09-10,2,romanized_nepali,Graphs and Traversals,5,1.87,none,conceptual_why
+LOG-01335,E12,2025-10-04,5,code_mixed,Hashing,5,2.33,up,how_to_implement
+LOG-01336,E01,2025-10-06,6,code_mixed,Linked Lists,5,2.59,none,complexity
+LOG-01337,E18,2025-09-06,1,code_mixed,Hashing,5,2.11,none,how_to_implement
+LOG-01338,E16,2025-09-03,1,code_mixed,Trees and BSTs,5,2.73,none,conceptual_why
+LOG-01339,E08,2025-09-20,3,code_mixed,Hashing,5,1.72,up,conceptual_why
+LOG-01340,E01,2025-09-20,3,english,Graphs and Traversals,5,2.78,up,complexity
+LOG-01341,E25,2025-09-04,1,code_mixed,Stacks and Queues,5,1.19,up,how_to_implement
+LOG-01342,E04,2025-09-08,2,english,Searching Algorithms,5,2.41,none,how_to_implement
+LOG-01343,E10,2025-09-15,3,code_mixed,Linked Lists,5,1.79,none,debug
+LOG-01344,E01,2025-09-02,1,english,Greedy and Backtracking,5,1.61,up,how_to_implement
+LOG-01345,E11,2025-09-11,2,english,Arrays and Strings,5,1.01,up,complexity
+LOG-01346,E12,2025-09-02,1,english,Trees and BSTs,5,2.23,none,conceptual_why
+LOG-01347,E14,2025-09-21,3,code_mixed,Stacks and Queues,5,2.63,none,debug
+LOG-01348,E10,2025-10-07,6,romanized_nepali,Graphs and Traversals,5,1.3,up,conceptual_why
+LOG-01349,E08,2025-10-05,5,code_mixed,Linked Lists,5,1.51,none,complexity
+LOG-01350,E21,2025-10-03,5,romanized_nepali,Graphs and Traversals,5,1.89,up,conceptual_why
+LOG-01351,E09,2025-09-24,4,english,Sorting Algorithms,5,1.43,none,conceptual_why
+LOG-01352,E10,2025-09-14,2,english,Trees and BSTs,5,2.0,none,complexity
+LOG-01353,E14,2025-09-04,1,code_mixed,Searching Algorithms,5,1.18,none,complexity
+LOG-01354,E08,2025-09-14,2,code_mixed,Trees and BSTs,5,2.26,none,conceptual_why
+LOG-01355,E19,2025-10-11,6,code_mixed,Sorting Algorithms,5,1.68,none,complexity
+LOG-01356,E03,2025-10-08,6,code_mixed,Trees and BSTs,5,1.6,up,conceptual_why
+LOG-01357,E10,2025-10-01,5,romanized_nepali,Sorting Algorithms,5,2.23,none,conceptual_why
+LOG-01358,E12,2025-10-04,5,romanized_nepali,Dynamic Programming (Intro),5,1.45,up,conceptual_why
+LOG-01359,E08,2025-10-07,6,code_mixed,Linked Lists,5,2.34,up,conceptual_why
+LOG-01360,E22,2025-10-08,6,english,Heaps and Priority Queues,5,0.74,none,how_to_implement
+LOG-01361,E10,2025-09-18,3,code_mixed,Sorting Algorithms,5,1.55,none,conceptual_why
+LOG-01362,E12,2025-10-08,6,code_mixed,Dynamic Programming (Intro),5,2.6,none,conceptual_why
+LOG-01363,E13,2025-10-04,5,romanized_nepali,Sorting Algorithms,5,1.43,none,complexity
+LOG-01364,E22,2025-09-19,3,code_mixed,Stacks and Queues,5,2.25,none,conceptual_why
+LOG-01365,E07,2025-09-19,3,romanized_nepali,Trees and BSTs,5,2.11,none,conceptual_why
+LOG-01366,E22,2025-09-13,2,code_mixed,Dynamic Programming (Intro),5,1.9,up,conceptual_why
+LOG-01367,E25,2025-09-29,5,english,Linked Lists,5,2.33,up,how_to_implement
+LOG-01368,E08,2025-10-12,6,code_mixed,Dynamic Programming (Intro),5,1.51,none,how_to_implement
+LOG-01369,E06,2025-10-08,6,code_mixed,Dynamic Programming (Intro),5,2.37,none,complexity
+LOG-01370,E21,2025-09-13,2,english,Greedy and Backtracking,5,1.87,up,how_to_implement
+LOG-01371,E09,2025-09-09,2,code_mixed,Sorting Algorithms,5,1.36,up,conceptual_why
+LOG-01372,E07,2025-09-19,3,code_mixed,Trees and BSTs,5,1.37,none,complexity
+LOG-01373,E03,2025-09-12,2,code_mixed,Graphs and Traversals,5,1.59,none,conceptual_why
+LOG-01374,E16,2025-09-11,2,code_mixed,Greedy and Backtracking,5,1.66,none,complexity
+LOG-01375,E25,2025-10-06,6,english,Linked Lists,5,1.53,down,debug
+LOG-01376,E23,2025-09-20,3,code_mixed,Dynamic Programming (Intro),5,1.32,none,how_to_implement
+LOG-01377,E16,2025-10-01,5,english,Greedy and Backtracking,5,2.03,up,conceptual_why
+LOG-01378,E12,2025-09-20,3,english,Searching Algorithms,5,2.23,none,how_to_implement
+LOG-01379,E26,2025-10-12,6,romanized_nepali,Searching Algorithms,5,1.44,none,complexity
+LOG-01380,E18,2025-10-03,5,code_mixed,Trees and BSTs,5,1.37,none,conceptual_why
+LOG-01381,E25,2025-09-11,2,code_mixed,Dynamic Programming (Intro),5,2.59,none,complexity
+LOG-01382,E18,2025-10-07,6,code_mixed,Dynamic Programming (Intro),5,0.92,up,how_to_implement
+LOG-01383,E19,2025-09-19,3,english,Dynamic Programming (Intro),5,1.02,up,complexity
+LOG-01384,E19,2025-09-24,4,english,Hashing,5,1.92,none,conceptual_why
+LOG-01385,E04,2025-09-19,3,romanized_nepali,Heaps and Priority Queues,5,1.63,none,complexity
+LOG-01386,E08,2025-09-25,4,code_mixed,Greedy and Backtracking,5,1.59,none,how_to_implement
+LOG-01387,E03,2025-09-20,3,english,Dynamic Programming (Intro),5,1.96,none,conceptual_why
+LOG-01388,E24,2025-09-20,3,romanized_nepali,Linked Lists,5,1.4,none,conceptual_why
+LOG-01389,E26,2025-09-12,2,code_mixed,Dynamic Programming (Intro),5,1.58,none,complexity
+LOG-01390,E16,2025-10-12,6,code_mixed,Graphs and Traversals,5,2.01,up,complexity
+LOG-01391,E05,2025-09-16,3,english,Complexity and Notation,5,1.59,none,conceptual_why
+LOG-01392,E04,2025-09-19,3,code_mixed,Trees and BSTs,5,1.73,up,conceptual_why
+LOG-01393,E13,2025-09-22,4,code_mixed,Greedy and Backtracking,5,1.17,none,conceptual_why
+LOG-01394,E11,2025-09-09,2,code_mixed,Linked Lists,5,1.83,up,debug
+LOG-01395,E06,2025-09-17,3,romanized_nepali,Linked Lists,5,2.18,none,conceptual_why
+LOG-01396,E03,2025-09-22,4,code_mixed,Heaps and Priority Queues,5,1.59,none,complexity
+LOG-01397,E17,2025-10-02,5,english,Searching Algorithms,5,1.32,none,conceptual_why
+LOG-01398,E21,2025-09-28,4,romanized_nepali,Trees and BSTs,5,1.82,none,how_to_implement
+LOG-01399,E03,2025-09-21,3,romanized_nepali,Heaps and Priority Queues,5,2.21,none,conceptual_why
+LOG-01400,E09,2025-10-05,5,romanized_nepali,Sorting Algorithms,5,2.97,none,conceptual_why
+LOG-01401,E09,2025-10-07,6,code_mixed,Arrays and Strings,5,1.87,up,how_to_implement
+LOG-01402,E15,2025-09-18,3,code_mixed,Arrays and Strings,5,1.84,none,complexity
+LOG-01403,E16,2025-09-18,3,code_mixed,Trees and BSTs,5,2.01,up,complexity
+LOG-01404,E12,2025-10-04,5,romanized_nepali,Graphs and Traversals,5,1.65,up,debug
+LOG-01405,E23,2025-09-23,4,code_mixed,Dynamic Programming (Intro),5,2.24,up,how_to_implement
+LOG-01406,E11,2025-10-09,6,romanized_nepali,Greedy and Backtracking,5,2.67,none,conceptual_why
+LOG-01407,E09,2025-09-01,1,code_mixed,Trees and BSTs,5,1.58,none,complexity
+LOG-01408,E21,2025-09-29,5,romanized_nepali,Arrays and Strings,5,2.67,up,how_to_implement
+LOG-01409,E22,2025-09-21,3,romanized_nepali,Linked Lists,5,2.0,none,conceptual_why
+LOG-01410,E23,2025-09-16,3,code_mixed,Trees and BSTs,5,2.06,none,conceptual_why
+LOG-01411,E06,2025-10-09,6,code_mixed,Sorting Algorithms,5,1.71,none,how_to_implement
+LOG-01412,E06,2025-09-16,3,code_mixed,Hashing,5,1.7,none,conceptual_why
+LOG-01413,E13,2025-10-08,6,romanized_nepali,Heaps and Priority Queues,5,2.02,none,conceptual_why
+LOG-01414,E25,2025-10-09,6,romanized_nepali,Stacks and Queues,5,2.11,up,conceptual_why
+LOG-01415,E16,2025-10-12,6,romanized_nepali,Dynamic Programming (Intro),5,1.84,none,debug
+LOG-01416,E16,2025-09-09,2,code_mixed,Graphs and Traversals,5,1.47,none,debug
+LOG-01417,E10,2025-09-12,2,english,Trees and BSTs,5,1.96,none,debug
+LOG-01418,E26,2025-09-07,1,english,Greedy and Backtracking,5,1.36,up,debug
+LOG-01419,E06,2025-09-20,3,english,Heaps and Priority Queues,5,1.29,none,debug
+LOG-01420,E15,2025-10-10,6,romanized_nepali,Heaps and Priority Queues,5,1.08,up,conceptual_why
+LOG-01421,E18,2025-10-04,5,code_mixed,Trees and BSTs,5,0.96,none,conceptual_why
+LOG-01422,E21,2025-09-12,2,english,Trees and BSTs,5,2.11,none,how_to_implement
+LOG-01423,E22,2025-09-08,2,romanized_nepali,Greedy and Backtracking,5,1.72,none,conceptual_why
+LOG-01424,E11,2025-10-07,6,code_mixed,Trees and BSTs,5,1.98,none,complexity
+LOG-01425,E08,2025-10-04,5,code_mixed,Greedy and Backtracking,5,2.02,none,conceptual_why
+LOG-01426,E26,2025-09-01,1,code_mixed,Dynamic Programming (Intro),5,2.89,none,debug
+LOG-01427,E15,2025-10-02,5,code_mixed,Arrays and Strings,5,1.35,none,conceptual_why
+LOG-01428,E09,2025-09-14,2,english,Heaps and Priority Queues,5,2.16,none,how_to_implement
+LOG-01429,E05,2025-09-19,3,romanized_nepali,Sorting Algorithms,5,2.26,up,complexity
+LOG-01430,E21,2025-09-08,2,english,Dynamic Programming (Intro),5,2.32,up,debug
+LOG-01431,E22,2025-10-12,6,romanized_nepali,Complexity and Notation,5,1.78,none,conceptual_why
+LOG-01432,E15,2025-09-24,4,romanized_nepali,Dynamic Programming (Intro),5,1.95,up,debug
+LOG-01433,E11,2025-10-04,5,code_mixed,Arrays and Strings,5,2.57,none,how_to_implement
+LOG-01434,E18,2025-09-15,3,code_mixed,Arrays and Strings,5,2.67,up,debug
+LOG-01435,E26,2025-09-21,3,romanized_nepali,Stacks and Queues,5,0.71,none,debug
+LOG-01436,E15,2025-10-04,5,romanized_nepali,Trees and BSTs,5,1.94,up,conceptual_why
+LOG-01437,E21,2025-10-07,6,romanized_nepali,Greedy and Backtracking,5,1.7,up,conceptual_why
+LOG-01438,E23,2025-10-10,6,code_mixed,Linked Lists,5,2.12,up,debug
+LOG-01439,E21,2025-09-18,3,code_mixed,Trees and BSTs,5,1.88,none,how_to_implement
+LOG-01440,E14,2025-09-18,3,code_mixed,Graphs and Traversals,5,1.62,none,how_to_implement
+LOG-01441,E06,2025-09-22,4,code_mixed,Dynamic Programming (Intro),5,1.51,up,debug
+LOG-01442,E19,2025-09-20,3,romanized_nepali,Dynamic Programming (Intro),5,0.75,up,conceptual_why
+LOG-01443,E22,2025-10-08,6,romanized_nepali,Linked Lists,5,2.37,none,conceptual_why
+LOG-01444,E25,2025-09-21,3,romanized_nepali,Sorting Algorithms,5,1.03,none,conceptual_why
+LOG-01445,E05,2025-09-21,3,code_mixed,Complexity and Notation,5,2.15,none,how_to_implement
+LOG-01446,E04,2025-09-26,4,english,Sorting Algorithms,5,1.29,none,how_to_implement
+LOG-01447,E17,2025-09-30,5,code_mixed,Greedy and Backtracking,5,1.8,up,conceptual_why
+LOG-01448,E22,2025-09-21,3,english,Sorting Algorithms,5,2.09,up,complexity
+LOG-01449,E03,2025-09-01,1,code_mixed,Dynamic Programming (Intro),5,1.94,none,complexity
+LOG-01450,E16,2025-10-06,6,english,Complexity and Notation,5,1.29,none,complexity
+LOG-01451,E08,2025-09-09,2,romanized_nepali,Hashing,5,2.2,none,conceptual_why
+LOG-01452,E26,2025-10-09,6,code_mixed,Dynamic Programming (Intro),5,1.62,none,conceptual_why
+LOG-01453,E11,2025-09-18,3,romanized_nepali,Dynamic Programming (Intro),5,1.6,up,conceptual_why
+LOG-01454,E03,2025-09-18,3,code_mixed,Graphs and Traversals,5,2.18,none,how_to_implement
+LOG-01455,E21,2025-09-28,4,code_mixed,Hashing,5,1.42,none,conceptual_why
+LOG-01456,E09,2025-10-10,6,english,Linked Lists,5,1.15,none,how_to_implement
+LOG-01457,E12,2025-09-22,4,english,Trees and BSTs,5,2.33,up,conceptual_why
+LOG-01458,E04,2025-09-24,4,code_mixed,Linked Lists,5,2.22,none,how_to_implement
+LOG-01459,E10,2025-09-23,4,english,Graphs and Traversals,5,1.57,none,how_to_implement
+LOG-01460,E05,2025-09-09,2,romanized_nepali,Trees and BSTs,5,0.76,none,conceptual_why
+LOG-01461,E08,2025-09-19,3,romanized_nepali,Heaps and Priority Queues,5,1.44,none,conceptual_why
+LOG-01462,E15,2025-10-11,6,english,Complexity and Notation,5,1.65,none,how_to_implement
+LOG-01463,E09,2025-10-11,6,code_mixed,Dynamic Programming (Intro),5,0.74,up,debug
+LOG-01464,E18,2025-09-18,3,romanized_nepali,Searching Algorithms,5,2.28,none,conceptual_why
+LOG-01465,E23,2025-10-11,6,english,Greedy and Backtracking,5,1.3,none,complexity
+LOG-01466,E15,2025-09-02,1,code_mixed,Sorting Algorithms,5,1.86,none,how_to_implement
+LOG-01467,E01,2025-10-06,6,romanized_nepali,Heaps and Priority Queues,5,1.65,up,conceptual_why
+LOG-01468,E25,2025-09-02,1,english,Greedy and Backtracking,5,0.6,down,how_to_implement
+LOG-01469,E06,2025-09-23,4,code_mixed,Greedy and Backtracking,5,1.25,up,debug
+LOG-01470,E10,2025-09-23,4,code_mixed,Graphs and Traversals,5,1.58,none,complexity
+LOG-01471,E14,2025-09-23,4,romanized_nepali,Arrays and Strings,5,1.56,none,debug
+LOG-01472,E16,2025-10-11,6,english,Greedy and Backtracking,5,1.48,none,complexity
+LOG-01473,E10,2025-09-21,3,code_mixed,Sorting Algorithms,5,1.06,none,how_to_implement
+LOG-01474,E13,2025-09-02,1,romanized_nepali,Sorting Algorithms,5,1.86,up,debug
+LOG-01475,E17,2025-09-09,2,code_mixed,Linked Lists,5,1.42,none,debug
+LOG-01476,E13,2025-10-07,6,english,Sorting Algorithms,5,0.7,none,debug
+LOG-01477,E09,2025-09-10,2,code_mixed,Sorting Algorithms,5,2.81,none,how_to_implement
+LOG-01478,E12,2025-09-05,1,english,Dynamic Programming (Intro),5,1.9,up,complexity
+LOG-01479,E11,2025-09-15,3,english,Sorting Algorithms,5,1.52,none,how_to_implement
+LOG-01480,E09,2025-10-12,6,romanized_nepali,Complexity and Notation,5,1.86,none,how_to_implement
+LOG-01481,E16,2025-09-23,4,romanized_nepali,Graphs and Traversals,5,1.88,none,complexity
+LOG-01482,E14,2025-09-11,2,code_mixed,Sorting Algorithms,5,1.86,none,conceptual_why
+LOG-01483,E12,2025-10-05,5,code_mixed,Trees and BSTs,5,1.41,down,conceptual_why
+LOG-01484,E19,2025-09-22,4,english,Arrays and Strings,5,1.93,none,how_to_implement
+LOG-01485,E22,2025-09-30,5,english,Sorting Algorithms,5,1.78,none,how_to_implement
+LOG-01486,E18,2025-10-12,6,code_mixed,Searching Algorithms,5,1.12,none,conceptual_why
+LOG-01487,E10,2025-10-06,6,romanized_nepali,Searching Algorithms,5,1.92,none,debug
+LOG-01488,E25,2025-09-28,4,code_mixed,Trees and BSTs,5,1.44,none,how_to_implement
+LOG-01489,E04,2025-10-12,6,code_mixed,Complexity and Notation,5,1.47,none,how_to_implement
+LOG-01490,E21,2025-09-26,4,code_mixed,Trees and BSTs,5,1.31,none,conceptual_why
+LOG-01491,E12,2025-09-24,4,code_mixed,Trees and BSTs,5,0.79,none,complexity
+LOG-01492,E12,2025-10-09,6,romanized_nepali,Stacks and Queues,5,1.87,none,how_to_implement
+LOG-01493,E22,2025-10-12,6,code_mixed,Trees and BSTs,5,2.31,up,debug
+LOG-01494,E18,2025-10-06,6,english,Hashing,5,2.2,none,complexity
+LOG-01495,E26,2025-09-21,3,romanized_nepali,Greedy and Backtracking,5,1.54,none,conceptual_why
+LOG-01496,E23,2025-09-22,4,code_mixed,Dynamic Programming (Intro),5,2.14,up,debug
+LOG-01497,E04,2025-09-01,1,code_mixed,Graphs and Traversals,5,2.18,up,how_to_implement
+LOG-01498,E14,2025-09-18,3,english,Greedy and Backtracking,5,1.5,up,complexity
+LOG-01499,E21,2025-10-07,6,code_mixed,Arrays and Strings,5,1.64,none,conceptual_why
+LOG-01500,E03,2025-09-25,4,code_mixed,Stacks and Queues,5,1.23,up,complexity
+LOG-01501,E15,2025-10-09,6,english,Trees and BSTs,5,1.15,none,how_to_implement
+LOG-01502,E26,2025-10-05,5,code_mixed,Linked Lists,5,2.11,up,conceptual_why
+LOG-01503,E07,2025-10-01,5,english,Sorting Algorithms,5,2.29,up,complexity
+LOG-01504,E04,2025-10-08,6,code_mixed,Linked Lists,5,1.92,none,complexity
+LOG-01505,E09,2025-09-26,4,english,Graphs and Traversals,5,2.0,up,how_to_implement
+LOG-01506,E10,2025-10-05,5,romanized_nepali,Trees and BSTs,5,2.17,none,how_to_implement
+LOG-01507,E09,2025-09-25,4,code_mixed,Linked Lists,5,2.49,up,how_to_implement
+LOG-01508,E12,2025-09-21,3,english,Graphs and Traversals,5,1.59,up,debug
+LOG-01509,E22,2025-10-07,6,code_mixed,Arrays and Strings,5,1.79,none,how_to_implement
+LOG-01510,E14,2025-09-06,1,code_mixed,Graphs and Traversals,5,2.77,none,complexity
+LOG-01511,E16,2025-10-12,6,romanized_nepali,Dynamic Programming (Intro),5,1.63,none,complexity
+LOG-01512,E04,2025-10-12,6,romanized_nepali,Searching Algorithms,5,2.61,none,debug
+LOG-01513,E03,2025-10-09,6,code_mixed,Searching Algorithms,5,2.72,up,how_to_implement
+LOG-01514,E25,2025-09-24,4,romanized_nepali,Linked Lists,5,1.26,none,complexity
+LOG-01515,E10,2025-09-24,4,english,Graphs and Traversals,5,1.76,none,debug
+LOG-01516,E25,2025-09-22,4,romanized_nepali,Sorting Algorithms,5,1.57,up,debug
+LOG-01517,E10,2025-09-24,4,english,Graphs and Traversals,5,2.6,up,conceptual_why
+LOG-01518,E17,2025-09-17,3,code_mixed,Heaps and Priority Queues,5,2.0,down,complexity
+LOG-01519,E18,2025-10-08,6,code_mixed,Heaps and Priority Queues,5,2.79,up,how_to_implement
+LOG-01520,E03,2025-10-10,6,code_mixed,Heaps and Priority Queues,5,1.68,up,conceptual_why
+LOG-01521,E03,2025-09-26,4,english,Trees and BSTs,5,1.3,none,how_to_implement
+LOG-01522,E13,2025-10-09,6,code_mixed,Sorting Algorithms,5,1.47,none,conceptual_why
+LOG-01523,E04,2025-09-19,3,romanized_nepali,Trees and BSTs,5,1.65,none,conceptual_why
+LOG-01524,E09,2025-10-09,6,english,Arrays and Strings,5,1.56,none,complexity
+LOG-01525,E06,2025-10-12,6,code_mixed,Arrays and Strings,5,1.87,none,complexity
+LOG-01526,E09,2025-10-05,5,code_mixed,Trees and BSTs,5,2.05,none,conceptual_why
+LOG-01527,E13,2025-10-12,6,code_mixed,Stacks and Queues,5,2.1,none,conceptual_why
+LOG-01528,E09,2025-10-06,6,english,Hashing,5,2.19,none,debug
+LOG-01529,E10,2025-10-06,6,romanized_nepali,Arrays and Strings,5,1.71,none,complexity
+LOG-01530,E14,2025-09-24,4,code_mixed,Hashing,5,1.54,none,debug
+LOG-01531,E18,2025-09-05,1,english,Trees and BSTs,5,1.55,none,complexity
+LOG-01532,E02,2025-09-10,2,english,Sorting Algorithms,5,1.76,up,how_to_implement
+LOG-01533,E26,2025-10-09,6,english,Arrays and Strings,5,2.56,up,how_to_implement
+LOG-01534,E12,2025-09-14,2,english,Graphs and Traversals,5,2.82,up,complexity
+LOG-01535,E24,2025-10-05,5,romanized_nepali,Trees and BSTs,5,2.71,up,complexity
+LOG-01536,E01,2025-09-12,2,romanized_nepali,Graphs and Traversals,5,0.79,none,conceptual_why
+LOG-01537,E02,2025-10-07,6,code_mixed,Dynamic Programming (Intro),5,1.14,none,conceptual_why
+LOG-01538,E04,2025-10-11,6,romanized_nepali,Graphs and Traversals,5,1.41,none,debug
+LOG-01539,E24,2025-10-04,5,english,Graphs and Traversals,5,1.67,none,complexity
+LOG-01540,E12,2025-09-03,1,code_mixed,Sorting Algorithms,5,1.97,none,conceptual_why
+LOG-01541,E22,2025-10-07,6,romanized_nepali,Trees and BSTs,5,1.76,none,conceptual_why
+LOG-01542,E19,2025-09-24,4,code_mixed,Hashing,5,1.14,up,how_to_implement
+LOG-01543,E03,2025-10-09,6,romanized_nepali,Graphs and Traversals,5,2.02,none,conceptual_why
+LOG-01544,E11,2025-09-11,2,romanized_nepali,Hashing,5,1.77,up,conceptual_why
+LOG-01545,E10,2025-09-19,3,english,Graphs and Traversals,5,2.01,none,how_to_implement
+LOG-01546,E13,2025-10-11,6,romanized_nepali,Dynamic Programming (Intro),5,1.81,up,conceptual_why
+LOG-01547,E21,2025-10-09,6,romanized_nepali,Linked Lists,5,1.52,down,conceptual_why
+LOG-01548,E03,2025-10-10,6,code_mixed,Greedy and Backtracking,5,1.44,up,complexity
+LOG-01549,E24,2025-09-27,4,code_mixed,Hashing,5,1.83,none,debug
+LOG-01550,E13,2025-10-05,5,code_mixed,Linked Lists,5,2.01,up,how_to_implement
+LOG-01551,E11,2025-10-11,6,english,Trees and BSTs,5,1.2,none,complexity
+LOG-01552,E19,2025-10-05,5,code_mixed,Trees and BSTs,5,1.87,none,complexity
+LOG-01553,E09,2025-09-07,1,romanized_nepali,Sorting Algorithms,5,1.26,none,conceptual_why
+LOG-01554,E19,2025-09-12,2,romanized_nepali,Stacks and Queues,5,1.92,none,conceptual_why
+LOG-01555,E12,2025-09-01,1,english,Searching Algorithms,5,2.43,none,complexity
+LOG-01556,E13,2025-09-09,2,english,Sorting Algorithms,5,1.94,up,how_to_implement
+LOG-01557,E06,2025-09-02,1,english,Hashing,5,1.62,none,conceptual_why
+LOG-01558,E06,2025-09-22,4,romanized_nepali,Sorting Algorithms,5,2.1,up,conceptual_why
+LOG-01559,E23,2025-10-04,5,romanized_nepali,Arrays and Strings,5,2.23,none,how_to_implement
+LOG-01560,E15,2025-10-09,6,code_mixed,Dynamic Programming (Intro),5,1.49,up,how_to_implement
+LOG-01561,E12,2025-09-22,4,code_mixed,Dynamic Programming (Intro),5,1.82,none,complexity
+LOG-01562,E21,2025-09-12,2,romanized_nepali,Dynamic Programming (Intro),5,0.84,up,conceptual_why
+LOG-01563,E24,2025-10-10,6,english,Graphs and Traversals,5,1.35,none,how_to_implement
+LOG-01564,E05,2025-10-11,6,code_mixed,Searching Algorithms,5,1.62,none,debug
+LOG-01565,E26,2025-10-12,6,english,Graphs and Traversals,5,2.09,none,conceptual_why
+LOG-01566,E01,2025-09-02,1,code_mixed,Linked Lists,5,1.56,none,how_to_implement
+LOG-01567,E16,2025-10-02,5,code_mixed,Stacks and Queues,5,1.73,down,conceptual_why
+LOG-01568,E08,2025-10-04,5,english,Searching Algorithms,5,2.18,none,how_to_implement
+LOG-01569,E08,2025-09-28,4,english,Trees and BSTs,5,1.96,up,debug
+LOG-01570,E14,2025-09-14,2,romanized_nepali,Searching Algorithms,5,1.71,none,complexity
+LOG-01571,E16,2025-10-11,6,english,Trees and BSTs,5,2.08,none,how_to_implement
+LOG-01572,E12,2025-09-28,4,english,Complexity and Notation,5,2.3,up,debug
+LOG-01573,E19,2025-09-03,1,english,Searching Algorithms,5,1.36,up,debug
+LOG-01574,E25,2025-09-21,3,english,Linked Lists,5,2.1,up,debug
+LOG-01575,E06,2025-10-06,6,english,Dynamic Programming (Intro),5,2.09,none,complexity
+LOG-01576,E07,2025-09-15,3,english,Greedy and Backtracking,5,2.45,up,conceptual_why
+LOG-01577,E16,2025-10-07,6,english,Sorting Algorithms,5,1.83,none,complexity
+LOG-01578,E12,2025-09-16,3,english,Heaps and Priority Queues,5,1.86,up,how_to_implement
+LOG-01579,E09,2025-09-23,4,english,Complexity and Notation,5,1.47,none,how_to_implement
+LOG-01580,E14,2025-09-19,3,english,Linked Lists,5,1.69,none,complexity
+LOG-01581,E19,2025-09-10,2,code_mixed,Graphs and Traversals,5,1.93,none,conceptual_why
+LOG-01582,E24,2025-10-10,6,code_mixed,Searching Algorithms,5,0.89,up,complexity
+LOG-01583,E25,2025-09-21,3,code_mixed,Arrays and Strings,5,1.49,up,debug
+LOG-01584,E22,2025-10-07,6,code_mixed,Heaps and Priority Queues,5,2.79,none,complexity
+LOG-01585,E10,2025-10-10,6,code_mixed,Stacks and Queues,5,1.49,up,complexity
+LOG-01586,E23,2025-09-19,3,english,Complexity and Notation,5,1.94,up,conceptual_why
+LOG-01587,E19,2025-09-01,1,romanized_nepali,Searching Algorithms,5,1.24,none,debug
+LOG-01588,E06,2025-09-28,4,code_mixed,Arrays and Strings,5,2.39,none,how_to_implement
+LOG-01589,E25,2025-09-18,3,romanized_nepali,Heaps and Priority Queues,5,2.43,none,conceptual_why
+LOG-01590,E08,2025-10-10,6,english,Searching Algorithms,5,1.45,up,how_to_implement
+LOG-01591,E18,2025-09-13,2,code_mixed,Trees and BSTs,5,1.28,up,complexity
+LOG-01592,E19,2025-10-06,6,english,Stacks and Queues,5,1.87,none,how_to_implement
+LOG-01593,E24,2025-09-02,1,english,Greedy and Backtracking,5,1.73,up,complexity
+LOG-01594,E18,2025-09-19,3,code_mixed,Linked Lists,5,2.25,up,conceptual_why
+LOG-01595,E26,2025-09-15,3,code_mixed,Complexity and Notation,5,2.08,up,how_to_implement
+LOG-01596,E02,2025-10-09,6,romanized_nepali,Sorting Algorithms,5,2.01,up,conceptual_why
+LOG-01597,E02,2025-10-03,5,english,Arrays and Strings,5,2.04,up,conceptual_why
+LOG-01598,E06,2025-10-05,5,english,Stacks and Queues,5,2.71,up,complexity
+LOG-01599,E15,2025-09-07,1,code_mixed,Trees and BSTs,5,1.8,none,conceptual_why
+LOG-01600,E12,2025-09-20,3,english,Sorting Algorithms,5,1.52,up,complexity
+LOG-01601,E03,2025-10-10,6,code_mixed,Linked Lists,5,1.65,none,conceptual_why
+LOG-01602,E06,2025-10-04,5,code_mixed,Linked Lists,5,2.23,none,complexity
+LOG-01603,E15,2025-10-07,6,romanized_nepali,Graphs and Traversals,5,1.59,none,conceptual_why
+LOG-01604,E12,2025-09-26,4,code_mixed,Hashing,5,1.28,none,conceptual_why
+LOG-01605,E21,2025-09-15,3,code_mixed,Graphs and Traversals,5,2.2,none,how_to_implement
+LOG-01606,E13,2025-10-11,6,romanized_nepali,Hashing,5,1.78,up,complexity
+LOG-01607,E23,2025-09-18,3,romanized_nepali,Dynamic Programming (Intro),5,1.91,none,how_to_implement
+LOG-01608,E21,2025-09-13,2,code_mixed,Greedy and Backtracking,5,1.67,up,how_to_implement
+LOG-01609,E14,2025-10-04,5,english,Linked Lists,5,1.36,down,how_to_implement
+LOG-01610,E11,2025-09-07,1,code_mixed,Arrays and Strings,5,2.7,up,conceptual_why
+LOG-01611,E07,2025-10-07,6,english,Searching Algorithms,5,2.04,none,debug
+LOG-01612,E09,2025-10-06,6,english,Greedy and Backtracking,5,1.5,none,conceptual_why
+LOG-01613,E10,2025-09-22,4,romanized_nepali,Linked Lists,5,2.13,up,conceptual_why
+LOG-01614,E11,2025-09-27,4,english,Searching Algorithms,5,2.19,none,complexity
+LOG-01615,E06,2025-09-25,4,english,Hashing,5,2.26,up,complexity
+LOG-01616,E13,2025-09-06,1,english,Dynamic Programming (Intro),5,1.82,up,how_to_implement
+LOG-01617,E04,2025-09-06,1,english,Trees and BSTs,5,1.63,none,complexity
+LOG-01618,E23,2025-09-21,3,code_mixed,Linked Lists,5,1.64,none,how_to_implement
+LOG-01619,E15,2025-09-01,1,code_mixed,Arrays and Strings,5,1.88,none,conceptual_why
+LOG-01620,E04,2025-09-14,2,romanized_nepali,Searching Algorithms,5,2.39,none,conceptual_why
+LOG-01621,E10,2025-09-21,3,romanized_nepali,Stacks and Queues,5,1.47,none,debug
+LOG-01622,E08,2025-10-04,5,code_mixed,Linked Lists,5,1.96,up,complexity
+LOG-01623,E05,2025-09-27,4,code_mixed,Sorting Algorithms,5,1.86,none,complexity
+LOG-01624,E14,2025-09-13,2,code_mixed,Hashing,5,1.48,up,conceptual_why
+LOG-01625,E06,2025-10-07,6,code_mixed,Trees and BSTs,5,1.53,none,conceptual_why
+LOG-01626,E05,2025-10-08,6,english,Hashing,5,0.86,none,debug
+LOG-01627,E19,2025-10-05,5,english,Stacks and Queues,5,2.27,none,how_to_implement
+LOG-01628,E12,2025-10-05,5,english,Greedy and Backtracking,5,2.31,up,how_to_implement
+LOG-01629,E18,2025-09-18,3,english,Graphs and Traversals,5,1.78,none,how_to_implement
+LOG-01630,E13,2025-10-09,6,romanized_nepali,Hashing,5,1.75,none,how_to_implement
+LOG-01631,E14,2025-10-02,5,romanized_nepali,Trees and BSTs,5,1.31,none,how_to_implement
+LOG-01632,E09,2025-09-13,2,code_mixed,Stacks and Queues,5,2.42,none,how_to_implement
+LOG-01633,E12,2025-10-05,5,english,Stacks and Queues,5,2.13,none,conceptual_why
+LOG-01634,E14,2025-10-04,5,english,Complexity and Notation,5,2.27,none,how_to_implement
+LOG-01635,E10,2025-10-01,5,romanized_nepali,Searching Algorithms,5,1.79,up,debug
+LOG-01636,E22,2025-09-24,4,romanized_nepali,Graphs and Traversals,5,1.39,up,debug
+LOG-01637,E08,2025-10-07,6,english,Graphs and Traversals,5,1.29,up,how_to_implement
+LOG-01638,E07,2025-10-06,6,code_mixed,Dynamic Programming (Intro),5,1.17,up,complexity
+LOG-01639,E10,2025-10-02,5,code_mixed,Stacks and Queues,5,1.68,none,how_to_implement
+LOG-01640,E21,2025-09-05,1,english,Dynamic Programming (Intro),5,2.15,none,how_to_implement
+LOG-01641,E22,2025-09-17,3,english,Hashing,5,1.55,none,how_to_implement
+LOG-01642,E15,2025-10-12,6,english,Hashing,5,1.67,up,how_to_implement
+LOG-01643,E11,2025-09-22,4,romanized_nepali,Trees and BSTs,5,2.63,none,complexity
+LOG-01644,E18,2025-10-04,5,english,Linked Lists,5,1.97,none,how_to_implement
+LOG-01645,E22,2025-09-10,2,romanized_nepali,Dynamic Programming (Intro),5,1.21,none,complexity
+LOG-01646,E08,2025-10-01,5,english,Linked Lists,5,1.57,up,how_to_implement
+LOG-01647,E18,2025-10-04,5,code_mixed,Searching Algorithms,5,1.34,up,how_to_implement
+LOG-01648,E19,2025-10-07,6,english,Sorting Algorithms,5,1.24,none,conceptual_why
+LOG-01649,E11,2025-10-12,6,english,Complexity and Notation,5,1.41,down,complexity
+LOG-01650,E05,2025-09-24,4,romanized_nepali,Sorting Algorithms,5,2.18,none,conceptual_why
+LOG-01651,E16,2025-09-20,3,code_mixed,Dynamic Programming (Intro),5,1.9,none,conceptual_why
+LOG-01652,E07,2025-09-12,2,code_mixed,Complexity and Notation,5,1.72,down,complexity
+LOG-01653,E11,2025-09-20,3,english,Linked Lists,5,1.81,none,how_to_implement
+LOG-01654,E15,2025-09-23,4,romanized_nepali,Hashing,5,2.1,none,debug
+LOG-01655,E25,2025-10-12,6,english,Sorting Algorithms,5,2.25,none,debug
+LOG-01656,E05,2025-09-27,4,code_mixed,Linked Lists,5,1.01,none,debug
+LOG-01657,E03,2025-10-05,5,code_mixed,Linked Lists,5,1.39,none,how_to_implement
+LOG-01658,E14,2025-10-06,6,code_mixed,Sorting Algorithms,5,0.97,none,conceptual_why
+LOG-01659,E25,2025-09-01,1,english,Complexity and Notation,5,1.63,up,complexity
+LOG-01660,E02,2025-09-18,3,code_mixed,Heaps and Priority Queues,5,2.01,up,conceptual_why
+LOG-01661,E17,2025-09-29,5,romanized_nepali,Sorting Algorithms,5,1.52,none,debug
+LOG-01662,E01,2025-09-05,1,code_mixed,Graphs and Traversals,5,1.76,none,conceptual_why
+LOG-01663,E15,2025-09-11,2,english,Dynamic Programming (Intro),5,1.95,none,how_to_implement
+LOG-01664,E04,2025-10-07,6,romanized_nepali,Greedy and Backtracking,5,1.94,up,conceptual_why
+LOG-01665,E18,2025-10-05,5,english,Trees and BSTs,5,1.48,none,complexity
+LOG-01666,E11,2025-09-11,2,code_mixed,Stacks and Queues,5,1.95,none,how_to_implement
+LOG-01667,E18,2025-09-09,2,code_mixed,Trees and BSTs,5,1.86,none,complexity
+LOG-01668,E08,2025-10-09,6,code_mixed,Sorting Algorithms,5,2.29,none,how_to_implement
+LOG-01669,E03,2025-09-24,4,english,Linked Lists,5,1.08,none,complexity
+LOG-01670,E06,2025-09-20,3,english,Sorting Algorithms,5,1.12,up,conceptual_why
+LOG-01671,E08,2025-10-06,6,code_mixed,Stacks and Queues,5,2.2,up,how_to_implement
+LOG-01672,E05,2025-10-05,5,code_mixed,Complexity and Notation,5,1.2,none,how_to_implement
+LOG-01673,E06,2025-10-12,6,english,Dynamic Programming (Intro),5,1.61,up,how_to_implement
+LOG-01674,E15,2025-09-08,2,code_mixed,Linked Lists,5,2.56,none,conceptual_why
+LOG-01675,E12,2025-10-07,6,english,Sorting Algorithms,5,2.19,up,how_to_implement
+LOG-01676,E22,2025-09-24,4,english,Arrays and Strings,5,1.99,none,how_to_implement
+LOG-01677,E14,2025-09-18,3,code_mixed,Complexity and Notation,5,1.45,up,conceptual_why
+LOG-01678,E14,2025-09-26,4,english,Stacks and Queues,5,2.12,up,complexity
+LOG-01679,E19,2025-09-02,1,english,Sorting Algorithms,5,1.68,none,complexity
+LOG-01680,E22,2025-09-10,2,english,Greedy and Backtracking,5,2.17,down,how_to_implement
+LOG-01681,E15,2025-09-08,2,romanized_nepali,Graphs and Traversals,5,1.7,none,complexity
+LOG-01682,E02,2025-10-05,5,romanized_nepali,Complexity and Notation,5,2.43,up,debug
+LOG-01683,E13,2025-10-06,6,english,Dynamic Programming (Intro),5,1.53,up,how_to_implement
+LOG-01684,E01,2025-09-18,3,english,Dynamic Programming (Intro),5,2.19,none,conceptual_why
+LOG-01685,E16,2025-09-20,3,romanized_nepali,Graphs and Traversals,5,1.32,none,complexity
+LOG-01686,E03,2025-10-07,6,romanized_nepali,Complexity and Notation,5,2.05,none,complexity
+LOG-01687,E14,2025-09-22,4,code_mixed,Searching Algorithms,5,1.96,none,complexity
+LOG-01688,E05,2025-09-21,3,english,Graphs and Traversals,5,1.43,none,complexity
+LOG-01689,E22,2025-10-11,6,code_mixed,Linked Lists,5,1.94,up,conceptual_why
+LOG-01690,E04,2025-09-29,5,code_mixed,Sorting Algorithms,5,1.44,up,complexity
+LOG-01691,E18,2025-09-29,5,romanized_nepali,Dynamic Programming (Intro),5,2.07,none,conceptual_why
+LOG-01692,E19,2025-10-04,5,romanized_nepali,Dynamic Programming (Intro),5,2.3,none,complexity
+LOG-01693,E09,2025-09-04,1,romanized_nepali,Heaps and Priority Queues,5,2.09,none,debug
+LOG-01694,E16,2025-09-22,4,english,Sorting Algorithms,5,1.69,none,complexity
+LOG-01695,E10,2025-10-08,6,code_mixed,Sorting Algorithms,5,2.16,none,debug
+LOG-01696,E08,2025-10-05,5,code_mixed,Trees and BSTs,5,1.56,up,conceptual_why
+LOG-01697,E08,2025-10-10,6,romanized_nepali,Stacks and Queues,5,1.61,none,complexity
+LOG-01698,E01,2025-09-20,3,english,Stacks and Queues,5,1.29,none,how_to_implement
+LOG-01699,E18,2025-09-24,4,english,Arrays and Strings,5,2.16,up,how_to_implement
+LOG-01700,E03,2025-09-18,3,english,Heaps and Priority Queues,5,2.19,none,how_to_implement
+LOG-01701,E06,2025-09-14,2,english,Dynamic Programming (Intro),5,1.56,up,how_to_implement
+LOG-01702,E03,2025-09-07,1,english,Graphs and Traversals,5,0.72,none,complexity
+LOG-01703,E21,2025-09-15,3,code_mixed,Trees and BSTs,5,1.02,none,how_to_implement
+LOG-01704,E14,2025-09-12,2,code_mixed,Graphs and Traversals,5,0.47,none,complexity
+LOG-01705,E13,2025-09-23,4,english,Searching Algorithms,5,1.46,up,complexity
+LOG-01706,E15,2025-09-23,4,english,Dynamic Programming (Intro),5,1.89,up,conceptual_why
+LOG-01707,E21,2025-10-07,6,code_mixed,Sorting Algorithms,5,1.62,down,debug
+LOG-01708,E16,2025-10-07,6,code_mixed,Greedy and Backtracking,5,2.3,up,conceptual_why
+LOG-01709,E14,2025-09-29,5,romanized_nepali,Greedy and Backtracking,5,1.84,up,conceptual_why
+LOG-01710,E09,2025-10-05,5,english,Graphs and Traversals,5,1.56,none,how_to_implement
+LOG-01711,E14,2025-09-24,4,english,Heaps and Priority Queues,5,1.96,none,how_to_implement
+LOG-01712,E26,2025-09-20,3,english,Graphs and Traversals,5,1.19,up,complexity
+LOG-01713,E15,2025-09-26,4,english,Trees and BSTs,5,1.4,none,how_to_implement
+LOG-01714,E13,2025-10-04,5,english,Trees and BSTs,5,1.77,none,how_to_implement
+LOG-01715,E23,2025-10-11,6,code_mixed,Graphs and Traversals,5,1.94,none,conceptual_why
+LOG-01716,E02,2025-10-08,6,romanized_nepali,Trees and BSTs,5,1.82,none,how_to_implement
+LOG-01717,E03,2025-09-05,1,english,Dynamic Programming (Intro),5,1.6,none,debug
+LOG-01718,E21,2025-10-04,5,english,Dynamic Programming (Intro),5,1.93,up,how_to_implement
+LOG-01719,E25,2025-09-07,1,english,Greedy and Backtracking,5,1.73,none,conceptual_why
+LOG-01720,E02,2025-10-04,5,english,Graphs and Traversals,5,1.85,up,conceptual_why
+LOG-01721,E01,2025-10-09,6,romanized_nepali,Graphs and Traversals,5,1.76,none,how_to_implement
+LOG-01722,E01,2025-10-06,6,code_mixed,Graphs and Traversals,5,2.57,up,conceptual_why
+LOG-01723,E15,2025-09-09,2,code_mixed,Dynamic Programming (Intro),5,2.11,up,how_to_implement
+LOG-01724,E05,2025-09-23,4,code_mixed,Arrays and Strings,5,2.36,up,conceptual_why
+LOG-01725,E15,2025-09-15,3,romanized_nepali,Hashing,5,1.93,up,how_to_implement
+LOG-01726,E18,2025-10-05,5,english,Trees and BSTs,5,0.67,none,complexity
+LOG-01727,E01,2025-10-06,6,english,Dynamic Programming (Intro),5,2.54,none,conceptual_why
+LOG-01728,E23,2025-10-06,6,romanized_nepali,Dynamic Programming (Intro),5,2.01,none,debug
+LOG-01729,E08,2025-09-21,3,english,Linked Lists,5,2.38,up,complexity
+LOG-01730,E15,2025-10-03,5,english,Sorting Algorithms,5,2.77,down,how_to_implement
+LOG-01731,E10,2025-09-16,3,code_mixed,Greedy and Backtracking,5,1.4,none,conceptual_why
+LOG-01732,E10,2025-10-11,6,english,Complexity and Notation,5,1.23,none,how_to_implement
+LOG-01733,E12,2025-10-11,6,code_mixed,Trees and BSTs,5,1.64,down,conceptual_why
+LOG-01734,E01,2025-09-03,1,english,Hashing,5,1.91,none,how_to_implement
+LOG-01735,E12,2025-09-30,5,english,Graphs and Traversals,5,1.39,up,conceptual_why
+LOG-01736,E08,2025-10-06,6,code_mixed,Linked Lists,5,1.72,up,conceptual_why
+LOG-01737,E11,2025-09-17,3,romanized_nepali,Graphs and Traversals,5,2.68,none,conceptual_why
+LOG-01738,E05,2025-09-03,1,english,Heaps and Priority Queues,5,2.17,none,complexity
+LOG-01739,E10,2025-09-01,1,romanized_nepali,Greedy and Backtracking,5,2.63,none,conceptual_why
+LOG-01740,E19,2025-10-06,6,english,Dynamic Programming (Intro),5,1.11,none,complexity
+LOG-01741,E26,2025-09-01,1,code_mixed,Dynamic Programming (Intro),5,1.65,up,how_to_implement
+LOG-01742,E06,2025-09-22,4,romanized_nepali,Searching Algorithms,5,3.02,none,complexity
+LOG-01743,E23,2025-10-08,6,code_mixed,Stacks and Queues,5,1.45,none,conceptual_why
+LOG-01744,E16,2025-09-04,1,english,Sorting Algorithms,5,2.03,down,how_to_implement
+LOG-01745,E04,2025-10-06,6,code_mixed,Dynamic Programming (Intro),5,1.86,none,how_to_implement
+LOG-01746,E01,2025-09-23,4,english,Searching Algorithms,5,1.69,none,complexity
+LOG-01747,E23,2025-09-22,4,code_mixed,Graphs and Traversals,5,1.66,none,how_to_implement
+LOG-01748,E07,2025-09-25,4,english,Arrays and Strings,5,1.46,none,conceptual_why
+LOG-01749,E04,2025-09-21,3,english,Trees and BSTs,5,1.1,none,how_to_implement
+LOG-01750,E18,2025-10-09,6,english,Heaps and Priority Queues,5,0.93,none,how_to_implement
+LOG-01751,E19,2025-10-05,5,english,Graphs and Traversals,5,1.91,none,how_to_implement
+LOG-01752,E23,2025-09-22,4,code_mixed,Complexity and Notation,5,1.36,up,conceptual_why
+LOG-01753,E14,2025-09-09,2,code_mixed,Dynamic Programming (Intro),5,1.74,up,how_to_implement
+LOG-01754,E09,2025-09-26,4,code_mixed,Sorting Algorithms,5,2.28,none,how_to_implement
+LOG-01755,E09,2025-10-12,6,romanized_nepali,Graphs and Traversals,5,1.44,up,conceptual_why
+LOG-01756,E06,2025-10-10,6,code_mixed,Stacks and Queues,5,0.92,none,complexity
+LOG-01757,E17,2025-09-05,1,english,Linked Lists,5,2.37,up,how_to_implement
+LOG-01758,E25,2025-09-21,3,english,Trees and BSTs,5,1.41,up,complexity
+LOG-01759,E03,2025-09-24,4,romanized_nepali,Stacks and Queues,5,1.21,none,complexity
+LOG-01760,E11,2025-09-22,4,code_mixed,Hashing,5,1.8,up,debug
+LOG-01761,E10,2025-09-09,2,code_mixed,Trees and BSTs,5,1.38,none,conceptual_why
+LOG-01762,E03,2025-09-14,2,code_mixed,Dynamic Programming (Intro),5,2.68,up,conceptual_why
+LOG-01763,E16,2025-09-28,4,english,Greedy and Backtracking,5,2.13,none,conceptual_why
+LOG-01764,E26,2025-10-06,6,english,Graphs and Traversals,5,2.05,up,how_to_implement
+LOG-01765,E09,2025-10-06,6,english,Sorting Algorithms,5,2.14,none,how_to_implement
+LOG-01766,E19,2025-10-05,5,romanized_nepali,Complexity and Notation,5,3.01,none,conceptual_why
+LOG-01767,E23,2025-10-05,5,code_mixed,Greedy and Backtracking,5,2.0,none,conceptual_why
+LOG-01768,E08,2025-09-01,1,code_mixed,Graphs and Traversals,5,1.58,none,how_to_implement
+LOG-01769,E24,2025-09-16,3,romanized_nepali,Greedy and Backtracking,5,1.8,none,debug
+LOG-01770,E20,2025-09-20,3,code_mixed,Trees and BSTs,5,1.67,none,conceptual_why
+LOG-01771,E17,2025-09-18,3,romanized_nepali,Linked Lists,5,2.44,none,conceptual_why
+LOG-01772,E06,2025-09-22,4,english,Linked Lists,5,1.22,up,how_to_implement
+LOG-01773,E09,2025-09-22,4,english,Arrays and Strings,5,1.59,up,how_to_implement
+LOG-01774,E04,2025-09-21,3,romanized_nepali,Greedy and Backtracking,5,2.12,up,conceptual_why
+LOG-01775,E23,2025-09-01,1,romanized_nepali,Searching Algorithms,5,1.86,none,debug
+LOG-01776,E21,2025-10-09,6,romanized_nepali,Heaps and Priority Queues,5,2.07,up,how_to_implement
+LOG-01777,E03,2025-10-12,6,code_mixed,Hashing,5,1.7,up,how_to_implement
+LOG-01778,E14,2025-10-04,5,code_mixed,Greedy and Backtracking,5,1.23,up,complexity
+LOG-01779,E07,2025-09-19,3,english,Greedy and Backtracking,5,1.91,up,complexity
+LOG-01780,E21,2025-09-24,4,code_mixed,Linked Lists,5,2.38,up,conceptual_why
+LOG-01781,E15,2025-10-10,6,code_mixed,Arrays and Strings,5,1.31,up,conceptual_why
+LOG-01782,E25,2025-10-03,5,code_mixed,Sorting Algorithms,5,1.02,up,complexity
+LOG-01783,E19,2025-10-06,6,romanized_nepali,Dynamic Programming (Intro),5,1.42,up,debug
+LOG-01784,E04,2025-10-06,6,romanized_nepali,Graphs and Traversals,5,1.5,none,how_to_implement
+LOG-01785,E11,2025-10-12,6,english,Dynamic Programming (Intro),5,1.15,none,how_to_implement
+LOG-01786,E15,2025-10-05,5,code_mixed,Graphs and Traversals,5,2.27,none,conceptual_why
+LOG-01787,E24,2025-09-08,2,english,Searching Algorithms,5,1.62,up,conceptual_why
+LOG-01788,E11,2025-09-26,4,code_mixed,Trees and BSTs,5,1.4,up,how_to_implement
+LOG-01789,E06,2025-10-11,6,english,Dynamic Programming (Intro),5,2.01,none,how_to_implement
+LOG-01790,E09,2025-09-10,2,code_mixed,Sorting Algorithms,5,2.21,none,conceptual_why
+LOG-01791,E08,2025-09-04,1,code_mixed,Graphs and Traversals,5,1.73,none,conceptual_why
+LOG-01792,E05,2025-09-04,1,code_mixed,Linked Lists,5,1.34,none,conceptual_why
+LOG-01793,E10,2025-09-06,1,romanized_nepali,Heaps and Priority Queues,5,1.27,none,conceptual_why
+LOG-01794,E08,2025-09-12,2,romanized_nepali,Graphs and Traversals,5,2.24,none,complexity
+LOG-01795,E14,2025-10-07,6,english,Greedy and Backtracking,5,1.96,none,how_to_implement
+LOG-01796,E23,2025-10-03,5,code_mixed,Arrays and Strings,5,1.58,up,debug
+LOG-01797,E25,2025-10-06,6,english,Sorting Algorithms,5,1.82,up,how_to_implement
+LOG-01798,E05,2025-09-30,5,code_mixed,Hashing,5,1.9,none,complexity
+LOG-01799,E15,2025-09-21,3,code_mixed,Complexity and Notation,5,1.76,none,how_to_implement
+LOG-01800,E18,2025-10-08,6,romanized_nepali,Heaps and Priority Queues,5,1.8,down,complexity
+LOG-01801,E05,2025-09-13,2,english,Greedy and Backtracking,5,1.88,none,complexity
+LOG-01802,E14,2025-09-21,3,romanized_nepali,Dynamic Programming (Intro),5,1.7,none,complexity
+LOG-01803,E06,2025-09-23,4,code_mixed,Linked Lists,5,1.64,up,debug
+LOG-01804,E11,2025-10-05,5,code_mixed,Sorting Algorithms,5,1.98,none,debug
+LOG-01805,E10,2025-10-07,6,english,Trees and BSTs,5,1.49,none,how_to_implement
+LOG-01806,E22,2025-10-01,5,english,Dynamic Programming (Intro),5,1.56,none,how_to_implement
+LOG-01807,E07,2025-10-04,5,code_mixed,Linked Lists,5,1.16,up,conceptual_why
+LOG-01808,E14,2025-09-19,3,romanized_nepali,Trees and BSTs,5,1.61,none,complexity
+LOG-01809,E15,2025-10-03,5,english,Heaps and Priority Queues,5,1.8,up,conceptual_why
+LOG-01810,E10,2025-10-09,6,english,Dynamic Programming (Intro),5,1.73,up,how_to_implement
+LOG-01811,E24,2025-09-23,4,code_mixed,Graphs and Traversals,5,0.68,up,complexity
+LOG-01812,E10,2025-10-07,6,english,Graphs and Traversals,5,1.63,up,how_to_implement
+LOG-01813,E10,2025-09-26,4,english,Graphs and Traversals,5,1.76,up,how_to_implement
+LOG-01814,E18,2025-09-27,4,code_mixed,Dynamic Programming (Intro),5,2.04,none,how_to_implement
+LOG-01815,E14,2025-10-04,5,english,Linked Lists,5,1.17,up,debug
+LOG-01816,E19,2025-09-11,2,romanized_nepali,Sorting Algorithms,5,2.68,none,complexity
+LOG-01817,E05,2025-09-16,3,code_mixed,Sorting Algorithms,5,1.8,up,debug
+LOG-01818,E05,2025-09-13,2,code_mixed,Linked Lists,5,2.04,none,conceptual_why
+LOG-01819,E20,2025-09-28,4,code_mixed,Searching Algorithms,5,1.76,none,debug
+LOG-01820,E11,2025-10-05,5,code_mixed,Sorting Algorithms,5,1.99,up,conceptual_why
+LOG-01821,E22,2025-10-06,6,english,Arrays and Strings,5,2.44,none,how_to_implement
+LOG-01822,E07,2025-09-16,3,code_mixed,Linked Lists,5,1.78,none,debug
+LOG-01823,E07,2025-09-20,3,romanized_nepali,Dynamic Programming (Intro),5,1.79,none,complexity
+LOG-01824,E23,2025-09-11,2,code_mixed,Graphs and Traversals,5,2.45,none,conceptual_why
+LOG-01825,E11,2025-10-05,5,romanized_nepali,Graphs and Traversals,5,2.27,none,complexity
+LOG-01826,E04,2025-09-23,4,english,Graphs and Traversals,5,1.1,none,complexity
+LOG-01827,E07,2025-09-19,3,code_mixed,Searching Algorithms,5,1.96,none,complexity
+LOG-01828,E21,2025-09-17,3,code_mixed,Linked Lists,5,1.87,up,conceptual_why
+LOG-01829,E08,2025-10-11,6,code_mixed,Sorting Algorithms,5,1.77,none,debug
+LOG-01830,E15,2025-09-24,4,english,Graphs and Traversals,5,1.28,none,conceptual_why
+LOG-01831,E22,2025-10-12,6,code_mixed,Complexity and Notation,5,1.45,none,complexity
+LOG-01832,E16,2025-09-20,3,code_mixed,Heaps and Priority Queues,5,1.27,none,how_to_implement
+LOG-01833,E21,2025-09-16,3,romanized_nepali,Graphs and Traversals,5,1.13,none,how_to_implement
+LOG-01834,E26,2025-10-06,6,romanized_nepali,Stacks and Queues,5,1.77,none,how_to_implement
+LOG-01835,E09,2025-10-10,6,english,Greedy and Backtracking,5,1.15,none,how_to_implement
+LOG-01836,E23,2025-09-12,2,code_mixed,Searching Algorithms,5,1.99,none,how_to_implement
+LOG-01837,E15,2025-10-09,6,code_mixed,Complexity and Notation,5,2.31,none,conceptual_why
+LOG-01838,E06,2025-10-02,5,english,Arrays and Strings,5,1.44,none,how_to_implement
+LOG-01839,E05,2025-10-10,6,code_mixed,Graphs and Traversals,5,2.3,up,conceptual_why
+LOG-01840,E10,2025-10-11,6,code_mixed,Hashing,5,2.22,up,conceptual_why
+LOG-01841,E05,2025-09-23,4,english,Trees and BSTs,5,1.91,none,debug
+LOG-01842,E21,2025-10-11,6,code_mixed,Sorting Algorithms,5,0.67,up,conceptual_why
+LOG-01843,E15,2025-09-14,2,english,Heaps and Priority Queues,5,1.49,none,conceptual_why
+LOG-01844,E02,2025-09-23,4,english,Linked Lists,5,1.8,none,conceptual_why
+LOG-01845,E23,2025-09-23,4,english,Graphs and Traversals,5,2.14,down,how_to_implement
+LOG-01846,E16,2025-09-18,3,romanized_nepali,Dynamic Programming (Intro),5,1.57,up,conceptual_why
+LOG-01847,E13,2025-09-25,4,romanized_nepali,Graphs and Traversals,5,1.62,none,conceptual_why
+LOG-01848,E05,2025-10-07,6,code_mixed,Graphs and Traversals,5,2.12,none,how_to_implement
+LOG-01849,E13,2025-09-08,2,code_mixed,Graphs and Traversals,5,1.67,none,conceptual_why
+LOG-01850,E24,2025-09-24,4,code_mixed,Arrays and Strings,5,1.57,none,conceptual_why
+LOG-01851,E15,2025-09-28,4,code_mixed,Greedy and Backtracking,5,1.41,none,conceptual_why
+LOG-01852,E13,2025-09-15,3,code_mixed,Greedy and Backtracking,5,1.88,up,conceptual_why
+LOG-01853,E16,2025-10-04,5,code_mixed,Searching Algorithms,5,1.63,up,conceptual_why
+LOG-01854,E15,2025-09-18,3,english,Graphs and Traversals,5,1.91,up,conceptual_why
+LOG-01855,E16,2025-10-01,5,code_mixed,Searching Algorithms,5,1.64,none,complexity
+LOG-01856,E06,2025-10-01,5,code_mixed,Linked Lists,5,1.76,none,complexity
+LOG-01857,E05,2025-10-07,6,romanized_nepali,Graphs and Traversals,5,1.94,none,conceptual_why
+LOG-01858,E01,2025-10-11,6,english,Trees and BSTs,5,2.0,none,how_to_implement
+LOG-01859,E22,2025-10-11,6,code_mixed,Stacks and Queues,5,1.2,up,how_to_implement
+LOG-01860,E01,2025-09-26,4,romanized_nepali,Graphs and Traversals,5,1.78,up,debug
+LOG-01861,E08,2025-09-18,3,english,Dynamic Programming (Intro),5,0.81,none,how_to_implement
+LOG-01862,E15,2025-09-18,3,code_mixed,Hashing,5,1.55,up,how_to_implement
+LOG-01863,E14,2025-10-08,6,code_mixed,Trees and BSTs,5,1.56,up,how_to_implement
+LOG-01864,E24,2025-10-07,6,english,Stacks and Queues,5,1.35,up,complexity
+LOG-01865,E07,2025-10-08,6,english,Heaps and Priority Queues,5,1.69,none,debug
+LOG-01866,E04,2025-10-09,6,code_mixed,Linked Lists,5,1.51,none,debug
+LOG-01867,E05,2025-10-01,5,romanized_nepali,Hashing,5,1.77,up,how_to_implement
+LOG-01868,E14,2025-10-10,6,english,Dynamic Programming (Intro),5,1.61,down,how_to_implement
+LOG-01869,E09,2025-10-05,5,english,Heaps and Priority Queues,5,1.84,none,how_to_implement
+LOG-01870,E13,2025-10-04,5,english,Linked Lists,5,1.33,none,conceptual_why
+LOG-01871,E18,2025-10-09,6,english,Arrays and Strings,5,1.34,none,how_to_implement
+LOG-01872,E10,2025-10-05,5,romanized_nepali,Dynamic Programming (Intro),5,1.75,none,how_to_implement
+LOG-01873,E18,2025-10-07,6,code_mixed,Graphs and Traversals,5,1.34,none,how_to_implement
+LOG-01874,E01,2025-10-11,6,romanized_nepali,Hashing,5,2.27,none,conceptual_why
+LOG-01875,E15,2025-09-22,4,code_mixed,Arrays and Strings,5,1.31,none,how_to_implement
+LOG-01876,E24,2025-10-07,6,code_mixed,Complexity and Notation,5,1.4,none,complexity
+LOG-01877,E25,2025-09-19,3,code_mixed,Hashing,5,1.59,none,complexity
+LOG-01878,E15,2025-09-25,4,code_mixed,Sorting Algorithms,5,1.59,none,how_to_implement
+LOG-01879,E26,2025-10-10,6,code_mixed,Complexity and Notation,5,1.98,none,how_to_implement
+LOG-01880,E07,2025-10-12,6,code_mixed,Trees and BSTs,5,1.21,up,how_to_implement
+LOG-01881,E09,2025-10-11,6,code_mixed,Hashing,5,2.36,none,how_to_implement
+LOG-01882,E13,2025-10-07,6,romanized_nepali,Stacks and Queues,5,1.98,up,conceptual_why
+LOG-01883,E14,2025-10-09,6,romanized_nepali,Dynamic Programming (Intro),5,0.4,up,conceptual_why
+LOG-01884,E22,2025-10-10,6,romanized_nepali,Dynamic Programming (Intro),5,1.36,none,conceptual_why
+LOG-01885,E13,2025-10-04,5,code_mixed,Trees and BSTs,5,1.01,none,complexity
+LOG-01886,E02,2025-09-18,3,code_mixed,Stacks and Queues,5,2.74,up,complexity
+LOG-01887,E19,2025-09-02,1,code_mixed,Graphs and Traversals,5,1.18,up,complexity
+LOG-01888,E07,2025-10-07,6,code_mixed,Sorting Algorithms,5,1.76,down,debug
+LOG-01889,E23,2025-10-07,6,romanized_nepali,Sorting Algorithms,5,2.25,none,conceptual_why
+LOG-01890,E07,2025-10-06,6,romanized_nepali,Linked Lists,5,2.54,up,conceptual_why
+LOG-01891,E09,2025-10-02,5,english,Stacks and Queues,5,0.86,none,debug
+LOG-01892,E05,2025-10-05,5,code_mixed,Trees and BSTs,5,1.68,up,debug
+LOG-01893,E09,2025-10-06,6,code_mixed,Dynamic Programming (Intro),5,2.2,none,complexity
+LOG-01894,E16,2025-09-28,4,code_mixed,Linked Lists,5,2.25,none,conceptual_why
+LOG-01895,E08,2025-10-05,5,code_mixed,Sorting Algorithms,5,1.77,up,conceptual_why
+LOG-01896,E02,2025-09-17,3,english,Graphs and Traversals,5,2.64,none,how_to_implement
+LOG-01897,E15,2025-09-28,4,code_mixed,Heaps and Priority Queues,5,1.7,none,how_to_implement
+LOG-01898,E20,2025-10-04,5,code_mixed,Trees and BSTs,5,1.39,up,conceptual_why
+LOG-01899,E04,2025-10-01,5,code_mixed,Linked Lists,5,2.21,none,conceptual_why
+LOG-01900,E12,2025-09-18,3,romanized_nepali,Heaps and Priority Queues,5,2.96,down,debug
+LOG-01901,E03,2025-09-10,2,code_mixed,Stacks and Queues,5,1.69,none,how_to_implement
+LOG-01902,E01,2025-10-05,5,english,Graphs and Traversals,5,1.16,none,conceptual_why
+LOG-01903,E11,2025-09-09,2,romanized_nepali,Graphs and Traversals,5,1.5,none,conceptual_why
+LOG-01904,E09,2025-10-08,6,code_mixed,Trees and BSTs,5,1.63,none,debug
+LOG-01905,E23,2025-09-14,2,romanized_nepali,Trees and BSTs,5,1.58,none,debug
+LOG-01906,E01,2025-10-07,6,romanized_nepali,Sorting Algorithms,5,2.1,up,how_to_implement
+LOG-01907,E17,2025-09-21,3,code_mixed,Trees and BSTs,5,1.69,none,how_to_implement
+LOG-01908,E20,2025-10-10,6,english,Heaps and Priority Queues,5,1.85,none,conceptual_why
+LOG-01909,E12,2025-09-17,3,romanized_nepali,Hashing,5,1.87,none,complexity
+LOG-01910,E14,2025-09-12,2,romanized_nepali,Searching Algorithms,5,1.7,none,how_to_implement
+LOG-01911,E08,2025-10-05,5,romanized_nepali,Greedy and Backtracking,5,2.17,up,debug
+LOG-01912,E08,2025-10-07,6,romanized_nepali,Linked Lists,5,2.08,up,debug
+LOG-01913,E02,2025-09-21,3,code_mixed,Dynamic Programming (Intro),5,1.81,none,complexity
+LOG-01914,E24,2025-09-24,4,english,Searching Algorithms,5,1.17,none,how_to_implement
+LOG-01915,E01,2025-10-05,5,code_mixed,Dynamic Programming (Intro),5,2.07,none,conceptual_why
+LOG-01916,E05,2025-09-19,3,english,Heaps and Priority Queues,5,1.63,none,how_to_implement
+LOG-01917,E19,2025-09-22,4,english,Dynamic Programming (Intro),5,1.18,none,conceptual_why
+LOG-01918,E13,2025-10-01,5,code_mixed,Greedy and Backtracking,5,0.82,up,conceptual_why
+LOG-01919,E14,2025-09-19,3,code_mixed,Greedy and Backtracking,5,1.59,none,debug
+LOG-01920,E09,2025-09-11,2,code_mixed,Arrays and Strings,5,1.92,none,how_to_implement
+LOG-01921,E05,2025-10-10,6,code_mixed,Trees and BSTs,5,2.31,none,conceptual_why
+LOG-01922,E21,2025-09-09,2,romanized_nepali,Hashing,5,1.8,none,how_to_implement
+LOG-01923,E04,2025-10-12,6,english,Dynamic Programming (Intro),5,1.73,none,complexity
+LOG-01924,E09,2025-10-09,6,code_mixed,Arrays and Strings,5,1.38,up,conceptual_why
+LOG-01925,E21,2025-09-24,4,code_mixed,Sorting Algorithms,5,1.77,none,complexity
+LOG-01926,E09,2025-10-09,6,code_mixed,Hashing,5,2.33,up,conceptual_why
+LOG-01927,E25,2025-09-05,1,english,Stacks and Queues,5,1.73,none,how_to_implement
+LOG-01928,E06,2025-09-30,5,code_mixed,Linked Lists,5,0.5,none,conceptual_why
+LOG-01929,E14,2025-09-21,3,code_mixed,Linked Lists,5,2.56,none,how_to_implement
+LOG-01930,E14,2025-09-19,3,code_mixed,Trees and BSTs,5,1.98,up,how_to_implement
+LOG-01931,E14,2025-10-10,6,english,Searching Algorithms,5,2.4,none,how_to_implement
+LOG-01932,E21,2025-09-03,1,english,Trees and BSTs,5,2.73,none,how_to_implement
+LOG-01933,E02,2025-10-09,6,code_mixed,Graphs and Traversals,5,1.98,up,complexity
+LOG-01934,E15,2025-09-06,1,code_mixed,Graphs and Traversals,5,2.59,up,conceptual_why
+LOG-01935,E21,2025-10-05,5,english,Graphs and Traversals,5,1.69,none,how_to_implement
+LOG-01936,E02,2025-09-19,3,romanized_nepali,Trees and BSTs,5,1.59,none,complexity
+LOG-01937,E15,2025-09-28,4,code_mixed,Trees and BSTs,5,1.54,none,complexity
+LOG-01938,E13,2025-10-11,6,code_mixed,Trees and BSTs,5,1.51,none,complexity
+LOG-01939,E12,2025-10-08,6,english,Hashing,5,1.87,none,debug
+LOG-01940,E14,2025-09-08,2,romanized_nepali,Dynamic Programming (Intro),5,2.18,up,conceptual_why
+LOG-01941,E16,2025-09-20,3,english,Greedy and Backtracking,5,1.63,up,complexity
+LOG-01942,E19,2025-09-25,4,english,Trees and BSTs,5,1.54,none,how_to_implement
+LOG-01943,E23,2025-10-06,6,code_mixed,Complexity and Notation,5,1.35,none,conceptual_why
+LOG-01944,E18,2025-09-01,1,code_mixed,Dynamic Programming (Intro),5,1.67,none,how_to_implement
+LOG-01945,E26,2025-10-09,6,romanized_nepali,Trees and BSTs,5,1.56,none,conceptual_why
+LOG-01946,E18,2025-10-09,6,code_mixed,Dynamic Programming (Intro),5,2.58,none,how_to_implement
+LOG-01947,E08,2025-10-12,6,code_mixed,Trees and BSTs,5,1.6,none,how_to_implement
+LOG-01948,E05,2025-09-15,3,romanized_nepali,Linked Lists,5,1.24,up,how_to_implement
+LOG-01949,E03,2025-09-16,3,english,Heaps and Priority Queues,5,1.77,up,conceptual_why
+LOG-01950,E08,2025-10-09,6,code_mixed,Heaps and Priority Queues,5,1.68,up,complexity
+LOG-01951,E04,2025-09-27,4,english,Sorting Algorithms,5,1.79,none,conceptual_why
+LOG-01952,E18,2025-09-18,3,code_mixed,Linked Lists,5,1.36,none,conceptual_why
+LOG-01953,E18,2025-09-02,1,code_mixed,Heaps and Priority Queues,5,1.53,none,how_to_implement
+LOG-01954,E16,2025-09-16,3,code_mixed,Linked Lists,5,1.6,none,debug
+LOG-01955,E11,2025-10-05,5,english,Trees and BSTs,5,1.89,none,debug
+LOG-01956,E13,2025-10-06,6,english,Greedy and Backtracking,5,1.37,down,conceptual_why
+LOG-01957,E08,2025-09-21,3,code_mixed,Trees and BSTs,5,2.08,none,how_to_implement
+LOG-01958,E24,2025-10-11,6,code_mixed,Hashing,5,1.98,none,complexity
+LOG-01959,E01,2025-09-27,4,english,Heaps and Priority Queues,5,1.68,none,complexity
+LOG-01960,E10,2025-09-27,4,code_mixed,Trees and BSTs,5,2.43,up,complexity
+LOG-01961,E15,2025-09-22,4,code_mixed,Sorting Algorithms,5,1.85,none,debug
+LOG-01962,E06,2025-09-22,4,code_mixed,Graphs and Traversals,5,2.1,none,conceptual_why
+LOG-01963,E22,2025-09-21,3,english,Hashing,5,1.57,none,complexity
+LOG-01964,E14,2025-10-08,6,romanized_nepali,Sorting Algorithms,5,2.25,none,complexity
+LOG-01965,E11,2025-09-23,4,code_mixed,Dynamic Programming (Intro),5,2.14,none,how_to_implement
+LOG-01966,E03,2025-09-17,3,english,Arrays and Strings,5,1.34,none,how_to_implement
+LOG-01967,E09,2025-09-23,4,english,Graphs and Traversals,5,1.94,up,how_to_implement
+LOG-01968,E16,2025-10-11,6,english,Graphs and Traversals,5,1.58,none,debug
+LOG-01969,E09,2025-10-04,5,code_mixed,Linked Lists,5,1.75,up,how_to_implement
+LOG-01970,E02,2025-09-08,2,english,Hashing,5,1.2,none,debug
+LOG-01971,E15,2025-09-23,4,english,Trees and BSTs,5,1.77,up,how_to_implement
+LOG-01972,E09,2025-09-24,4,english,Arrays and Strings,5,1.4,up,how_to_implement
+LOG-01973,E22,2025-09-02,1,romanized_nepali,Linked Lists,5,2.17,down,debug
+LOG-01974,E18,2025-10-12,6,romanized_nepali,Greedy and Backtracking,5,2.32,up,debug
+LOG-01975,E19,2025-10-11,6,code_mixed,Linked Lists,5,2.28,none,debug
+LOG-01976,E23,2025-09-08,2,romanized_nepali,Hashing,5,1.76,up,conceptual_why
+LOG-01977,E21,2025-09-30,5,code_mixed,Stacks and Queues,5,2.23,up,conceptual_why
+LOG-01978,E10,2025-09-20,3,code_mixed,Trees and BSTs,5,2.38,none,debug
+LOG-01979,E15,2025-09-16,3,english,Greedy and Backtracking,5,2.09,up,debug
+LOG-01980,E08,2025-09-19,3,english,Graphs and Traversals,5,1.64,none,how_to_implement
+LOG-01981,E06,2025-09-04,1,code_mixed,Trees and BSTs,5,1.35,none,how_to_implement
+LOG-01982,E06,2025-10-05,5,code_mixed,Trees and BSTs,5,2.16,none,complexity

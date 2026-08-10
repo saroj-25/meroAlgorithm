@@ -1,0 +1,71 @@
+{
+  "total_chunks": 1252,
+  "english_chunks": 1068,
+  "code_mixed_chunks": 184,
+  "unique_concepts": 143,
+  "mean_tokens": 370.7,
+  "min_tokens": 157,
+  "max_tokens": 471,
+  "per_topic": {
+    "Arrays and Strings": {
+      "english": 112,
+      "code_mixed": 21,
+      "total": 133
+    },
+    "Linked Lists": {
+      "english": 98,
+      "code_mixed": 19,
+      "total": 117
+    },
+    "Stacks and Queues": {
+      "english": 76,
+      "code_mixed": 14,
+      "total": 90
+    },
+    "Trees and BSTs": {
+      "english": 154,
+      "code_mixed": 27,
+      "total": 181
+    },
+    "Heaps and Priority Queues": {
+      "english": 62,
+      "code_mixed": 11,
+      "total": 73
+    },
+    "Hashing": {
+      "english": 71,
+      "code_mixed": 13,
+      "total": 84
+    },
+    "Graphs and Traversals": {
+      "english": 139,
+      "code_mixed": 24,
+      "total": 163
+    },
+    "Sorting Algorithms": {
+      "english": 118,
+      "code_mixed": 18,
+      "total": 136
+    },
+    "Searching Algorithms": {
+      "english": 57,
+      "code_mixed": 9,
+      "total": 66
+    },
+    "Dynamic Programming (Intro)": {
+      "english": 94,
+      "code_mixed": 16,
+      "total": 110
+    },
+    "Greedy and Backtracking": {
+      "english": 66,
+      "code_mixed": 12,
+      "total": 78
+    },
+    "Complexity and Notation": {
+      "english": 21,
+      "code_mixed": 0,
+      "total": 21
+    }
+  }
+}

@@ -1,0 +1,443 @@
+student_id,item_id,item_text,subscale,target_mean,response
+E01,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,5
+E01,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,5
+E01,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,4
+E01,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,4
+E01,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,4
+E01,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,4
+E01,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,4
+E01,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,4
+E01,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,4
+E01,Q10,The conversation felt natural,interaction_quality,4.3,4
+E01,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,4
+E01,Q12,The interface was easy to use,interaction_quality,4.35,5
+E01,Q13,The source previews were useful,interaction_quality,4.32,5
+E01,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,4
+E01,Q15,I felt more confident solving problems,learning_impact,4.4,5
+E01,Q16,I asked questions I would not have asked in class,learning_impact,4.42,4
+E01,Q17,I would like to use it in other courses,learning_impact,4.29,4
+E02,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,4
+E02,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,4
+E02,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,4
+E02,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,5
+E02,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,4
+E02,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,5
+E02,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,5
+E02,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,3
+E02,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,4
+E02,Q10,The conversation felt natural,interaction_quality,4.3,4
+E02,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,4
+E02,Q12,The interface was easy to use,interaction_quality,4.35,4
+E02,Q13,The source previews were useful,interaction_quality,4.32,5
+E02,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,5
+E02,Q15,I felt more confident solving problems,learning_impact,4.4,4
+E02,Q16,I asked questions I would not have asked in class,learning_impact,4.42,4
+E02,Q17,I would like to use it in other courses,learning_impact,4.29,5
+E03,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,5
+E03,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,3
+E03,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,5
+E03,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,5
+E03,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,5
+E03,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,4
+E03,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,4
+E03,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,4
+E03,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,5
+E03,Q10,The conversation felt natural,interaction_quality,4.3,4
+E03,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,5
+E03,Q12,The interface was easy to use,interaction_quality,4.35,4
+E03,Q13,The source previews were useful,interaction_quality,4.32,4
+E03,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,4
+E03,Q15,I felt more confident solving problems,learning_impact,4.4,4
+E03,Q16,I asked questions I would not have asked in class,learning_impact,4.42,5
+E03,Q17,I would like to use it in other courses,learning_impact,4.29,4
+E04,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,5
+E04,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,5
+E04,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,4
+E04,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,4
+E04,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,4
+E04,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,4
+E04,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,4
+E04,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,4
+E04,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,4
+E04,Q10,The conversation felt natural,interaction_quality,4.3,4
+E04,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,3
+E04,Q12,The interface was easy to use,interaction_quality,4.35,4
+E04,Q13,The source previews were useful,interaction_quality,4.32,5
+E04,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,4
+E04,Q15,I felt more confident solving problems,learning_impact,4.4,4
+E04,Q16,I asked questions I would not have asked in class,learning_impact,4.42,4
+E04,Q17,I would like to use it in other courses,learning_impact,4.29,4
+E05,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,5
+E05,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,4
+E05,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,5
+E05,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,4
+E05,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,5
+E05,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,4
+E05,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,4
+E05,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,5
+E05,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,4
+E05,Q10,The conversation felt natural,interaction_quality,4.3,5
+E05,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,4
+E05,Q12,The interface was easy to use,interaction_quality,4.35,4
+E05,Q13,The source previews were useful,interaction_quality,4.32,4
+E05,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,4
+E05,Q15,I felt more confident solving problems,learning_impact,4.4,5
+E05,Q16,I asked questions I would not have asked in class,learning_impact,4.42,4
+E05,Q17,I would like to use it in other courses,learning_impact,4.29,4
+E06,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,4
+E06,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,5
+E06,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,4
+E06,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,3
+E06,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,4
+E06,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,5
+E06,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,3
+E06,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,4
+E06,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,4
+E06,Q10,The conversation felt natural,interaction_quality,4.3,4
+E06,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,4
+E06,Q12,The interface was easy to use,interaction_quality,4.35,4
+E06,Q13,The source previews were useful,interaction_quality,4.32,4
+E06,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,5
+E06,Q15,I felt more confident solving problems,learning_impact,4.4,4
+E06,Q16,I asked questions I would not have asked in class,learning_impact,4.42,5
+E06,Q17,I would like to use it in other courses,learning_impact,4.29,4
+E07,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,4
+E07,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,3
+E07,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,5
+E07,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,4
+E07,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,4
+E07,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,4
+E07,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,4
+E07,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,4
+E07,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,5
+E07,Q10,The conversation felt natural,interaction_quality,4.3,4
+E07,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,3
+E07,Q12,The interface was easy to use,interaction_quality,4.35,4
+E07,Q13,The source previews were useful,interaction_quality,4.32,4
+E07,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,5
+E07,Q15,I felt more confident solving problems,learning_impact,4.4,5
+E07,Q16,I asked questions I would not have asked in class,learning_impact,4.42,4
+E07,Q17,I would like to use it in other courses,learning_impact,4.29,4
+E08,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,4
+E08,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,5
+E08,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,3
+E08,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,5
+E08,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,4
+E08,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,5
+E08,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,4
+E08,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,4
+E08,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,3
+E08,Q10,The conversation felt natural,interaction_quality,4.3,4
+E08,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,5
+E08,Q12,The interface was easy to use,interaction_quality,4.35,5
+E08,Q13,The source previews were useful,interaction_quality,4.32,4
+E08,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,4
+E08,Q15,I felt more confident solving problems,learning_impact,4.4,3
+E08,Q16,I asked questions I would not have asked in class,learning_impact,4.42,4
+E08,Q17,I would like to use it in other courses,learning_impact,4.29,4
+E09,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,4
+E09,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,4
+E09,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,4
+E09,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,4
+E09,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,4
+E09,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,5
+E09,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,5
+E09,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,4
+E09,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,4
+E09,Q10,The conversation felt natural,interaction_quality,4.3,4
+E09,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,4
+E09,Q12,The interface was easy to use,interaction_quality,4.35,4
+E09,Q13,The source previews were useful,interaction_quality,4.32,4
+E09,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,4
+E09,Q15,I felt more confident solving problems,learning_impact,4.4,5
+E09,Q16,I asked questions I would not have asked in class,learning_impact,4.42,4
+E09,Q17,I would like to use it in other courses,learning_impact,4.29,4
+E10,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,4
+E10,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,4
+E10,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,4
+E10,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,4
+E10,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,4
+E10,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,5
+E10,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,4
+E10,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,3
+E10,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,4
+E10,Q10,The conversation felt natural,interaction_quality,4.3,4
+E10,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,4
+E10,Q12,The interface was easy to use,interaction_quality,4.35,4
+E10,Q13,The source previews were useful,interaction_quality,4.32,3
+E10,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,5
+E10,Q15,I felt more confident solving problems,learning_impact,4.4,4
+E10,Q16,I asked questions I would not have asked in class,learning_impact,4.42,4
+E10,Q17,I would like to use it in other courses,learning_impact,4.29,4
+E11,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,4
+E11,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,4
+E11,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,4
+E11,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,4
+E11,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,4
+E11,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,4
+E11,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,4
+E11,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,4
+E11,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,4
+E11,Q10,The conversation felt natural,interaction_quality,4.3,4
+E11,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,4
+E11,Q12,The interface was easy to use,interaction_quality,4.35,3
+E11,Q13,The source previews were useful,interaction_quality,4.32,5
+E11,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,5
+E11,Q15,I felt more confident solving problems,learning_impact,4.4,5
+E11,Q16,I asked questions I would not have asked in class,learning_impact,4.42,5
+E11,Q17,I would like to use it in other courses,learning_impact,4.29,4
+E12,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,4
+E12,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,5
+E12,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,5
+E12,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,4
+E12,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,3
+E12,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,5
+E12,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,5
+E12,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,5
+E12,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,4
+E12,Q10,The conversation felt natural,interaction_quality,4.3,3
+E12,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,4
+E12,Q12,The interface was easy to use,interaction_quality,4.35,4
+E12,Q13,The source previews were useful,interaction_quality,4.32,3
+E12,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,5
+E12,Q15,I felt more confident solving problems,learning_impact,4.4,4
+E12,Q16,I asked questions I would not have asked in class,learning_impact,4.42,4
+E12,Q17,I would like to use it in other courses,learning_impact,4.29,4
+E13,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,5
+E13,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,4
+E13,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,4
+E13,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,5
+E13,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,5
+E13,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,4
+E13,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,4
+E13,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,4
+E13,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,4
+E13,Q10,The conversation felt natural,interaction_quality,4.3,5
+E13,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,4
+E13,Q12,The interface was easy to use,interaction_quality,4.35,4
+E13,Q13,The source previews were useful,interaction_quality,4.32,5
+E13,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,4
+E13,Q15,I felt more confident solving problems,learning_impact,4.4,4
+E13,Q16,I asked questions I would not have asked in class,learning_impact,4.42,5
+E13,Q17,I would like to use it in other courses,learning_impact,4.29,5
+E14,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,5
+E14,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,5
+E14,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,4
+E14,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,5
+E14,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,4
+E14,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,4
+E14,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,5
+E14,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,4
+E14,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,4
+E14,Q10,The conversation felt natural,interaction_quality,4.3,3
+E14,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,4
+E14,Q12,The interface was easy to use,interaction_quality,4.35,4
+E14,Q13,The source previews were useful,interaction_quality,4.32,4
+E14,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,3
+E14,Q15,I felt more confident solving problems,learning_impact,4.4,4
+E14,Q16,I asked questions I would not have asked in class,learning_impact,4.42,5
+E14,Q17,I would like to use it in other courses,learning_impact,4.29,4
+E15,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,4
+E15,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,4
+E15,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,5
+E15,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,3
+E15,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,4
+E15,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,5
+E15,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,5
+E15,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,5
+E15,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,5
+E15,Q10,The conversation felt natural,interaction_quality,4.3,4
+E15,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,4
+E15,Q12,The interface was easy to use,interaction_quality,4.35,5
+E15,Q13,The source previews were useful,interaction_quality,4.32,4
+E15,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,4
+E15,Q15,I felt more confident solving problems,learning_impact,4.4,5
+E15,Q16,I asked questions I would not have asked in class,learning_impact,4.42,5
+E15,Q17,I would like to use it in other courses,learning_impact,4.29,4
+E16,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,5
+E16,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,5
+E16,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,5
+E16,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,4
+E16,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,5
+E16,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,4
+E16,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,4
+E16,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,4
+E16,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,5
+E16,Q10,The conversation felt natural,interaction_quality,4.3,5
+E16,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,3
+E16,Q12,The interface was easy to use,interaction_quality,4.35,4
+E16,Q13,The source previews were useful,interaction_quality,4.32,5
+E16,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,4
+E16,Q15,I felt more confident solving problems,learning_impact,4.4,4
+E16,Q16,I asked questions I would not have asked in class,learning_impact,4.42,5
+E16,Q17,I would like to use it in other courses,learning_impact,4.29,5
+E17,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,5
+E17,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,4
+E17,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,5
+E17,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,4
+E17,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,5
+E17,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,4
+E17,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,4
+E17,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,4
+E17,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,4
+E17,Q10,The conversation felt natural,interaction_quality,4.3,5
+E17,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,4
+E17,Q12,The interface was easy to use,interaction_quality,4.35,4
+E17,Q13,The source previews were useful,interaction_quality,4.32,4
+E17,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,4
+E17,Q15,I felt more confident solving problems,learning_impact,4.4,5
+E17,Q16,I asked questions I would not have asked in class,learning_impact,4.42,4
+E17,Q17,I would like to use it in other courses,learning_impact,4.29,4
+E18,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,5
+E18,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,5
+E18,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,5
+E18,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,4
+E18,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,4
+E18,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,5
+E18,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,4
+E18,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,4
+E18,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,4
+E18,Q10,The conversation felt natural,interaction_quality,4.3,5
+E18,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,3
+E18,Q12,The interface was easy to use,interaction_quality,4.35,3
+E18,Q13,The source previews were useful,interaction_quality,4.32,4
+E18,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,5
+E18,Q15,I felt more confident solving problems,learning_impact,4.4,4
+E18,Q16,I asked questions I would not have asked in class,learning_impact,4.42,4
+E18,Q17,I would like to use it in other courses,learning_impact,4.29,4
+E19,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,5
+E19,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,4
+E19,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,5
+E19,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,4
+E19,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,4
+E19,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,4
+E19,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,5
+E19,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,4
+E19,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,4
+E19,Q10,The conversation felt natural,interaction_quality,4.3,4
+E19,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,4
+E19,Q12,The interface was easy to use,interaction_quality,4.35,5
+E19,Q13,The source previews were useful,interaction_quality,4.32,3
+E19,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,4
+E19,Q15,I felt more confident solving problems,learning_impact,4.4,4
+E19,Q16,I asked questions I would not have asked in class,learning_impact,4.42,5
+E19,Q17,I would like to use it in other courses,learning_impact,4.29,5
+E20,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,4
+E20,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,5
+E20,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,5
+E20,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,4
+E20,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,4
+E20,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,5
+E20,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,5
+E20,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,5
+E20,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,4
+E20,Q10,The conversation felt natural,interaction_quality,4.3,5
+E20,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,5
+E20,Q12,The interface was easy to use,interaction_quality,4.35,5
+E20,Q13,The source previews were useful,interaction_quality,4.32,5
+E20,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,3
+E20,Q15,I felt more confident solving problems,learning_impact,4.4,5
+E20,Q16,I asked questions I would not have asked in class,learning_impact,4.42,4
+E20,Q17,I would like to use it in other courses,learning_impact,4.29,5
+E21,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,5
+E21,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,4
+E21,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,3
+E21,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,5
+E21,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,4
+E21,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,4
+E21,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,4
+E21,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,4
+E21,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,3
+E21,Q10,The conversation felt natural,interaction_quality,4.3,5
+E21,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,4
+E21,Q12,The interface was easy to use,interaction_quality,4.35,5
+E21,Q13,The source previews were useful,interaction_quality,4.32,5
+E21,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,4
+E21,Q15,I felt more confident solving problems,learning_impact,4.4,3
+E21,Q16,I asked questions I would not have asked in class,learning_impact,4.42,4
+E21,Q17,I would like to use it in other courses,learning_impact,4.29,4
+E22,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,4
+E22,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,4
+E22,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,3
+E22,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,4
+E22,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,3
+E22,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,5
+E22,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,4
+E22,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,4
+E22,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,4
+E22,Q10,The conversation felt natural,interaction_quality,4.3,4
+E22,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,4
+E22,Q12,The interface was easy to use,interaction_quality,4.35,3
+E22,Q13,The source previews were useful,interaction_quality,4.32,4
+E22,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,5
+E22,Q15,I felt more confident solving problems,learning_impact,4.4,5
+E22,Q16,I asked questions I would not have asked in class,learning_impact,4.42,5
+E22,Q17,I would like to use it in other courses,learning_impact,4.29,5
+E23,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,4
+E23,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,5
+E23,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,4
+E23,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,4
+E23,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,4
+E23,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,4
+E23,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,4
+E23,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,4
+E23,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,4
+E23,Q10,The conversation felt natural,interaction_quality,4.3,4
+E23,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,5
+E23,Q12,The interface was easy to use,interaction_quality,4.35,4
+E23,Q13,The source previews were useful,interaction_quality,4.32,4
+E23,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,5
+E23,Q15,I felt more confident solving problems,learning_impact,4.4,5
+E23,Q16,I asked questions I would not have asked in class,learning_impact,4.42,4
+E23,Q17,I would like to use it in other courses,learning_impact,4.29,4
+E24,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,5
+E24,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,5
+E24,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,4
+E24,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,5
+E24,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,4
+E24,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,4
+E24,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,4
+E24,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,5
+E24,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,3
+E24,Q10,The conversation felt natural,interaction_quality,4.3,4
+E24,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,4
+E24,Q12,The interface was easy to use,interaction_quality,4.35,5
+E24,Q13,The source previews were useful,interaction_quality,4.32,5
+E24,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,5
+E24,Q15,I felt more confident solving problems,learning_impact,4.4,4
+E24,Q16,I asked questions I would not have asked in class,learning_impact,4.42,5
+E24,Q17,I would like to use it in other courses,learning_impact,4.29,4
+E25,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,4
+E25,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,5
+E25,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,4
+E25,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,3
+E25,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,4
+E25,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,4
+E25,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,4
+E25,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,4
+E25,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,4
+E25,Q10,The conversation felt natural,interaction_quality,4.3,5
+E25,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,4
+E25,Q12,The interface was easy to use,interaction_quality,4.35,4
+E25,Q13,The source previews were useful,interaction_quality,4.32,4
+E25,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,4
+E25,Q15,I felt more confident solving problems,learning_impact,4.4,4
+E25,Q16,I asked questions I would not have asked in class,learning_impact,4.42,5
+E25,Q17,I would like to use it in other courses,learning_impact,4.29,4
+E26,Q01,The chatbot's explanations helped me understand topics I struggled with in lectures,pedagogical_helpfulness,4.54,3
+E26,Q02,The explanations were at the right level of detail,pedagogical_helpfulness,4.4,5
+E26,Q03,The chatbot broke problems into understandable steps,pedagogical_helpfulness,4.35,4
+E26,Q04,The follow-up questions made me think,pedagogical_helpfulness,4.31,5
+E26,Q05,The chatbot helped me prepare for assessments,pedagogical_helpfulness,4.3,4
+E26,Q06,The chatbot understood my mixed-language questions,linguistic_appropriateness,4.42,5
+E26,Q07,It replied in the same language mix I used,linguistic_appropriateness,4.28,4
+E26,Q08,Technical terms were used in a way I could follow,linguistic_appropriateness,4.24,5
+E26,Q09,I could ask questions the way I actually speak,linguistic_appropriateness,4.14,4
+E26,Q10,The conversation felt natural,interaction_quality,4.3,5
+E26,Q11,The chatbot's response time felt fast enough,interaction_quality,3.87,4
+E26,Q12,The interface was easy to use,interaction_quality,4.35,4
+E26,Q13,The source previews were useful,interaction_quality,4.32,4
+E26,Q14,Using the chatbot improved my understanding of DSA,learning_impact,4.45,4
+E26,Q15,I felt more confident solving problems,learning_impact,4.4,5
+E26,Q16,I asked questions I would not have asked in class,learning_impact,4.42,4
+E26,Q17,I would like to use it in other courses,learning_impact,4.29,5

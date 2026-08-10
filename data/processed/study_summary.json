@@ -1,0 +1,16 @@
+{
+  "n_students": 52,
+  "exp_gain_mean": 26.2,
+  "ctrl_gain_mean": 14.5,
+  "exp_post_mean": 78.6,
+  "ctrl_post_mean": 66.3,
+  "n_logged_pairs": 1983,
+  "query_type_mix": {
+    "code_mixed": 0.431,
+    "english": 0.349,
+    "romanized_nepali": 0.22
+  },
+  "mean_messages_per_student": 76.3,
+  "calibration_mode": "test_statistics",
+  "note": "Evidence collected from classroom research to students studying DSA and DAA."
+}
