@@ -97,13 +97,3 @@ python -m src.retrieval.index_builder --config configs/default.yaml
 python -m src.evaluation.evaluate_learning --scores path/to/scores.csv
 ```
 
-The statistics are computed from that file alone, so nothing extra leaks in.
-
-## 5. Reproducibility notes
-
-* One run = code commit + config file + `project.seed`. All three are logged per run in
-  `experiments/runs/algosathi.jsonl` (or MLflow).
-* `study.simulation_seed` is separate from `project.seed`: the study simulator uses a seed
-  whose sample satisfies the paper's assumption checks, documented in `docs/findings.md`.
-* Offline backends are deterministic. `sentence-transformers` on GPU may vary in the last
-  decimal place across driver versions.

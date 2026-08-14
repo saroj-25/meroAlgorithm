@@ -1,4 +1,4 @@
-# Retrieval ablation grid (reproduces Table 3 of the paper).
+# Retrieval ablation grid 
 # Each retriever configuration is evaluated on each query-language slice.
 inherit: configs/default.yaml
 

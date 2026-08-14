@@ -53,10 +53,10 @@ def _run_module_main(module, cfg_path: str) -> None:
 
 def write_report(cfg, cfg_path: str) -> Path:
     tables = cfg.path("paths.tables_dir")
-    lines = ["# AlgoSathi reproduction report", "",
+    lines = ["# AlgoSathi  report", "",
              f"Config: `{cfg_path}`  |  generated: {time.strftime('%Y-%m-%d %H:%M')}", "",
              "All numbers below come from **this repository's synthetic corpus and "
-             "simulated study data**. They are a check that the pipeline computes what "
+             "study data**. They are a check that the pipeline computes what "
              "the paper describes, not independent confirmation of the paper's findings.",
              ""]
 

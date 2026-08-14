@@ -9,8 +9,7 @@ venv/
 .coverage
 
 # Generated data & artifacts (regenerate with `make data`)
-data/raw/*
-data/processed/*
+
 !data/**/.gitkeep
 checkpoints/*
 !checkpoints/.gitkeep
